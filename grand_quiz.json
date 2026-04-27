@@ -1760,6 +1760,2074 @@
     "answer": "Members must offer equivalent trade concessions to each other"
   },
   {
+    "question": "The main objective of GATT was to:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Promote free trade by reducing tariffs and other trade barriers"
+      },
+      {
+        "label": "b",
+        "text": "Promote military alliances"
+      },
+      {
+        "label": "c",
+        "text": "Control global inflation"
+      },
+      {
+        "label": "d",
+        "text": "Regulate foreign direct investment"
+      }
+    ],
+    "answer": "Promote free trade by reducing tariffs and other trade barriers"
+  },
+  {
+    "question": "The consultation phase in WTO dispute settlement is designed to:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Allow parties to resolve disputes through negotiation before litigation"
+      },
+      {
+        "label": "b",
+        "text": "Suspend trade concessions"
+      },
+      {
+        "label": "c",
+        "text": "Impose immediate sanctions"
+      },
+      {
+        "label": "d",
+        "text": "Create new trade laws"
+      }
+    ],
+    "answer": "Allow parties to resolve disputes through negotiation before litigation"
+  },
+  {
+    "question": "The Dispute Settlement Body (DSB) of WTO ensures:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Arbitration outside trade framework"
+      },
+      {
+        "label": "b",
+        "text": "Monetary compensation"
+      },
+      {
+        "label": "c",
+        "text": "Binding settlement of trade disputes"
+      },
+      {
+        "label": "d",
+        "text": "Political mediation"
+      }
+    ],
+    "answer": "Binding settlement of trade disputes"
+  },
+  {
+    "question": "The Tokyo Round (1973\u20131979) emphasized:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Elimination of quantitative restrictions"
+      },
+      {
+        "label": "b",
+        "text": "All of the above"
+      },
+      {
+        "label": "c",
+        "text": "Dispute settlement"
+      },
+      {
+        "label": "d",
+        "text": "Reduction of tariffs on manufactured goods"
+      }
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "How has globalization affected the Indian economy?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Increased foreign investment and export opportunities"
+      },
+      {
+        "label": "b",
+        "text": "Reduced foreign trade"
+      },
+      {
+        "label": "c",
+        "text": "Made Indian currency global"
+      },
+      {
+        "label": "d",
+        "text": "Closed Indian markets to global competition"
+      }
+    ],
+    "answer": "Increased foreign investment and export opportunities"
+  },
+  {
+    "question": "The TRIMS Agreement primarily aims to:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Eliminate investment measures that distort trade"
+      },
+      {
+        "label": "b",
+        "text": "Control exchange rates"
+      },
+      {
+        "label": "c",
+        "text": "Encourage import substitution policies"
+      },
+      {
+        "label": "d",
+        "text": "Manage capital accounts"
+      }
+    ],
+    "answer": "Eliminate investment measures that distort trade"
+  },
+  {
+    "question": "The combined framework of GATT, TRIPS, and TRIMS under WTO promotes:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Trade restrictions for developing nations"
+      },
+      {
+        "label": "b",
+        "text": "Regional isolationism"
+      },
+      {
+        "label": "c",
+        "text": "Liberalized global trade, fair competition, and IP/investment regulation"
+      },
+      {
+        "label": "d",
+        "text": "Complete protectionism"
+      }
+    ],
+    "answer": "Liberalized global trade, fair competition, and IP/investment regulation"
+  },
+  {
+    "question": "How has the WTO contributed to globalization?",
+    "options": [
+      {
+        "label": "a",
+        "text": "By creating trade barriers"
+      },
+      {
+        "label": "b",
+        "text": "By encouraging isolationist policies"
+      },
+      {
+        "label": "c",
+        "text": "By reducing foreign investment opportunities"
+      },
+      {
+        "label": "d",
+        "text": "By facilitating free and fair global trade"
+      }
+    ],
+    "answer": "By facilitating free and fair global trade"
+  },
+  {
+    "question": "Globalization makes the world:",
+    "options": [
+      {
+        "label": "a",
+        "text": "More accessible to everyone"
+      },
+      {
+        "label": "b",
+        "text": "Less accessible to everyone"
+      },
+      {
+        "label": "c",
+        "text": "Both A and B"
+      },
+      {
+        "label": "d",
+        "text": "Only B"
+      }
+    ],
+    "answer": "More accessible to everyone"
+  },
+  {
+    "question": "Developing countries under TRIMS were allowed:",
+    "options": [
+      {
+        "label": "a",
+        "text": "To maintain permanent restrictions on imports"
+      },
+      {
+        "label": "b",
+        "text": "To increase tariffs on imports"
+      },
+      {
+        "label": "c",
+        "text": "Transitional periods to eliminate inconsistent measures"
+      },
+      {
+        "label": "d",
+        "text": "To opt out of GATT obligations"
+      }
+    ],
+    "answer": "Transitional periods to eliminate inconsistent measures"
+  },
+  {
+    "question": "GATS is a treaty under which organization?",
+    "options": [
+      {
+        "label": "a",
+        "text": "World Bank"
+      },
+      {
+        "label": "b",
+        "text": "IMF"
+      },
+      {
+        "label": "c",
+        "text": "United Nations"
+      },
+      {
+        "label": "d",
+        "text": "World Trade Organization (WTO)"
+      }
+    ],
+    "answer": "World Trade Organization (WTO)"
+  },
+  {
+    "question": "One major benefit of globalization for developing countries is:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Increased protectionist barriers"
+      },
+      {
+        "label": "b",
+        "text": "Access to global markets and advanced technologies"
+      },
+      {
+        "label": "c",
+        "text": "Decline in export opportunities"
+      },
+      {
+        "label": "d",
+        "text": "Reduction in employment opportunities"
+      }
+    ],
+    "answer": "Access to global markets and advanced technologies"
+  },
+  {
+    "question": "A key advantage of WTO membership for developing countries is:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Freedom from international agreements"
+      },
+      {
+        "label": "b",
+        "text": "Immunity from tariff changes"
+      },
+      {
+        "label": "c",
+        "text": "Guaranteed access to developed markets under predictable trade rules"
+      },
+      {
+        "label": "d",
+        "text": "Automatic export subsidies"
+      }
+    ],
+    "answer": "Guaranteed access to developed markets under predictable trade rules"
+  },
+  {
+    "question": "Trade liberalization is most closely associated with:",
+    "options": [
+      {
+        "label": "a",
+        "text": "De-globalization"
+      },
+      {
+        "label": "b",
+        "text": "Protectionism"
+      },
+      {
+        "label": "c",
+        "text": "Isolationism"
+      },
+      {
+        "label": "d",
+        "text": "Free trade"
+      }
+    ],
+    "answer": "Free trade"
+  },
+  {
+    "question": "The Kennedy Round of GATT negotiations primarily addressed:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Non-tariff barriers and anti-dumping measures"
+      },
+      {
+        "label": "b",
+        "text": "Agricultural subsidies"
+      },
+      {
+        "label": "c",
+        "text": "Service sector liberalization"
+      },
+      {
+        "label": "d",
+        "text": "Intellectual property laws"
+      }
+    ],
+    "answer": "Non-tariff barriers and anti-dumping measures"
+  },
+  {
+    "question": "Globalization has primarily influenced developing countries by:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Increasing integration into global markets and competition"
+      },
+      {
+        "label": "b",
+        "text": "Reducing access to international trade"
+      },
+      {
+        "label": "c",
+        "text": "Decreasing technology transfer opportunities"
+      },
+      {
+        "label": "d",
+        "text": "Limiting foreign investments"
+      }
+    ],
+    "answer": "Increasing integration into global markets and competition"
+  },
+  {
+    "question": "One key objective of deregulating financial markets is to:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Restrict foreign investment"
+      },
+      {
+        "label": "b",
+        "text": "Increase market efficiency and competitiveness"
+      },
+      {
+        "label": "c",
+        "text": "Reduce competition among banks"
+      },
+      {
+        "label": "d",
+        "text": "Limit consumer choice"
+      }
+    ],
+    "answer": "Increase market efficiency and competitiveness"
+  },
+  {
+    "question": "The TRIPS Council functions under the WTO to:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Grant copyrights"
+      },
+      {
+        "label": "b",
+        "text": "Monitor implementation and compliance of IP standards"
+      },
+      {
+        "label": "c",
+        "text": "Issue patents directly"
+      },
+      {
+        "label": "d",
+        "text": "Conduct financial audits"
+      }
+    ],
+    "answer": "Monitor implementation and compliance of IP standards"
+  },
+  {
+    "question": "Developing countries rely on WTO\u2019s special and differential treatment (SDT) because it:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Provides flexibility in implementing trade commitments"
+      },
+      {
+        "label": "b",
+        "text": "Restricts access to dispute mechanisms"
+      },
+      {
+        "label": "c",
+        "text": "Imposes stricter obligations"
+      },
+      {
+        "label": "d",
+        "text": "Eliminates all tariffs automatically"
+      }
+    ],
+    "answer": "Provides flexibility in implementing trade commitments"
+  },
+  {
+    "question": "Economic globalization refers to:",
+    "options": [
+      {
+        "label": "a",
+        "text": "International migration of people"
+      },
+      {
+        "label": "b",
+        "text": "Global spread of diseases"
+      },
+      {
+        "label": "c",
+        "text": "Promotion of local business over foreign investments"
+      },
+      {
+        "label": "d",
+        "text": "Integration of national economies through trade, FDI, capital flow, and technology"
+      }
+    ],
+    "answer": "Integration of national economies through trade, FDI, capital flow, and technology"
+  },
+  {
+    "question": "The WTO membership process emphasizes:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Transparent negotiation of trade commitments"
+      },
+      {
+        "label": "b",
+        "text": "Temporary exemption from trade rules"
+      },
+      {
+        "label": "c",
+        "text": "Equal obligations for all members, regardless of economic status"
+      },
+      {
+        "label": "d",
+        "text": "Automatic access to subsidies"
+      }
+    ],
+    "answer": "Transparent negotiation of trade commitments"
+  },
+  {
+    "question": "One drawback of rapid technological advancement is:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Decline in living standards"
+      },
+      {
+        "label": "b",
+        "text": "Lack of innovation"
+      },
+      {
+        "label": "c",
+        "text": "Increase in paper-based communication"
+      },
+      {
+        "label": "d",
+        "text": "Increased unemployment due to automation"
+      }
+    ],
+    "answer": "Increased unemployment due to automation"
+  },
+  {
+    "question": "GATT was replaced by the World Trade Organization (WTO) in:",
+    "options": [
+      {
+        "label": "a",
+        "text": "1996"
+      },
+      {
+        "label": "b",
+        "text": "1993"
+      },
+      {
+        "label": "c",
+        "text": "1994"
+      },
+      {
+        "label": "d",
+        "text": "1995"
+      }
+    ],
+    "answer": "1995"
+  },
+  {
+    "question": "Deregulation of financial markets generally leads to:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Limited access to credit"
+      },
+      {
+        "label": "b",
+        "text": "Decreased innovation in financial products"
+      },
+      {
+        "label": "c",
+        "text": "More competition and product variety"
+      },
+      {
+        "label": "d",
+        "text": "Reduced foreign participation"
+      }
+    ],
+    "answer": "More competition and product variety"
+  },
+  {
+    "question": "The Reciprocity principle in GATT negotiations implies:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Equal GDP levels"
+      },
+      {
+        "label": "b",
+        "text": "Political reciprocity"
+      },
+      {
+        "label": "c",
+        "text": "Mutual exchange of equivalent tariff concessions"
+      },
+      {
+        "label": "d",
+        "text": "Equal voting rights"
+      }
+    ],
+    "answer": "Mutual exchange of equivalent tariff concessions"
+  },
+  {
+    "question": "The withdrawal of a country from the WTO would likely result in:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Increased access to international trade rules"
+      },
+      {
+        "label": "b",
+        "text": "Loss of participation in global trade negotiations"
+      },
+      {
+        "label": "c",
+        "text": "Automatic joining of regional trade blocs"
+      },
+      {
+        "label": "d",
+        "text": "Enhanced economic benefits"
+      }
+    ],
+    "answer": "Loss of participation in global trade negotiations"
+  },
+  {
+    "question": "The primary focus of TRIMS is to:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Promote tariff escalation"
+      },
+      {
+        "label": "b",
+        "text": "Align investment measures with principles of non-discrimination"
+      },
+      {
+        "label": "c",
+        "text": "Restrict FDI inflows"
+      },
+      {
+        "label": "d",
+        "text": "Regulate patent licensing"
+      }
+    ],
+    "answer": "Align investment measures with principles of non-discrimination"
+  },
+  {
+    "question": "The Uruguay Round (1986\u20131994) was significant because it:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Focused only on tariff reductions"
+      },
+      {
+        "label": "b",
+        "text": "Expanded GATT to include services and intellectual property"
+      },
+      {
+        "label": "c",
+        "text": "Replaced WTO with GATT"
+      },
+      {
+        "label": "d",
+        "text": "Created the International Monetary Fund"
+      }
+    ],
+    "answer": "Expanded GATT to include services and intellectual property"
+  },
+  {
+    "question": "Due to globalization, many companies:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Avoid foreign investment"
+      },
+      {
+        "label": "b",
+        "text": "Operate in multiple countries (Multinational Corporations)"
+      },
+      {
+        "label": "c",
+        "text": "Stop exporting goods"
+      },
+      {
+        "label": "d",
+        "text": "Have become local-only businesses"
+      }
+    ],
+    "answer": "Operate in multiple countries (Multinational Corporations)"
+  },
+  {
+    "question": "Political globalization means:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Collapse of international organizations"
+      },
+      {
+        "label": "b",
+        "text": "Local control over global matters"
+      },
+      {
+        "label": "c",
+        "text": "Increased influence of international organizations and policies on national governance"
+      },
+      {
+        "label": "d",
+        "text": "Reduction in international diplomacy"
+      }
+    ],
+    "answer": "Increased influence of international organizations and policies on national governance"
+  },
+  {
+    "question": "The introduction of high-speed trains (e.g., bullet trains) is an example of:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Decline in technology"
+      },
+      {
+        "label": "b",
+        "text": "Stagnation in transportation systems"
+      },
+      {
+        "label": "c",
+        "text": "Traditional mobility systems"
+      },
+      {
+        "label": "d",
+        "text": "Innovation in modern transport"
+      }
+    ],
+    "answer": "Innovation in modern transport"
+  },
+  {
+    "question": "Cultural globalization may lead to:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Cultural diversity and revival"
+      },
+      {
+        "label": "b",
+        "text": "Reduced access to global media"
+      },
+      {
+        "label": "c",
+        "text": "Preservation of indigenous cultures"
+      },
+      {
+        "label": "d",
+        "text": "Loss of traditional values and cultural homogenization"
+      }
+    ],
+    "answer": "Loss of traditional values and cultural homogenization"
+  },
+  {
+    "question": "One major function of WTO is to:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Facilitate trade negotiations and enforce agreements"
+      },
+      {
+        "label": "b",
+        "text": "Regulate labor migration"
+      },
+      {
+        "label": "c",
+        "text": "Promote protectionism"
+      },
+      {
+        "label": "d",
+        "text": "Set exchange rates"
+      }
+    ],
+    "answer": "Facilitate trade negotiations and enforce agreements"
+  },
+  {
+    "question": "GATT was originally signed by how many contracting parties?",
+    "options": [
+      {
+        "label": "a",
+        "text": "12"
+      },
+      {
+        "label": "b",
+        "text": "30"
+      },
+      {
+        "label": "c",
+        "text": "23"
+      },
+      {
+        "label": "d",
+        "text": "48"
+      }
+    ],
+    "answer": "23"
+  },
+  {
+    "question": "A country seeking to join the WTO must:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Be automatically included through UN membership"
+      },
+      {
+        "label": "b",
+        "text": "Negotiate accession terms with existing members"
+      },
+      {
+        "label": "c",
+        "text": "Accept all WTO agreements without reservation"
+      },
+      {
+        "label": "d",
+        "text": "Demonstrate a trade surplus"
+      }
+    ],
+    "answer": "Negotiate accession terms with existing members"
+  },
+  {
+    "question": "How does globalization benefit consumers?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Access to a wider variety of goods at competitive prices"
+      },
+      {
+        "label": "b",
+        "text": "Reduced quality of goods"
+      },
+      {
+        "label": "c",
+        "text": "Limited access to technology"
+      },
+      {
+        "label": "d",
+        "text": "Fewer product choices"
+      }
+    ],
+    "answer": "Access to a wider variety of goods at competitive prices"
+  },
+  {
+    "question": "10. Which of the following is an example of social globalization?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Bilateral defense treaties"
+      },
+      {
+        "label": "b",
+        "text": "Domestic education policies"
+      },
+      {
+        "label": "c",
+        "text": "Internet-based social networks linking people worldwide"
+      },
+      {
+        "label": "d",
+        "text": "WTO trade negotiations"
+      }
+    ],
+    "answer": "Internet-based social networks linking people worldwide"
+  },
+  {
+    "question": "The World Trade Organization (WTO) was officially established on:",
+    "options": [
+      {
+        "label": "a",
+        "text": "January 1, 1995"
+      },
+      {
+        "label": "b",
+        "text": "January 1, 1994"
+      },
+      {
+        "label": "c",
+        "text": "April 15, 1994"
+      },
+      {
+        "label": "d",
+        "text": "December 31, 1994"
+      }
+    ],
+    "answer": "January 1, 1995"
+  },
+  {
+    "question": "One key difference between GATT and WTO is:",
+    "options": [
+      {
+        "label": "a",
+        "text": "WTO only regulates agriculture"
+      },
+      {
+        "label": "b",
+        "text": "GATT was a provisional agreement, while WTO is a permanent organization"
+      },
+      {
+        "label": "c",
+        "text": "GATT included dispute resolution, WTO does not"
+      },
+      {
+        "label": "d",
+        "text": "WTO covers only goods, while GATT covered services"
+      }
+    ],
+    "answer": "GATT was a provisional agreement, while WTO is a permanent organization"
+  },
+  {
+    "question": "An example of a prohibited measure under TRIMS is:",
+    "options": [
+      {
+        "label": "a",
+        "text": "All of the above"
+      },
+      {
+        "label": "b",
+        "text": "Local content requirement"
+      },
+      {
+        "label": "c",
+        "text": "Trade balancing requirement"
+      },
+      {
+        "label": "d",
+        "text": "Export performance incentive"
+      }
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "One of the key objectives of trade liberalization is to:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Increase government revenue from tariffs"
+      },
+      {
+        "label": "b",
+        "text": "Prevent foreign investment"
+      },
+      {
+        "label": "c",
+        "text": "Promote import substitution"
+      },
+      {
+        "label": "d",
+        "text": "Enhance global economic integration"
+      }
+    ],
+    "answer": "Enhance global economic integration"
+  },
+  {
+    "question": "GATT\u2019s tariff reduction system was based on:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Bilateral and multilateral negotiations"
+      },
+      {
+        "label": "b",
+        "text": "Unilateral commitments"
+      },
+      {
+        "label": "c",
+        "text": "Collective bargaining"
+      },
+      {
+        "label": "d",
+        "text": "Regional agreements"
+      }
+    ],
+    "answer": "Bilateral and multilateral negotiations"
+  },
+  {
+    "question": "The primary purpose of GATT was to:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Promote free trade by reducing tariffs and trade barriers"
+      },
+      {
+        "label": "b",
+        "text": "Encourage import substitution policies"
+      },
+      {
+        "label": "c",
+        "text": "Regulate monetary policy"
+      },
+      {
+        "label": "d",
+        "text": "Control foreign exchange rates"
+      }
+    ],
+    "answer": "Promote free trade by reducing tariffs and trade barriers"
+  },
+  {
+    "question": "9. Technological globalization can be best defined as:",
+    "options": [
+      {
+        "label": "a",
+        "text": "The use and spread of technology across the world for innovation and communication"
+      },
+      {
+        "label": "b",
+        "text": "Keeping technology within borders"
+      },
+      {
+        "label": "c",
+        "text": "Only using local knowledge systems"
+      },
+      {
+        "label": "d",
+        "text": "Export of electronics"
+      }
+    ],
+    "answer": "The use and spread of technology across the world for innovation and communication"
+  },
+  {
+    "question": "The World Trade Organization (WTO) assists developing countries primarily by:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Imposing uniform tariff rates"
+      },
+      {
+        "label": "b",
+        "text": "Providing a framework for fair trade and technical assistance"
+      },
+      {
+        "label": "c",
+        "text": "Eliminating agricultural subsidies entirely"
+      },
+      {
+        "label": "d",
+        "text": "Restricting participation in trade negotiations"
+      }
+    ],
+    "answer": "Providing a framework for fair trade and technical assistance"
+  },
+  {
+    "question": "GATT evolved as an alternative to:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Bretton Woods Conference"
+      },
+      {
+        "label": "b",
+        "text": "United Nations Development Programme"
+      },
+      {
+        "label": "c",
+        "text": "International Monetary Fund"
+      },
+      {
+        "label": "d",
+        "text": "Havana Charter and International Trade Organization"
+      }
+    ],
+    "answer": "Havana Charter and International Trade Organization"
+  },
+  {
+    "question": "A key feature distinguishing GATT from WTO is that GATT:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Was a provisional agreement, not an international organization"
+      },
+      {
+        "label": "b",
+        "text": "Covered intellectual property rights"
+      },
+      {
+        "label": "c",
+        "text": "Had a permanent secretariat"
+      },
+      {
+        "label": "d",
+        "text": "Included all areas of trade"
+      }
+    ],
+    "answer": "Was a provisional agreement, not an international organization"
+  },
+  {
+    "question": "A major advantage of WTO membership for developing countries is:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Protection from global competition"
+      },
+      {
+        "label": "b",
+        "text": "Guaranteed trade surplus"
+      },
+      {
+        "label": "c",
+        "text": "Exemption from intellectual property laws"
+      },
+      {
+        "label": "d",
+        "text": "Legal assurance of market access under global trade rules"
+      }
+    ],
+    "answer": "Legal assurance of market access under global trade rules"
+  },
+  {
+    "question": "The scope of TRIMS excludes:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Local content rules"
+      },
+      {
+        "label": "b",
+        "text": "Trade balancing requirements"
+      },
+      {
+        "label": "c",
+        "text": "Investment incentives unrelated to trade"
+      },
+      {
+        "label": "d",
+        "text": "Export performance measures"
+      }
+    ],
+    "answer": "Investment incentives unrelated to trade"
+  },
+  {
+    "question": "The legal foundation for the WTO Dispute Settlement System is provided by:",
+    "options": [
+      {
+        "label": "a",
+        "text": "The Marrakesh Agreement"
+      },
+      {
+        "label": "b",
+        "text": "The GATS Agreement"
+      },
+      {
+        "label": "c",
+        "text": "The TRIPS Agreement"
+      },
+      {
+        "label": "d",
+        "text": "The Dispute Settlement Understanding (DSU)"
+      }
+    ],
+    "answer": "The Dispute Settlement Understanding (DSU)"
+  },
+  {
+    "question": "Globalization has led to which of the following economic outcomes in developing countries?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Decline in knowledge transfer"
+      },
+      {
+        "label": "b",
+        "text": "Decreased FDI inflows"
+      },
+      {
+        "label": "c",
+        "text": "Increased dependence on global value chains"
+      },
+      {
+        "label": "d",
+        "text": "Reduced access to international markets"
+      }
+    ],
+    "answer": "Increased dependence on global value chains"
+  },
+  {
+    "question": "The impact of globalization on employment in developing countries is often characterized by:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Complete dependence on public employment"
+      },
+      {
+        "label": "b",
+        "text": "Decline in productivity and wages"
+      },
+      {
+        "label": "c",
+        "text": "Shift from agriculture to manufacturing and services"
+      },
+      {
+        "label": "d",
+        "text": "Elimination of manufacturing jobs only"
+      }
+    ],
+    "answer": "Shift from agriculture to manufacturing and services"
+  },
+  {
+    "question": "One major benefit of communication technology in education is:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Ban on virtual classrooms"
+      },
+      {
+        "label": "b",
+        "text": "Global access to online learning platforms"
+      },
+      {
+        "label": "c",
+        "text": "Limited access to resources"
+      },
+      {
+        "label": "d",
+        "text": "Higher dropout rates"
+      }
+    ],
+    "answer": "Global access to online learning platforms"
+  },
+  {
+    "question": "The MFN principle is designed to:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Encourage discrimination in trade policies"
+      },
+      {
+        "label": "b",
+        "text": "Promote bilateral trade only"
+      },
+      {
+        "label": "c",
+        "text": "Prevent trade wars"
+      },
+      {
+        "label": "d",
+        "text": "Ensure non-discriminatory trade among WTO members"
+      }
+    ],
+    "answer": "Ensure non-discriminatory trade among WTO members"
+  },
+  {
+    "question": "Globalization\u2019s impact on domestic industries of developing nations often includes:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Protection from foreign competition"
+      },
+      {
+        "label": "b",
+        "text": "Decrease in product diversity"
+      },
+      {
+        "label": "c",
+        "text": "Pressure to improve productivity and innovation"
+      },
+      {
+        "label": "d",
+        "text": "Restriction on technology access"
+      }
+    ],
+    "answer": "Pressure to improve productivity and innovation"
+  },
+  {
+    "question": "The overall effect of globalization on developing countries\u2019 economic sovereignty can be summarized as:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Increased external influence and policy interdependence"
+      },
+      {
+        "label": "b",
+        "text": "Complete withdrawal from global systems"
+      },
+      {
+        "label": "c",
+        "text": "Enhanced ability to control all domestic policies"
+      },
+      {
+        "label": "d",
+        "text": "Unchanged trade governance"
+      }
+    ],
+    "answer": "Increased external influence and policy interdependence"
+  },
+  {
+    "question": "A labor-related disadvantage of globalization is:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Stable and equal wages globally"
+      },
+      {
+        "label": "b",
+        "text": "Improved labor standards worldwide"
+      },
+      {
+        "label": "c",
+        "text": "Job creation in all sectors"
+      },
+      {
+        "label": "d",
+        "text": "Exploitation of cheap labor in developing countries"
+      }
+    ],
+    "answer": "Exploitation of cheap labor in developing countries"
+  },
+  {
+    "question": "The Marrakesh Agreement led to the creation of:",
+    "options": [
+      {
+        "label": "a",
+        "text": "UNCTAD"
+      },
+      {
+        "label": "b",
+        "text": "WTO"
+      },
+      {
+        "label": "c",
+        "text": "IMF"
+      },
+      {
+        "label": "d",
+        "text": "World Bank"
+      }
+    ],
+    "answer": "WTO"
+  },
+  {
+    "question": "One major reason for the increased significance of TNCs is:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Protectionist trade policies"
+      },
+      {
+        "label": "b",
+        "text": "Advancements in transportation and communication technology"
+      },
+      {
+        "label": "c",
+        "text": "Strict labour regulations worldwide"
+      },
+      {
+        "label": "d",
+        "text": "Financial isolation of markets"
+      }
+    ],
+    "answer": "Advancements in transportation and communication technology"
+  },
+  {
+    "question": "Can a country withdraw from the WTO?",
+    "options": [
+      {
+        "label": "a",
+        "text": "No, WTO membership is permanent"
+      },
+      {
+        "label": "b",
+        "text": "Only with the approval of the WTO General Council"
+      },
+      {
+        "label": "c",
+        "text": "Only if sanctioned by the UN"
+      },
+      {
+        "label": "d",
+        "text": "Yes, by formally notifying the WTO and following procedures"
+      }
+    ],
+    "answer": "Yes, by formally notifying the WTO and following procedures"
+  },
+  {
+    "question": "The purpose of TRIPS under WTO is to:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Focus solely on traditional knowledge"
+      },
+      {
+        "label": "b",
+        "text": "Restrict IP enforcement"
+      },
+      {
+        "label": "c",
+        "text": "Promote fair and enforceable global IP protection standards"
+      },
+      {
+        "label": "d",
+        "text": "Eliminate patent systems globally"
+      }
+    ],
+    "answer": "Promote fair and enforceable global IP protection standards"
+  },
+  {
+    "question": "The Doha Development Agenda under WTO primarily focuses on:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Addressing trade and development needs of developing countries"
+      },
+      {
+        "label": "b",
+        "text": "Promoting export restrictions"
+      },
+      {
+        "label": "c",
+        "text": "Strengthening the dominance of developed economies"
+      },
+      {
+        "label": "d",
+        "text": "Eliminating regional trade agreements"
+      }
+    ],
+    "answer": "Addressing trade and development needs of developing countries"
+  },
+  {
+    "question": "GATT was established in which year?",
+    "options": [
+      {
+        "label": "a",
+        "text": "1945"
+      },
+      {
+        "label": "b",
+        "text": "1947"
+      },
+      {
+        "label": "c",
+        "text": "1951"
+      },
+      {
+        "label": "d",
+        "text": "1995"
+      }
+    ],
+    "answer": "1947"
+  },
+  {
+    "question": "MFN treatment applies to:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Only G20 members"
+      },
+      {
+        "label": "b",
+        "text": "Only UN member states"
+      },
+      {
+        "label": "c",
+        "text": "Only developing countries"
+      },
+      {
+        "label": "d",
+        "text": "All WTO members"
+      }
+    ],
+    "answer": "All WTO members"
+  },
+  {
+    "question": "GATT applied mainly to which area of trade?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Intellectual Property"
+      },
+      {
+        "label": "b",
+        "text": "Services"
+      },
+      {
+        "label": "c",
+        "text": "Goods"
+      },
+      {
+        "label": "d",
+        "text": "Investments"
+      }
+    ],
+    "answer": "Goods"
+  },
+  {
+    "question": "Improvements in transportation have led to:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Greater time delays in delivery"
+      },
+      {
+        "label": "b",
+        "text": "Less global trade"
+      },
+      {
+        "label": "c",
+        "text": "Increase in walking as the main mode of transport"
+      },
+      {
+        "label": "d",
+        "text": "Expansion of markets and supply chains"
+      }
+    ],
+    "answer": "Expansion of markets and supply chains"
+  },
+  {
+    "question": "The Appellate Body under the WTO Dispute Settlement Understanding (DSU) functions to:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Monitor customs procedures"
+      },
+      {
+        "label": "b",
+        "text": "Review legal interpretations from panel reports"
+      },
+      {
+        "label": "c",
+        "text": "Initiate trade sanctions"
+      },
+      {
+        "label": "d",
+        "text": "Approve new trade agreements"
+      }
+    ],
+    "answer": "Review legal interpretations from panel reports"
+  },
+  {
+    "question": "The Dispute Settlement Body (DSB) of WTO ensures:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Peaceful resolution of trade disputes between members"
+      },
+      {
+        "label": "b",
+        "text": "Domestic judicial control of trade policy"
+      },
+      {
+        "label": "c",
+        "text": "Suspension of trade relations"
+      },
+      {
+        "label": "d",
+        "text": "Enforcement of criminal penalties for trade violations"
+      }
+    ],
+    "answer": "Peaceful resolution of trade disputes between members"
+  },
+  {
+    "question": "Globalization promotes international collaboration through:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Restriction of communication"
+      },
+      {
+        "label": "b",
+        "text": "Cross-border partnerships and information sharing"
+      },
+      {
+        "label": "c",
+        "text": "Regional conflict"
+      },
+      {
+        "label": "d",
+        "text": "Cultural isolation"
+      }
+    ],
+    "answer": "Cross-border partnerships and information sharing"
+  },
+  {
+    "question": "One major disadvantage of globalization for local industries is:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Access to advanced technology"
+      },
+      {
+        "label": "b",
+        "text": "Expansion into global markets"
+      },
+      {
+        "label": "c",
+        "text": "Better infrastructure"
+      },
+      {
+        "label": "d",
+        "text": "Loss of competitiveness due to cheap foreign imports"
+      }
+    ],
+    "answer": "Loss of competitiveness due to cheap foreign imports"
+  },
+  {
+    "question": "One major negative effect of globalization is:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Increased local employment in all industries"
+      },
+      {
+        "label": "b",
+        "text": "Exploitation of cheap labor and widening income inequality"
+      },
+      {
+        "label": "c",
+        "text": "Uniform growth of all countries"
+      },
+      {
+        "label": "d",
+        "text": "Growth of local small-scale industries"
+      }
+    ],
+    "answer": "Exploitation of cheap labor and widening income inequality"
+  },
+  {
+    "question": "The WTO dispute settlement process typically proceeds through:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Report \u2192 Investigation \u2192 Appeal \u2192 Repeal"
+      },
+      {
+        "label": "b",
+        "text": "Mediation \u2192 Hearing \u2192 Arbitration \u2192 Dismissal"
+      },
+      {
+        "label": "c",
+        "text": "Consultation \u2192 Panel \u2192 Appeal \u2192 Implementation"
+      },
+      {
+        "label": "d",
+        "text": "Appeal \u2192 Consultation \u2192 Hearing \u2192 Sanctions"
+      }
+    ],
+    "answer": "Consultation \u2192 Panel \u2192 Appeal \u2192 Implementation"
+  },
+  {
+    "question": "GATT stands for:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Government Agreement on Trade and Tariffs"
+      },
+      {
+        "label": "b",
+        "text": "General Association for Trade and Tariffs"
+      },
+      {
+        "label": "c",
+        "text": "General Agreement on Tariffs and Trade"
+      },
+      {
+        "label": "d",
+        "text": "Global Agreement on Tax and Trade"
+      }
+    ],
+    "answer": "General Agreement on Tariffs and Trade"
+  },
+  {
+    "question": "The TRIPS Agreement links IP protection with:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Exchange rate policy"
+      },
+      {
+        "label": "b",
+        "text": "International trade and market access"
+      },
+      {
+        "label": "c",
+        "text": "Domestic taxation"
+      },
+      {
+        "label": "d",
+        "text": "Public procurement"
+      }
+    ],
+    "answer": "International trade and market access"
+  },
+  {
+    "question": "The WTO replaced:",
+    "options": [
+      {
+        "label": "a",
+        "text": "UNCTAD as a trade regulator"
+      },
+      {
+        "label": "b",
+        "text": "IMF as a trade organization"
+      },
+      {
+        "label": "c",
+        "text": "GATT as the main global trade body"
+      },
+      {
+        "label": "d",
+        "text": "OECD as the dispute body"
+      }
+    ],
+    "answer": "GATT as the main global trade body"
+  },
+  {
+    "question": "A country\u2019s withdrawal from WTO may negatively affect its exporters because:",
+    "options": [
+      {
+        "label": "a",
+        "text": "They continue enjoying MFN status"
+      },
+      {
+        "label": "b",
+        "text": "They gain automatic regional trade advantages"
+      },
+      {
+        "label": "c",
+        "text": "They lose preferential tariff treatment and market access"
+      },
+      {
+        "label": "d",
+        "text": "They can negotiate bilateral trade deals easily"
+      }
+    ],
+    "answer": "They lose preferential tariff treatment and market access"
+  },
+  {
+    "question": "A major criticism of TRIPS by developing countries is that it:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Weakens IP protection"
+      },
+      {
+        "label": "b",
+        "text": "Promotes local innovation"
+      },
+      {
+        "label": "c",
+        "text": "Favors technology transfer"
+      },
+      {
+        "label": "d",
+        "text": "Raises the cost of essential medicines"
+      }
+    ],
+    "answer": "Raises the cost of essential medicines"
+  },
+  {
+    "question": "One of the criticisms of WTO dispute settlement for developing countries is that:",
+    "options": [
+      {
+        "label": "a",
+        "text": "It lacks a clear legal structure"
+      },
+      {
+        "label": "b",
+        "text": "Developing countries dominate rulings"
+      },
+      {
+        "label": "c",
+        "text": "It favors least developed countries exclusively"
+      },
+      {
+        "label": "d",
+        "text": "Legal and procedural costs are high and complex"
+      }
+    ],
+    "answer": "Legal and procedural costs are high and complex"
+  },
+  {
+    "question": "The fundamental aim of GATT was to:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Manage balance of payments"
+      },
+      {
+        "label": "b",
+        "text": "Liberalize international trade through negotiation rounds"
+      },
+      {
+        "label": "c",
+        "text": "Protect local industries"
+      },
+      {
+        "label": "d",
+        "text": "Establish uniform currency systems"
+      }
+    ],
+    "answer": "Liberalize international trade through negotiation rounds"
+  },
+  {
+    "question": "The highest decision-making body of the WTO is:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Trade Policy Review Body"
+      },
+      {
+        "label": "b",
+        "text": "Ministerial Conference"
+      },
+      {
+        "label": "c",
+        "text": "Appellate Body"
+      },
+      {
+        "label": "d",
+        "text": "General Council"
+      }
+    ],
+    "answer": "Ministerial Conference"
+  },
+  {
+    "question": "Technological improvements in agriculture have led to:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Complete elimination of fertilizers"
+      },
+      {
+        "label": "b",
+        "text": "Decline in irrigation facilities"
+      },
+      {
+        "label": "c",
+        "text": "Use of drones and precision farming"
+      },
+      {
+        "label": "d",
+        "text": "Lower crop yields"
+      }
+    ],
+    "answer": "Use of drones and precision farming"
+  },
+  {
+    "question": "The principle of National Treatment under GATT ensures that:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Imported goods are treated the same as domestic goods after entry"
+      },
+      {
+        "label": "b",
+        "text": "Foreign goods are prioritized"
+      },
+      {
+        "label": "c",
+        "text": "All goods are taxed equally before importation"
+      },
+      {
+        "label": "d",
+        "text": "Only local goods receive subsidies"
+      }
+    ],
+    "answer": "Imported goods are treated the same as domestic goods after entry"
+  },
+  {
+    "question": "The Doha Development Round focuses mainly on:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Trade liberalization with emphasis on developing countries\u2019 concerns"
+      },
+      {
+        "label": "b",
+        "text": "Industrial tariffs"
+      },
+      {
+        "label": "c",
+        "text": "Regional trade blocs"
+      },
+      {
+        "label": "d",
+        "text": "Environmental policies"
+      }
+    ],
+    "answer": "Trade liberalization with emphasis on developing countries\u2019 concerns"
+  },
+  {
+    "question": "A key challenge globalization poses for developing economies is:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Increased local entrepreneurship"
+      },
+      {
+        "label": "b",
+        "text": "Widening income inequality and market dependency"
+      },
+      {
+        "label": "c",
+        "text": "Enhanced domestic productivity"
+      },
+      {
+        "label": "d",
+        "text": "Reduction in foreign debt"
+      }
+    ],
+    "answer": "Widening income inequality and market dependency"
+  },
+  {
+    "question": "Deregulation can attract foreign investors because:",
+    "options": [
+      {
+        "label": "a",
+        "text": "It guarantees exchange rate stability"
+      },
+      {
+        "label": "b",
+        "text": "It increases government subsidies"
+      },
+      {
+        "label": "c",
+        "text": "It reduces entry barriers and increases returns"
+      },
+      {
+        "label": "d",
+        "text": "It discourages stock trading"
+      }
+    ],
+    "answer": "It reduces entry barriers and increases returns"
+  },
+  {
+    "question": "The Trade Policy Review Mechanism (TPRM) under WTO was designed to:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Replace dispute panels"
+      },
+      {
+        "label": "b",
+        "text": "Enhance transparency and understanding of national trade policies"
+      },
+      {
+        "label": "c",
+        "text": "Punish non-compliant countries"
+      },
+      {
+        "label": "d",
+        "text": "Reduce agricultural subsidies"
+      }
+    ],
+    "answer": "Enhance transparency and understanding of national trade policies"
+  },
+  {
+    "question": "Developing countries were given a transition period under TRIPS to:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Opt out of TRIPS permanently"
+      },
+      {
+        "label": "b",
+        "text": "Gradually implement IP standards based on capacity"
+      },
+      {
+        "label": "c",
+        "text": "Immediately adopt all IP laws"
+      },
+      {
+        "label": "d",
+        "text": "Focus only on trade in services"
+      }
+    ],
+    "answer": "Gradually implement IP standards based on capacity"
+  },
+  {
+    "question": "Cultural globalization involves:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Reduction in cultural diversity"
+      },
+      {
+        "label": "b",
+        "text": "Export of machinery and tools"
+      },
+      {
+        "label": "c",
+        "text": "Immigration bans"
+      },
+      {
+        "label": "d",
+        "text": "Adoption and exchange of cultural values, ideas, lifestyles, and media across borders"
+      }
+    ],
+    "answer": "Adoption and exchange of cultural values, ideas, lifestyles, and media across borders"
+  },
+  {
+    "question": "GATS is the abbreviation for:",
+    "options": [
+      {
+        "label": "a",
+        "text": "General Agreement on Trade and Securities"
+      },
+      {
+        "label": "b",
+        "text": "General Agreement on Trade in Services"
+      },
+      {
+        "label": "c",
+        "text": "Governmental Agreement on Trade and Sanctions"
+      },
+      {
+        "label": "d",
+        "text": "Global Agreement on Trade and Services"
+      }
+    ],
+    "answer": "General Agreement on Trade in Services"
+  },
+  {
+    "question": "A common challenge developing nations face with TRIMS is:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Limiting market access"
+      },
+      {
+        "label": "b",
+        "text": "Adjusting domestic investment policies to meet WTO obligations"
+      },
+      {
+        "label": "c",
+        "text": "Expanding protectionist barriers"
+      },
+      {
+        "label": "d",
+        "text": "Reducing foreign collaboration"
+      }
+    ],
+    "answer": "Adjusting domestic investment policies to meet WTO obligations"
+  },
+  {
+    "question": "The full form of TRIPS is:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Treaty on Regional Intellectual Property Standards"
+      },
+      {
+        "label": "b",
+        "text": "Trade-Related Aspects of Intellectual Property Rights"
+      },
+      {
+        "label": "c",
+        "text": "Trade Rights in Intellectual Property System"
+      },
+      {
+        "label": "d",
+        "text": "Technical Regulations for International Property Systems"
+      }
+    ],
+    "answer": "Trade-Related Aspects of Intellectual Property Rights"
+  },
+  {
+    "question": "The GATT article dealing with general exceptions such as protection of human, animal, or plant life is:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Article VI"
+      },
+      {
+        "label": "b",
+        "text": "Article XX"
+      },
+      {
+        "label": "c",
+        "text": "Article III"
+      },
+      {
+        "label": "d",
+        "text": "Article XII"
+      }
+    ],
+    "answer": "Article XX"
+  },
+  {
+    "question": "The WTO Dispute Settlement Body (DSB) is responsible for:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Collecting customs duties"
+      },
+      {
+        "label": "b",
+        "text": "Enforcing intellectual property rights only"
+      },
+      {
+        "label": "c",
+        "text": "Negotiating trade agreements"
+      },
+      {
+        "label": "d",
+        "text": "Settling trade disputes between WTO members"
+      }
+    ],
+    "answer": "Settling trade disputes between WTO members"
+  },
+  {
+    "question": "A system of WTO to tackle broken promises between countries, businesses, and governments is:",
+    "options": [
+      {
+        "label": "a",
+        "text": "TRIPS"
+      },
+      {
+        "label": "b",
+        "text": "Dispute settlement"
+      },
+      {
+        "label": "c",
+        "text": "GATT"
+      },
+      {
+        "label": "d",
+        "text": "None of the above"
+      }
+    ],
+    "answer": "Dispute settlement"
+  },
+  {
     "question": "A stability study protocol is crucial for ensuring:",
     "options": [
       {

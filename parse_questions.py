@@ -159,7 +159,7 @@ def parse_file(file_path):
         return parse_format_a(content)
 
 if __name__ == "__main__":
-    files = ['co1.txt', 'co3.txt', 'co4.txt']
+    files = ['co1.txt', 'co2.txt', 'co3.txt', 'co4.txt']
     grand_quiz = []
     
     for file in files:
