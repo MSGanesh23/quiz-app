@@ -1,0 +1,1872 @@
+[
+  {
+    "question": "A stability study protocol is crucial for ensuring:",
+    "options": [
+      {
+        "label": "a",
+        "text": "The product can be manufactured at the lowest cost"
+      },
+      {
+        "label": "b",
+        "text": "The product meets marketing regulations"
+      },
+      {
+        "label": "c",
+        "text": "The product remains effective and safe throughout its shelf life"
+      },
+      {
+        "label": "d",
+        "text": "The product is compliant with environmental laws"
+      }
+    ],
+    "answer": "The product remains effective and safe throughout its shelf life"
+  },
+  {
+    "question": "How often should GMP documents be reviewed?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Every 5 years"
+      },
+      {
+        "label": "b",
+        "text": "Annually, or whenever processes change"
+      },
+      {
+        "label": "c",
+        "text": "After the expiration date of the product"
+      },
+      {
+        "label": "d",
+        "text": "Only when there is a production issue"
+      }
+    ],
+    "answer": "Annually, or whenever processes change"
+  },
+  {
+    "question": "Which GMP principle emphasizes preventing errors and defects rather than detecting them after they occur?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Cost-cutting strategies"
+      },
+      {
+        "label": "b",
+        "text": "Proactive quality control"
+      },
+      {
+        "label": "c",
+        "text": "Preventive measures and process controls"
+      },
+      {
+        "label": "d",
+        "text": "Corrective action"
+      }
+    ],
+    "answer": "Preventive measures and process controls"
+  },
+  {
+    "question": "What is the purpose of a Certificate of Analysis (CoA) in the pharmaceutical industry?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To track inventory levels"
+      },
+      {
+        "label": "b",
+        "text": "To document the pricing strategies of the product"
+      },
+      {
+        "label": "c",
+        "text": "To ensure that the pharmaceutical product is marketed effectively"
+      },
+      {
+        "label": "d",
+        "text": "To confirm that the product meets the required specifications and standards"
+      }
+    ],
+    "answer": "To confirm that the product meets the required specifications and standards"
+  },
+  {
+    "question": "What does the FDA primarily regulate?",
+    "options": [
+      {
+        "label": "a",
+        "text": "The marketing strategies of pharmaceutical companies"
+      },
+      {
+        "label": "b",
+        "text": "The quality, safety, and efficacy of food and drugs"
+      },
+      {
+        "label": "c",
+        "text": "The aesthetic design of pharmaceutical packaging"
+      },
+      {
+        "label": "d",
+        "text": "Financial stability of pharmaceutical companies"
+      }
+    ],
+    "answer": "The quality, safety, and efficacy of food and drugs"
+  },
+  {
+    "question": "Which of the following is considered a GMP requirement for facilities?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Cleanliness and proper maintenance"
+      },
+      {
+        "label": "b",
+        "text": "Operating without proper equipment"
+      },
+      {
+        "label": "c",
+        "text": "Using only manual labor"
+      },
+      {
+        "label": "d",
+        "text": "Minimizing worker breaks"
+      }
+    ],
+    "answer": "Cleanliness and proper maintenance"
+  },
+  {
+    "question": "Which of the following is the FDA's role in GMP?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Setting production quotas"
+      },
+      {
+        "label": "b",
+        "text": "Conducting marketing surveys"
+      },
+      {
+        "label": "c",
+        "text": "Defining product pricing strategies"
+      },
+      {
+        "label": "d",
+        "text": "Ensuring that manufacturers comply with GMP regulations"
+      }
+    ],
+    "answer": "Ensuring that manufacturers comply with GMP regulations"
+  },
+  {
+    "question": "Which of the following is the purpose of ISO 9001?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To ensure food safety in manufacturing"
+      },
+      {
+        "label": "b",
+        "text": "To establish a framework for quality management systems"
+      },
+      {
+        "label": "c",
+        "text": "To regulate the marketing of pharmaceutical products"
+      },
+      {
+        "label": "d",
+        "text": "To define environmental standards for pharmaceutical production"
+      }
+    ],
+    "answer": "To establish a framework for quality management systems"
+  },
+  {
+    "question": "Which of the following is true about the ISO 17025 standard?",
+    "options": [
+      {
+        "label": "a",
+        "text": "It sets standards for marketing and advertising pharmaceutical products"
+      },
+      {
+        "label": "b",
+        "text": "It is used to regulate the manufacturing of biologics"
+      },
+      {
+        "label": "c",
+        "text": "It is focused on the financial aspects of pharmaceutical companies"
+      },
+      {
+        "label": "d",
+        "text": "It defines requirements for competence of testing and calibration laboratories"
+      }
+    ],
+    "answer": "It defines requirements for competence of testing and calibration laboratories"
+  },
+  {
+    "question": "Which FDA regulation mandates that pharmaceutical companies must submit reports about adverse events related to their products?",
+    "options": [
+      {
+        "label": "a",
+        "text": "The Safe Drinking Water Act"
+      },
+      {
+        "label": "b",
+        "text": "The Federal Food, Drug, and Cosmetic Act (FDCA)"
+      },
+      {
+        "label": "c",
+        "text": "The Food, Drug, and Cosmetic Act"
+      },
+      {
+        "label": "d",
+        "text": "The Drug Enforcement Administration Act"
+      }
+    ],
+    "answer": "The Federal Food, Drug, and Cosmetic Act (FDCA)"
+  },
+  {
+    "question": "Which of the following is an example of a Quality Control (QC) function in GMP?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Reviewing employee compensation packages"
+      },
+      {
+        "label": "b",
+        "text": "Inspecting raw materials and finished products to ensure compliance with quality standards"
+      },
+      {
+        "label": "c",
+        "text": "Developing a sales strategy for a new product"
+      },
+      {
+        "label": "d",
+        "text": "Managing supplier relationships"
+      }
+    ],
+    "answer": "Inspecting raw materials and finished products to ensure compliance with quality standards"
+  },
+  {
+    "question": "What is required to ensure that GMP guidelines are being followed consistently?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Decreasing the workforce"
+      },
+      {
+        "label": "b",
+        "text": "Limiting training programs"
+      },
+      {
+        "label": "c",
+        "text": "Increasing production speed"
+      },
+      {
+        "label": "d",
+        "text": "Regular audits and inspections"
+      }
+    ],
+    "answer": "Regular audits and inspections"
+  },
+  {
+    "question": "What does \"batch-to-batch consistency\" mean in GMP?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Each batch should have unique marketing materials"
+      },
+      {
+        "label": "b",
+        "text": "Each batch of a product should have the same production cost"
+      },
+      {
+        "label": "c",
+        "text": "Each batch of a product should have different packaging designs"
+      },
+      {
+        "label": "d",
+        "text": "Each batch of a product should be produced using identical methods and materials to ensure quality consistency"
+      }
+    ],
+    "answer": "Each batch of a product should be produced using identical methods and materials to ensure quality consistency"
+  },
+  {
+    "question": "What is the purpose of an audit report in the pharmaceutical industry?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To monitor environmental conditions in the manufacturing facility"
+      },
+      {
+        "label": "b",
+        "text": "To record sales transactions"
+      },
+      {
+        "label": "c",
+        "text": "To review compliance with internal and external regulations and identify areas for improvement"
+      },
+      {
+        "label": "d",
+        "text": "To promote the product to customers"
+      }
+    ],
+    "answer": "To review compliance with internal and external regulations and identify areas for improvement"
+  },
+  {
+    "question": "Which document is used to verify the quality of raw materials before they are used in production?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Sales Forecast"
+      },
+      {
+        "label": "b",
+        "text": "Marketing Plan"
+      },
+      {
+        "label": "c",
+        "text": "Raw Material Specification"
+      },
+      {
+        "label": "d",
+        "text": "Financial Audit Report"
+      }
+    ],
+    "answer": "Raw Material Specification"
+  },
+  {
+    "question": "Which of the following describes the role of Standard Operating Procedures (SOPs) in pharmaceutical manufacturing?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To outline financial goals for the company"
+      },
+      {
+        "label": "b",
+        "text": "To track marketing performance"
+      },
+      {
+        "label": "c",
+        "text": "To guide human resources in recruitment practices"
+      },
+      {
+        "label": "d",
+        "text": "To establish a uniform method of performing tasks to ensure consistency and quality"
+      }
+    ],
+    "answer": "To establish a uniform method of performing tasks to ensure consistency and quality"
+  },
+  {
+    "question": "Why is it important to maintain records of all raw materials used in pharmaceutical manufacturing?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To track and ensure quality and safety of the final product"
+      },
+      {
+        "label": "b",
+        "text": "To avoid documentation overload"
+      },
+      {
+        "label": "c",
+        "text": "To reduce production costs"
+      },
+      {
+        "label": "d",
+        "text": "To comply with marketing regulations"
+      }
+    ],
+    "answer": "To track and ensure quality and safety of the final product"
+  },
+  {
+    "question": "Which department is most likely responsible for implementing quality systems in a GMP environment?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Research and Development"
+      },
+      {
+        "label": "b",
+        "text": "Finance"
+      },
+      {
+        "label": "c",
+        "text": "Human Resources"
+      },
+      {
+        "label": "d",
+        "text": "Quality Assurance"
+      }
+    ],
+    "answer": "Quality Assurance"
+  },
+  {
+    "question": "The FDA's Center for Drug Evaluation and Research (CDER) is responsible for:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Setting pricing strategies for pharmaceutical products"
+      },
+      {
+        "label": "b",
+        "text": "Promoting pharmaceutical company stocks"
+      },
+      {
+        "label": "c",
+        "text": "Marketing pharmaceutical products"
+      },
+      {
+        "label": "d",
+        "text": "Ensuring the safety, efficacy, and quality of drugs sold in the U.S."
+      }
+    ],
+    "answer": "Ensuring the safety, efficacy, and quality of drugs sold in the U.S."
+  },
+  {
+    "question": "What is the role of training in GMP compliance?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To ensure that all employees understand and follow GMP regulations"
+      },
+      {
+        "label": "b",
+        "text": "To improve employee motivation"
+      },
+      {
+        "label": "c",
+        "text": "To develop new products quickly"
+      },
+      {
+        "label": "d",
+        "text": "To reduce the number of employees needed"
+      }
+    ],
+    "answer": "To ensure that all employees understand and follow GMP regulations"
+  },
+  {
+    "question": "What is the purpose of a Stability Study in pharmaceutical manufacturing?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To track market trends for the product"
+      },
+      {
+        "label": "b",
+        "text": "To ensure that the product remains effective and safe over its shelf life"
+      },
+      {
+        "label": "c",
+        "text": "To document financial performance"
+      },
+      {
+        "label": "d",
+        "text": "To analyze employee performance"
+      }
+    ],
+    "answer": "To ensure that the product remains effective and safe over its shelf life"
+  },
+  {
+    "question": "Which document is essential to track the identity, history, and status of a product during manufacturing?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Stability Study Protocol"
+      },
+      {
+        "label": "b",
+        "text": "Batch Record"
+      },
+      {
+        "label": "c",
+        "text": "Marketing Strategy"
+      },
+      {
+        "label": "d",
+        "text": "Standard Operating Procedure (SOP)"
+      }
+    ],
+    "answer": "Batch Record"
+  },
+  {
+    "question": "Which FDA regulation applies specifically to labeling requirements for pharmaceutical products?",
+    "options": [
+      {
+        "label": "a",
+        "text": "21 CFR 210"
+      },
+      {
+        "label": "b",
+        "text": "21 CFR 610"
+      },
+      {
+        "label": "c",
+        "text": "21 CFR 201"
+      },
+      {
+        "label": "d",
+        "text": "21 CFR 130"
+      }
+    ],
+    "answer": "21 CFR 201"
+  },
+  {
+    "question": "Which of the following is NOT an essential document in GMP?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Equipment calibration logs"
+      },
+      {
+        "label": "b",
+        "text": "Marketing brochures"
+      },
+      {
+        "label": "c",
+        "text": "Batch production records"
+      },
+      {
+        "label": "d",
+        "text": "Standard operating procedures (SOPs)"
+      }
+    ],
+    "answer": "Marketing brochures"
+  },
+  {
+    "question": "Which of the following ISO standards is primarily focused on environmental management?",
+    "options": [
+      {
+        "label": "a",
+        "text": "ISO 14001"
+      },
+      {
+        "label": "b",
+        "text": "ISO 9001"
+      },
+      {
+        "label": "c",
+        "text": "ISO 17025"
+      },
+      {
+        "label": "d",
+        "text": "ISO 22000"
+      }
+    ],
+    "answer": "ISO 14001"
+  },
+  {
+    "question": "Which of the following is a primary requirement of Good Manufacturing Practice (GMP)?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Using the best raw materials"
+      },
+      {
+        "label": "b",
+        "text": "Minimal documentation"
+      },
+      {
+        "label": "c",
+        "text": "Lowering production costs"
+      },
+      {
+        "label": "d",
+        "text": "Having controlled and well-maintained equipment"
+      }
+    ],
+    "answer": "Having controlled and well-maintained equipment"
+  },
+  {
+    "question": "What is the primary purpose of the FDA\u2019s Good Laboratory Practice (GLP) guidelines?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To guarantee that lab tests are accurate and reproducible"
+      },
+      {
+        "label": "b",
+        "text": "To manage marketing strategies for pharmaceutical companies"
+      },
+      {
+        "label": "c",
+        "text": "To ensure that clinical trials are conducted according to ethical standards"
+      },
+      {
+        "label": "d",
+        "text": "To monitor employee performance"
+      }
+    ],
+    "answer": "To guarantee that lab tests are accurate and reproducible"
+  },
+  {
+    "question": "Which of the following is the primary focus of a GMP-compliant quality system?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Production speed"
+      },
+      {
+        "label": "b",
+        "text": "Marketing"
+      },
+      {
+        "label": "c",
+        "text": "Ensuring product quality and patient safety"
+      },
+      {
+        "label": "d",
+        "text": "Cost-cutting strategies"
+      }
+    ],
+    "answer": "Ensuring product quality and patient safety"
+  },
+  {
+    "question": "The ISO 45001 standard is focused on:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Food safety management systems"
+      },
+      {
+        "label": "b",
+        "text": "Occupational health and safety management"
+      },
+      {
+        "label": "c",
+        "text": "Environmental management systems"
+      },
+      {
+        "label": "d",
+        "text": "Quality management systems"
+      }
+    ],
+    "answer": "Occupational health and safety management"
+  },
+  {
+    "question": "Which of the following documents is required to prove that a pharmaceutical product has been manufactured in accordance with GMP guidelines?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Sales forecast"
+      },
+      {
+        "label": "b",
+        "text": "Certificate of Analysis (CoA)"
+      },
+      {
+        "label": "c",
+        "text": "Annual financial report"
+      },
+      {
+        "label": "d",
+        "text": "Marketing brochure"
+      }
+    ],
+    "answer": "Certificate of Analysis (CoA)"
+  },
+  {
+    "question": "Which of the following must be validated under GMP to ensure it meets production standards?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Financial reporting systems"
+      },
+      {
+        "label": "b",
+        "text": "Cleaning procedures and equipment"
+      },
+      {
+        "label": "c",
+        "text": "Marketing materials"
+      },
+      {
+        "label": "d",
+        "text": "Packaging designs"
+      }
+    ],
+    "answer": "Cleaning procedures and equipment"
+  },
+  {
+    "question": "What is the primary purpose of maintaining a document control system in GMP?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To ensure that all records are up-to-date, accurate, and accessible for audits"
+      },
+      {
+        "label": "b",
+        "text": "To manage employee leave records"
+      },
+      {
+        "label": "c",
+        "text": "To track product costs"
+      },
+      {
+        "label": "d",
+        "text": "To market the product to customers"
+      }
+    ],
+    "answer": "To ensure that all records are up-to-date, accurate, and accessible for audits"
+  },
+  {
+    "question": "Which of the following is required for a pharmaceutical product to be marketed in the U.S.?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Labeling in multiple languages"
+      },
+      {
+        "label": "b",
+        "text": "Approval from the FDA"
+      },
+      {
+        "label": "c",
+        "text": "Advertising campaign"
+      },
+      {
+        "label": "d",
+        "text": "A minimum production run of 100,000 units"
+      }
+    ],
+    "answer": "Approval from the FDA"
+  },
+  {
+    "question": "Which of the following is typically included in a batch production record?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Detailed documentation of the production process for each batch"
+      },
+      {
+        "label": "b",
+        "text": "Marketing data"
+      },
+      {
+        "label": "c",
+        "text": "Sales strategies for the product"
+      },
+      {
+        "label": "d",
+        "text": "Employee schedules"
+      }
+    ],
+    "answer": "Detailed documentation of the production process for each batch"
+  },
+  {
+    "question": "Which of the following documents is used to ensure that products meet specific regulatory requirements before approval?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Financial statement"
+      },
+      {
+        "label": "b",
+        "text": "Regulatory Submission"
+      },
+      {
+        "label": "c",
+        "text": "Annual report"
+      },
+      {
+        "label": "d",
+        "text": "Sales forecast"
+      }
+    ],
+    "answer": "Regulatory Submission"
+  },
+  {
+    "question": "Which of the following is a key focus of ICH Q10?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Financial stability of pharmaceutical companies"
+      },
+      {
+        "label": "b",
+        "text": "Pharmaceutical quality systems"
+      },
+      {
+        "label": "c",
+        "text": "Development and manufacturing of biologics"
+      },
+      {
+        "label": "d",
+        "text": "Marketing and advertising"
+      }
+    ],
+    "answer": "Pharmaceutical quality systems"
+  },
+  {
+    "question": "Which of the following is a key function of a Deviation Report in GMP?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To ensure that all products are marketed effectively"
+      },
+      {
+        "label": "b",
+        "text": "To forecast sales growth"
+      },
+      {
+        "label": "c",
+        "text": "To describe actions taken to correct and prevent deviations from SOPs"
+      },
+      {
+        "label": "d",
+        "text": "To record the financial aspects of the product"
+      }
+    ],
+    "answer": "To describe actions taken to correct and prevent deviations from SOPs"
+  },
+  {
+    "question": "Which of the following best describes the role of Quality Assurance (QA) in GMP?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Develop new marketing strategies"
+      },
+      {
+        "label": "b",
+        "text": "Ensure that products consistently meet quality standards and regulatory requirements"
+      },
+      {
+        "label": "c",
+        "text": "Manage the financial audits of production facilities"
+      },
+      {
+        "label": "d",
+        "text": "Focus on reducing manufacturing costs"
+      }
+    ],
+    "answer": "Ensure that products consistently meet quality standards and regulatory requirements"
+  },
+  {
+    "question": "Which of the following best describes the role of SOPs in GMP?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To provide a uniform method for all company departments"
+      },
+      {
+        "label": "b",
+        "text": "To increase product variety"
+      },
+      {
+        "label": "c",
+        "text": "To ensure that tasks are performed in a consistent, standardized manner"
+      },
+      {
+        "label": "d",
+        "text": "To train employees faster"
+      }
+    ],
+    "answer": "To ensure that tasks are performed in a consistent, standardized manner"
+  },
+  {
+    "question": "Why is documentation essential in GMP?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To ensure traceability and compliance"
+      },
+      {
+        "label": "b",
+        "text": "To increase operational costs"
+      },
+      {
+        "label": "c",
+        "text": "To reduce manufacturing time"
+      },
+      {
+        "label": "d",
+        "text": "To improve employee morale"
+      }
+    ],
+    "answer": "To ensure traceability and compliance"
+  },
+  {
+    "question": "ISO 9001 certification primarily helps organizations achieve:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Lower operational costs"
+      },
+      {
+        "label": "b",
+        "text": "Limited product range"
+      },
+      {
+        "label": "c",
+        "text": "Enhanced regulatory compliance and better market positioning"
+      },
+      {
+        "label": "d",
+        "text": "Reduced time for product development"
+      }
+    ],
+    "answer": "Enhanced regulatory compliance and better market positioning"
+  },
+  {
+    "question": "Which type of documentation is necessary for the validation of manufacturing equipment?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Equipment validation report"
+      },
+      {
+        "label": "b",
+        "text": "Financial statements"
+      },
+      {
+        "label": "c",
+        "text": "Marketing analysis"
+      },
+      {
+        "label": "d",
+        "text": "Annual production plan"
+      }
+    ],
+    "answer": "Equipment validation report"
+  },
+  {
+    "question": "Which of the following does ICH stand for?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Internal Control for Harmonization"
+      },
+      {
+        "label": "b",
+        "text": "International Conference on Harmonization"
+      },
+      {
+        "label": "c",
+        "text": "Intercontinental Conference on Health"
+      },
+      {
+        "label": "d",
+        "text": "International Chemical Harmonization"
+      }
+    ],
+    "answer": "International Conference on Harmonization"
+  },
+  {
+    "question": "The purpose of a Change Control document is to:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Outline changes in the marketing strategy"
+      },
+      {
+        "label": "b",
+        "text": "Control financial expenditures"
+      },
+      {
+        "label": "c",
+        "text": "Record deviations from packaging protocols"
+      },
+      {
+        "label": "d",
+        "text": "Document and review any changes to the manufacturing process"
+      }
+    ],
+    "answer": "Document and review any changes to the manufacturing process"
+  },
+  {
+    "question": "In GMP, what is the purpose of quality assurance (QA)?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To market the product effectively"
+      },
+      {
+        "label": "b",
+        "text": "To ensure products are consistently produced to required quality standards"
+      },
+      {
+        "label": "c",
+        "text": "To control employee schedules"
+      },
+      {
+        "label": "d",
+        "text": "To manage the financial aspects of production"
+      }
+    ],
+    "answer": "To ensure products are consistently produced to required quality standards"
+  },
+  {
+    "question": "What is the role of change control documents in GMP?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To document financial expenses"
+      },
+      {
+        "label": "b",
+        "text": "To ensure that any changes to production processes or equipment are reviewed, approved, and recorded"
+      },
+      {
+        "label": "c",
+        "text": "To track product marketing campaigns"
+      },
+      {
+        "label": "d",
+        "text": "To outline employee schedules"
+      }
+    ],
+    "answer": "To ensure that any changes to production processes or equipment are reviewed, approved, and recorded"
+  },
+  {
+    "question": "Which of the following is true about validation protocols?",
+    "options": [
+      {
+        "label": "a",
+        "text": "They ensure that manufacturing processes and equipment consistently produce products meeting specifications"
+      },
+      {
+        "label": "b",
+        "text": "They only apply to pharmaceutical companies in the U.S."
+      },
+      {
+        "label": "c",
+        "text": "They are optional for manufacturers"
+      },
+      {
+        "label": "d",
+        "text": "They focus on financial auditing only"
+      }
+    ],
+    "answer": "They ensure that manufacturing processes and equipment consistently produce products meeting specifications"
+  },
+  {
+    "question": "In GMP, which of the following is necessary for achieving product consistency?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Reducing production costs"
+      },
+      {
+        "label": "b",
+        "text": "Use of standardized procedures and well-maintained equipment"
+      },
+      {
+        "label": "c",
+        "text": "Limiting employee training"
+      },
+      {
+        "label": "d",
+        "text": "Strict adherence to production schedules"
+      }
+    ],
+    "answer": "Use of standardized procedures and well-maintained equipment"
+  },
+  {
+    "question": "Which of the following ISO standards is crucial for laboratory testing and calibration?",
+    "options": [
+      {
+        "label": "a",
+        "text": "ISO 9001"
+      },
+      {
+        "label": "b",
+        "text": "ISO 22000"
+      },
+      {
+        "label": "c",
+        "text": "ISO 14001"
+      },
+      {
+        "label": "d",
+        "text": "ISO 17025"
+      }
+    ],
+    "answer": "ISO 17025"
+  },
+  {
+    "question": "Which of the following documents is a legal requirement for all drug products sold in the U.S.?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Profit and Loss Statement"
+      },
+      {
+        "label": "b",
+        "text": "Product labeling"
+      },
+      {
+        "label": "c",
+        "text": "Sales Forecast"
+      },
+      {
+        "label": "d",
+        "text": "Marketing Strategy"
+      }
+    ],
+    "answer": "Product labeling"
+  },
+  {
+    "question": "Which ISO standard is specifically designed for the safety of food products?",
+    "options": [
+      {
+        "label": "a",
+        "text": "ISO 14001"
+      },
+      {
+        "label": "b",
+        "text": "ISO 22000"
+      },
+      {
+        "label": "c",
+        "text": "ISO 9001"
+      },
+      {
+        "label": "d",
+        "text": "ISO 45001"
+      }
+    ],
+    "answer": "ISO 22000"
+  },
+  {
+    "question": "What is the significance of retaining raw material records for a certain period after production?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To facilitate quick product recalls"
+      },
+      {
+        "label": "b",
+        "text": "To provide information for product marketing"
+      },
+      {
+        "label": "c",
+        "text": "To ensure that the raw materials comply with specified quality standards and are traceable for audits"
+      },
+      {
+        "label": "d",
+        "text": "To reduce storage costs"
+      }
+    ],
+    "answer": "To ensure that the raw materials comply with specified quality standards and are traceable for audits"
+  },
+  {
+    "question": "Which of the following is included in the labeling requirements for pharmaceutical products?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Product\u2019s active ingredients and dosage"
+      },
+      {
+        "label": "b",
+        "text": "Employee attendance records"
+      },
+      {
+        "label": "c",
+        "text": "Sales forecasts"
+      },
+      {
+        "label": "d",
+        "text": "Product\u2019s marketing price"
+      }
+    ],
+    "answer": "Product\u2019s active ingredients and dosage"
+  },
+  {
+    "question": "Which of the following defines GMP most accurately?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Guidelines to ensure the safety, efficacy, and quality of pharmaceuticals"
+      },
+      {
+        "label": "b",
+        "text": "Rules for advertising pharmaceutical companies"
+      },
+      {
+        "label": "c",
+        "text": "A set of rules for manufacturing food products"
+      },
+      {
+        "label": "d",
+        "text": "Instructions for marketing pharmaceutical products"
+      }
+    ],
+    "answer": "Guidelines to ensure the safety, efficacy, and quality of pharmaceuticals"
+  },
+  {
+    "question": "Which FDA regulation requires manufacturers to report any significant changes in drug formulation or production process?",
+    "options": [
+      {
+        "label": "a",
+        "text": "21 CFR 320"
+      },
+      {
+        "label": "b",
+        "text": "21 CFR 812"
+      },
+      {
+        "label": "c",
+        "text": "21 CFR 11"
+      },
+      {
+        "label": "d",
+        "text": "21 CFR 210/211"
+      }
+    ],
+    "answer": "21 CFR 210/211"
+  },
+  {
+    "question": "Which of the following is NOT typically required to be documented under GMP regulations?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Employee training records"
+      },
+      {
+        "label": "b",
+        "text": "Product design specifications"
+      },
+      {
+        "label": "c",
+        "text": "Equipment maintenance records"
+      },
+      {
+        "label": "d",
+        "text": "Financial transaction records"
+      }
+    ],
+    "answer": "Financial transaction records"
+  },
+  {
+    "question": "Which of the following is the focus of ISO 13485?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Management of environmental impact in manufacturing"
+      },
+      {
+        "label": "b",
+        "text": "Quality management systems for medical devices"
+      },
+      {
+        "label": "c",
+        "text": "Control of pharmaceutical marketing activities"
+      },
+      {
+        "label": "d",
+        "text": "Quality management systems for food safety"
+      }
+    ],
+    "answer": "Quality management systems for medical devices"
+  },
+  {
+    "question": "Which of the following is a key element of a quality management system (QMS) in GMP?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Limiting the training of employees"
+      },
+      {
+        "label": "b",
+        "text": "Employee attendance tracking"
+      },
+      {
+        "label": "c",
+        "text": "Reducing production costs"
+      },
+      {
+        "label": "d",
+        "text": "Regular reviews of product complaints and corrective actions"
+      }
+    ],
+    "answer": "Regular reviews of product complaints and corrective actions"
+  },
+  {
+    "question": "Which of the following is NOT a requirement for a GMP-compliant quality management system?",
+    "options": [
+      {
+        "label": "a",
+        "text": "A system for tracking deviations from standard operating procedures"
+      },
+      {
+        "label": "b",
+        "text": "A robust system for training employees"
+      },
+      {
+        "label": "c",
+        "text": "A formal complaint handling system"
+      },
+      {
+        "label": "d",
+        "text": "A system to market products to consumers"
+      }
+    ],
+    "answer": "A system to market products to consumers"
+  },
+  {
+    "question": "Which of the following best describes the role of \"risk management\" in a GMP environment?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Focusing only on marketing risks"
+      },
+      {
+        "label": "b",
+        "text": "Identifying, evaluating, and mitigating risks to product quality and safety"
+      },
+      {
+        "label": "c",
+        "text": "Reducing the number of suppliers used in production"
+      },
+      {
+        "label": "d",
+        "text": "Cutting down on employee compensation"
+      }
+    ],
+    "answer": "Identifying, evaluating, and mitigating risks to product quality and safety"
+  },
+  {
+    "question": "What is the significance of a Product Master File in GMP?",
+    "options": [
+      {
+        "label": "a",
+        "text": "It tracks the product's sales data"
+      },
+      {
+        "label": "b",
+        "text": "It contains detailed information about the product's design, ingredients, and manufacturing processes"
+      },
+      {
+        "label": "c",
+        "text": "It stores financial performance reports"
+      },
+      {
+        "label": "d",
+        "text": "It outlines the product's marketing strategies"
+      }
+    ],
+    "answer": "It contains detailed information about the product's design, ingredients, and manufacturing processes"
+  },
+  {
+    "question": "FDA inspections in GMP facilities are primarily aimed at:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Checking inventory management practices"
+      },
+      {
+        "label": "b",
+        "text": "Assessing marketing strategies"
+      },
+      {
+        "label": "c",
+        "text": "Reviewing financial performance"
+      },
+      {
+        "label": "d",
+        "text": "Ensuring compliance with safety, quality, and regulatory standards"
+      }
+    ],
+    "answer": "Ensuring compliance with safety, quality, and regulatory standards"
+  },
+  {
+    "question": "What is the purpose of validation in GMP?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To minimize the use of raw materials"
+      },
+      {
+        "label": "b",
+        "text": "To ensure that the product is manufactured under sterile conditions"
+      },
+      {
+        "label": "c",
+        "text": "To reduce production time"
+      },
+      {
+        "label": "d",
+        "text": "To ensure consistency and compliance with regulatory requirements"
+      }
+    ],
+    "answer": "To ensure consistency and compliance with regulatory requirements"
+  },
+  {
+    "question": "The ICH guidelines are intended to:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Provide recommendations for pricing"
+      },
+      {
+        "label": "b",
+        "text": "Focus on financial audits"
+      },
+      {
+        "label": "c",
+        "text": "Regulate marketing activities"
+      },
+      {
+        "label": "d",
+        "text": "Set global standards for the manufacture and control of pharmaceutical products"
+      }
+    ],
+    "answer": "Set global standards for the manufacture and control of pharmaceutical products"
+  },
+  {
+    "question": "Which document is used to track any deviations from established procedures in GMP?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Annual Report"
+      },
+      {
+        "label": "b",
+        "text": "Incident Report"
+      },
+      {
+        "label": "c",
+        "text": "Corrective and Preventive Action (CAPA)"
+      },
+      {
+        "label": "d",
+        "text": "Marketing Report"
+      }
+    ],
+    "answer": "Corrective and Preventive Action (CAPA)"
+  },
+  {
+    "question": "In GMP, what is meant by \"quality control\"?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Streamlining production processes"
+      },
+      {
+        "label": "b",
+        "text": "The method of controlling raw material costs"
+      },
+      {
+        "label": "c",
+        "text": "Ensuring that the end product meets the required specifications"
+      },
+      {
+        "label": "d",
+        "text": "Reducing waste during manufacturing"
+      }
+    ],
+    "answer": "Ensuring that the end product meets the required specifications"
+  },
+  {
+    "question": "What is the primary role of an Environmental Monitoring Report in GMP?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To calculate production costs"
+      },
+      {
+        "label": "b",
+        "text": "To track employee attendance"
+      },
+      {
+        "label": "c",
+        "text": "To monitor the environmental conditions in manufacturing areas to ensure product quality"
+      },
+      {
+        "label": "d",
+        "text": "To forecast market trends"
+      }
+    ],
+    "answer": "To monitor the environmental conditions in manufacturing areas to ensure product quality"
+  },
+  {
+    "question": "Which of the following is an essential part of GMP to prevent cross-contamination during manufacturing?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Employee training on quality management"
+      },
+      {
+        "label": "b",
+        "text": "Proper sanitation and cleaning of facilities and equipment"
+      },
+      {
+        "label": "c",
+        "text": "Limiting the number of shifts worked by employees"
+      },
+      {
+        "label": "d",
+        "text": "Reducing the use of raw materials"
+      }
+    ],
+    "answer": "Proper sanitation and cleaning of facilities and equipment"
+  },
+  {
+    "question": "Which is NOT a responsibility of GMP personnel?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Ensuring compliance with production schedules"
+      },
+      {
+        "label": "b",
+        "text": "Monitoring quality control procedures"
+      },
+      {
+        "label": "c",
+        "text": "Monitoring employee attendance"
+      },
+      {
+        "label": "d",
+        "text": "Conducting regular inspections of facilities and processes"
+      }
+    ],
+    "answer": "Monitoring employee attendance"
+  },
+  {
+    "question": "The term \"validation\" in GMP refers to:",
+    "options": [
+      {
+        "label": "a",
+        "text": "The process of improving marketing strategies"
+      },
+      {
+        "label": "b",
+        "text": "The act of decreasing production costs"
+      },
+      {
+        "label": "c",
+        "text": "Reducing the time to market for new products"
+      },
+      {
+        "label": "d",
+        "text": "The process of ensuring that equipment and processes consistently produce products that meet quality standards"
+      }
+    ],
+    "answer": "The process of ensuring that equipment and processes consistently produce products that meet quality standards"
+  },
+  {
+    "question": "Which of the following quality systems tools is often used in GMP environments to track production errors?",
+    "options": [
+      {
+        "label": "a",
+        "text": "PERT diagrams"
+      },
+      {
+        "label": "b",
+        "text": "Gantt charts"
+      },
+      {
+        "label": "c",
+        "text": "Six Sigma"
+      },
+      {
+        "label": "d",
+        "text": "Fishbone diagram"
+      }
+    ],
+    "answer": "Fishbone diagram"
+  },
+  {
+    "question": "In GMP, what is the importance of equipment calibration?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To increase employee productivity"
+      },
+      {
+        "label": "b",
+        "text": "To ensure equipment is functioning within specified limits and producing quality products"
+      },
+      {
+        "label": "c",
+        "text": "To reduce production time"
+      },
+      {
+        "label": "d",
+        "text": "To minimize costs"
+      }
+    ],
+    "answer": "To ensure equipment is functioning within specified limits and producing quality products"
+  },
+  {
+    "question": "What is the main benefit of implementing ISO standards in a pharmaceutical company?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Consistency in product quality and compliance with regulatory standards"
+      },
+      {
+        "label": "b",
+        "text": "Reduced raw material costs"
+      },
+      {
+        "label": "c",
+        "text": "More extensive marketing reach"
+      },
+      {
+        "label": "d",
+        "text": "Increased production speed"
+      }
+    ],
+    "answer": "Consistency in product quality and compliance with regulatory standards"
+  },
+  {
+    "question": "Which of the following documents is used to track deviations from standard operating procedures during the manufacturing process?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Corrective and Preventive Action (CAPA) report"
+      },
+      {
+        "label": "b",
+        "text": "Job Description"
+      },
+      {
+        "label": "c",
+        "text": "Incident Report"
+      },
+      {
+        "label": "d",
+        "text": "Marketing Plan"
+      }
+    ],
+    "answer": "Corrective and Preventive Action (CAPA) report"
+  },
+  {
+    "question": "The ICH guidelines are designed to harmonize regulations between which regions?",
+    "options": [
+      {
+        "label": "a",
+        "text": "China and the U.S."
+      },
+      {
+        "label": "b",
+        "text": "North America, Europe, and Japan"
+      },
+      {
+        "label": "c",
+        "text": "Australia and Africa"
+      },
+      {
+        "label": "d",
+        "text": "South America and Africa"
+      }
+    ],
+    "answer": "North America, Europe, and Japan"
+  },
+  {
+    "question": "Which of the following documents is essential for ensuring compliance with GMP during product distribution?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Product reviews"
+      },
+      {
+        "label": "b",
+        "text": "Financial statements"
+      },
+      {
+        "label": "c",
+        "text": "Sales brochures"
+      },
+      {
+        "label": "d",
+        "text": "Distribution records"
+      }
+    ],
+    "answer": "Distribution records"
+  },
+  {
+    "question": "ISO 14001 is designed to help organizations:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Minimize environmental impact and enhance sustainability"
+      },
+      {
+        "label": "b",
+        "text": "Improve customer satisfaction"
+      },
+      {
+        "label": "c",
+        "text": "Focus on financial management"
+      },
+      {
+        "label": "d",
+        "text": "Increase product marketability"
+      }
+    ],
+    "answer": "Minimize environmental impact and enhance sustainability"
+  },
+  {
+    "question": "What is the primary objective of a Corrective and Preventive Action (CAPA) system in GMP?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To identify areas of cost savings in production"
+      },
+      {
+        "label": "b",
+        "text": "To increase the speed of manufacturing"
+      },
+      {
+        "label": "c",
+        "text": "To track employee performance"
+      },
+      {
+        "label": "d",
+        "text": "To address product quality issues and prevent recurrence"
+      }
+    ],
+    "answer": "To address product quality issues and prevent recurrence"
+  },
+  {
+    "question": "What is the purpose of a batch record in GMP?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To document the entire production process for each batch"
+      },
+      {
+        "label": "b",
+        "text": "To monitor financial expenses"
+      },
+      {
+        "label": "c",
+        "text": "To list the raw materials used in production"
+      },
+      {
+        "label": "d",
+        "text": "To increase the speed of manufacturing"
+      }
+    ],
+    "answer": "To document the entire production process for each batch"
+  },
+  {
+    "question": "The FDA requires that records and documents related to the manufacturing process are:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Available for inspection upon request"
+      },
+      {
+        "label": "b",
+        "text": "Discarded once the product reaches the market"
+      },
+      {
+        "label": "c",
+        "text": "Kept for a period of 5 years"
+      },
+      {
+        "label": "d",
+        "text": "Only retained if there is a product defect"
+      }
+    ],
+    "answer": "Available for inspection upon request"
+  },
+  {
+    "question": "GMP guidelines are primarily focused on ensuring:",
+    "options": [
+      {
+        "label": "a",
+        "text": "High marketing revenue"
+      },
+      {
+        "label": "b",
+        "text": "Minimizing environmental impact"
+      },
+      {
+        "label": "c",
+        "text": "The cheapest production process"
+      },
+      {
+        "label": "d",
+        "text": "The safety and efficacy of pharmaceutical products"
+      }
+    ],
+    "answer": "The safety and efficacy of pharmaceutical products"
+  },
+  {
+    "question": "Which of the following is the best practice for managing risks in GMP manufacturing?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Cut costs by reducing quality assurance personnel"
+      },
+      {
+        "label": "b",
+        "text": "Implement risk management strategies and regular assessments"
+      },
+      {
+        "label": "c",
+        "text": "Eliminate all documentation requirements"
+      },
+      {
+        "label": "d",
+        "text": "Focus only on final product testing"
+      }
+    ],
+    "answer": "Implement risk management strategies and regular assessments"
+  },
+  {
+    "question": "Which of the following is an example of an ICH guideline?",
+    "options": [
+      {
+        "label": "a",
+        "text": "ICH A1: Pharmaceutical Pricing Guidelines"
+      },
+      {
+        "label": "b",
+        "text": "ICH Q7A: Good Manufacturing Practice for Active Pharmaceutical Ingredients"
+      },
+      {
+        "label": "c",
+        "text": "ICH V1: Packaging Standards"
+      },
+      {
+        "label": "d",
+        "text": "ICH F3: Safety and Efficacy Evaluation"
+      }
+    ],
+    "answer": "ICH Q7A: Good Manufacturing Practice for Active Pharmaceutical Ingredients"
+  },
+  {
+    "question": "Which of the following represents a key objective of GMP in pharmaceutical manufacturing?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Maximizing marketing efforts"
+      },
+      {
+        "label": "b",
+        "text": "Cutting production costs to increase profits"
+      },
+      {
+        "label": "c",
+        "text": "Speeding up the production process"
+      },
+      {
+        "label": "d",
+        "text": "Ensuring drugs are consistently manufactured and controlled to quality standards"
+      }
+    ],
+    "answer": "Ensuring drugs are consistently manufactured and controlled to quality standards"
+  },
+  {
+    "question": "Which area is the focus of GMP requirements in pharmaceutical manufacturing?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Marketing strategy"
+      },
+      {
+        "label": "b",
+        "text": "Product quality and safety"
+      },
+      {
+        "label": "c",
+        "text": "Inventory management"
+      },
+      {
+        "label": "d",
+        "text": "Employee productivity"
+      }
+    ],
+    "answer": "Product quality and safety"
+  }
+]

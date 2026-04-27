@@ -1,0 +1,5370 @@
+[
+  {
+    "question": "If a particular color has a distinctive feature indicating the goods of a particular trade, it can be registered as:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Smell marks"
+      },
+      {
+        "label": "b",
+        "text": "Sounds marks"
+      },
+      {
+        "label": "c",
+        "text": "Shape marks"
+      },
+      {
+        "label": "d",
+        "text": "Colour trademark"
+      }
+    ],
+    "answer": "Colour trademark"
+  },
+  {
+    "question": "Which of the following fees must be paid to keep a granted patent in force in India?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Priority fee"
+      },
+      {
+        "label": "b",
+        "text": "Application fee"
+      },
+      {
+        "label": "c",
+        "text": "Examination fee"
+      },
+      {
+        "label": "d",
+        "text": "Renewal fee"
+      }
+    ],
+    "answer": "Renewal fee"
+  },
+  {
+    "question": "A computer programmer writes an original software code for data encryption. Which IPR applies here?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Trademark"
+      },
+      {
+        "label": "b",
+        "text": "Industrial Design"
+      },
+      {
+        "label": "c",
+        "text": "Patent"
+      },
+      {
+        "label": "d",
+        "text": "Copyright"
+      }
+    ],
+    "answer": "Copyright"
+  },
+  {
+    "question": "A pharmaceutical company develops a new pain relief drug with a unique chemical composition. Which type of IPR should be used to protect this invention?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Trademark"
+      },
+      {
+        "label": "b",
+        "text": "Patent"
+      },
+      {
+        "label": "c",
+        "text": "Geographical Indication"
+      },
+      {
+        "label": "d",
+        "text": "Copyright"
+      }
+    ],
+    "answer": "Patent"
+  },
+  {
+    "question": "One major function of WTO is to:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Enforce trade sanctions automatically"
+      },
+      {
+        "label": "b",
+        "text": "Control the global money supply"
+      },
+      {
+        "label": "c",
+        "text": "Serve as a forum for trade negotiations and dispute resolution"
+      },
+      {
+        "label": "d",
+        "text": "Regulate domestic industries"
+      }
+    ],
+    "answer": "Serve as a forum for trade negotiations and dispute resolution"
+  },
+  {
+    "question": "What cannot be patented in India?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Computer program"
+      },
+      {
+        "label": "b",
+        "text": "Method of agriculture"
+      },
+      {
+        "label": "c",
+        "text": "All of the above"
+      },
+      {
+        "label": "d",
+        "text": "A mere idea or a discovery"
+      }
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "A software company licenses its operating system to computer manufacturers. This practice is known as:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Infringement"
+      },
+      {
+        "label": "b",
+        "text": "Registration"
+      },
+      {
+        "label": "c",
+        "text": "Assignment"
+      },
+      {
+        "label": "d",
+        "text": "Licensing"
+      }
+    ],
+    "answer": "Licensing"
+  },
+  {
+    "question": "The WTO\u2019s Agreement on Agriculture (AoA) aims to:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Increase trade restrictions on agricultural goods"
+      },
+      {
+        "label": "b",
+        "text": "Nationalize farm products globally"
+      },
+      {
+        "label": "c",
+        "text": "Abolish subsidies for all members"
+      },
+      {
+        "label": "d",
+        "text": "Promote fair competition and market access in agriculture"
+      }
+    ],
+    "answer": "Promote fair competition and market access in agriculture"
+  },
+  {
+    "question": "GATT was replaced by the WTO after which trade negotiation round?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Geneva Round"
+      },
+      {
+        "label": "b",
+        "text": "Doha Round"
+      },
+      {
+        "label": "c",
+        "text": "Uruguay Round"
+      },
+      {
+        "label": "d",
+        "text": "Tokyo Round"
+      }
+    ],
+    "answer": "Uruguay Round"
+  },
+  {
+    "question": "The importance of a patent to an industry is to:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Improve existing technology"
+      },
+      {
+        "label": "b",
+        "text": "Increase production"
+      },
+      {
+        "label": "c",
+        "text": "All of the above"
+      },
+      {
+        "label": "d",
+        "text": "Identify suitable technologies for adaptation"
+      }
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "A new chocolate company copies the packaging style of a popular brand to mislead consumers. Which IPRs are affected?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Trademark and Industrial Design"
+      },
+      {
+        "label": "b",
+        "text": "Copyright only"
+      },
+      {
+        "label": "c",
+        "text": "GI only"
+      },
+      {
+        "label": "d",
+        "text": "Patent only"
+      }
+    ],
+    "answer": "Trademark and Industrial Design"
+  },
+  {
+    "question": "\u201cKanchipuram Silk Sarees\u201d are known for their unique weaving technique and regional identity. This product is protected by:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Copyright"
+      },
+      {
+        "label": "b",
+        "text": "Patent"
+      },
+      {
+        "label": "c",
+        "text": "Geographical Indication"
+      },
+      {
+        "label": "d",
+        "text": "Trademark"
+      }
+    ],
+    "answer": "Geographical Indication"
+  },
+  {
+    "question": "When the shape of goods or packaging has a distinctive feature, it can be registered as:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Sounds marks"
+      },
+      {
+        "label": "b",
+        "text": "Smell marks"
+      },
+      {
+        "label": "c",
+        "text": "Shape marks"
+      },
+      {
+        "label": "d",
+        "text": "Colour trademark"
+      }
+    ],
+    "answer": "Shape marks"
+  },
+  {
+    "question": "Which of the following is a key requirement for an invention to be patented?",
+    "options": [
+      {
+        "label": "a",
+        "text": "High cost"
+      },
+      {
+        "label": "b",
+        "text": "Confidentiality"
+      },
+      {
+        "label": "c",
+        "text": "Novelty"
+      },
+      {
+        "label": "d",
+        "text": "Trademarked"
+      }
+    ],
+    "answer": "Novelty"
+  },
+  {
+    "question": "A company designs a unique bottle shape for its perfume brand. Which protection prevents others from copying the shape?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Industrial Design"
+      },
+      {
+        "label": "b",
+        "text": "Copyright"
+      },
+      {
+        "label": "c",
+        "text": "Trademark"
+      },
+      {
+        "label": "d",
+        "text": "Patent"
+      }
+    ],
+    "answer": "Industrial Design"
+  },
+  {
+    "question": "The WTO principle that promotes transparency in trade policies requires members to:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Limit trade policy updates to once every decade"
+      },
+      {
+        "label": "b",
+        "text": "Keep their trade laws secret"
+      },
+      {
+        "label": "c",
+        "text": "Publish and notify all trade-related measures"
+      },
+      {
+        "label": "d",
+        "text": "Restrict information sharing among members"
+      }
+    ],
+    "answer": "Publish and notify all trade-related measures"
+  },
+  {
+    "question": "A country that grants tariff reduction to another WTO member must extend the same concession to all members. This demonstrates:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Most-Favoured-Nation (MFN) Principle"
+      },
+      {
+        "label": "b",
+        "text": "Reciprocity Principle"
+      },
+      {
+        "label": "c",
+        "text": "National Treatment"
+      },
+      {
+        "label": "d",
+        "text": "Transparency Principle"
+      }
+    ],
+    "answer": "Most-Favoured-Nation (MFN) Principle"
+  },
+  {
+    "question": "Intellectual property shall include the rights relating to:",
+    "options": [
+      {
+        "label": "a",
+        "text": "All of the above"
+      },
+      {
+        "label": "b",
+        "text": "Inventions in all fields"
+      },
+      {
+        "label": "c",
+        "text": "Industrial designs"
+      },
+      {
+        "label": "d",
+        "text": "Scientific discoveries"
+      }
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is administered by WIPO?",
+    "options": [
+      {
+        "label": "a",
+        "text": "GATT \u2013 General Agreement on Tariffs and Trade"
+      },
+      {
+        "label": "b",
+        "text": "PCT \u2013 Patent Cooperation Treaty"
+      },
+      {
+        "label": "c",
+        "text": "NAFTA \u2013 North American Free Trade Agreement"
+      },
+      {
+        "label": "d",
+        "text": "TRIPS \u2013 Trade-Related Aspects of Intellectual Property Rights"
+      }
+    ],
+    "answer": "PCT \u2013 Patent Cooperation Treaty"
+  },
+  {
+    "question": "Which of the following correctly describes the scope of WTO?",
+    "options": [
+      {
+        "label": "a",
+        "text": "It manages only tariff-related issues"
+      },
+      {
+        "label": "b",
+        "text": "It deals only with trade in goods"
+      },
+      {
+        "label": "c",
+        "text": "It acts only as a dispute resolution forum"
+      },
+      {
+        "label": "d",
+        "text": "It includes trade in goods, services, and intellectual property rights"
+      }
+    ],
+    "answer": "It includes trade in goods, services, and intellectual property rights"
+  },
+  {
+    "question": "The main difference between a trademark and a GI is that:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Trademarks identify a company; GIs identify origin and quality"
+      },
+      {
+        "label": "b",
+        "text": "There is no difference"
+      },
+      {
+        "label": "c",
+        "text": "GI refers to individual ownership"
+      },
+      {
+        "label": "d",
+        "text": "Trademarks are for industrial designs"
+      }
+    ],
+    "answer": "Trademarks identify a company; GIs identify origin and quality"
+  },
+  {
+    "question": "A video game company discovers that another firm has copied its graphics and storyline. Which right has been violated?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Patent"
+      },
+      {
+        "label": "b",
+        "text": "Copyright"
+      },
+      {
+        "label": "c",
+        "text": "Trademark"
+      },
+      {
+        "label": "d",
+        "text": "Industrial Design"
+      }
+    ],
+    "answer": "Copyright"
+  },
+  {
+    "question": "The exact recipe of Coco-Cola is a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Patent"
+      },
+      {
+        "label": "b",
+        "text": "Trade mark"
+      },
+      {
+        "label": "c",
+        "text": "Industrial design"
+      },
+      {
+        "label": "d",
+        "text": "Trade secret"
+      }
+    ],
+    "answer": "Trade secret"
+  },
+  {
+    "question": "How long does trade secret protection last?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Until the information is disclosed or no longer secret"
+      },
+      {
+        "label": "b",
+        "text": "Until the company dissolves"
+      },
+      {
+        "label": "c",
+        "text": "10 years"
+      },
+      {
+        "label": "d",
+        "text": "20 years"
+      }
+    ],
+    "answer": "Until the information is disclosed or no longer secret"
+  },
+  {
+    "question": "The binding dispute resolution mechanism of WTO differs from GATT because:",
+    "options": [
+      {
+        "label": "a",
+        "text": "GATT decisions were not legally enforceable"
+      },
+      {
+        "label": "b",
+        "text": "WTO cannot impose any penalties"
+      },
+      {
+        "label": "c",
+        "text": "WTO decisions are purely advisory"
+      },
+      {
+        "label": "d",
+        "text": "GATT included criminal penalties for trade violations"
+      }
+    ],
+    "answer": "GATT decisions were not legally enforceable"
+  },
+  {
+    "question": "Which of the following best describes misappropriation of trade secrets?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Illegally obtaining confidential business information"
+      },
+      {
+        "label": "b",
+        "text": "Reverse engineering a product legally"
+      },
+      {
+        "label": "c",
+        "text": "Copying a public patent"
+      },
+      {
+        "label": "d",
+        "text": "Using one\u2019s own business knowledge"
+      }
+    ],
+    "answer": "Illegally obtaining confidential business information"
+  },
+  {
+    "question": "The importance of a patent to a researcher/inventor in industry/R & D organization/university is to:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Keep up to date with developments in the field of technology"
+      },
+      {
+        "label": "b",
+        "text": "All of the above"
+      },
+      {
+        "label": "c",
+        "text": "Find ready solutions to technical problems in ongoing research"
+      },
+      {
+        "label": "d",
+        "text": "Avoid duplication of research"
+      }
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "How long is a plant patent valid for?",
+    "options": [
+      {
+        "label": "a",
+        "text": "5 years"
+      },
+      {
+        "label": "b",
+        "text": "10 years"
+      },
+      {
+        "label": "c",
+        "text": "20 years"
+      },
+      {
+        "label": "d",
+        "text": "15 years"
+      }
+    ],
+    "answer": "20 years"
+  },
+  {
+    "question": "If the invention improves some product, process or service for the public, then that invention transforms into:",
+    "options": [
+      {
+        "label": "a",
+        "text": "An incremental development"
+      },
+      {
+        "label": "b",
+        "text": "A discovery"
+      },
+      {
+        "label": "c",
+        "text": "None of the above"
+      },
+      {
+        "label": "d",
+        "text": "An innovation"
+      }
+    ],
+    "answer": "An innovation"
+  },
+  {
+    "question": "Trademark refers to:",
+    "options": [
+      {
+        "label": "a",
+        "text": "A form of taxation"
+      },
+      {
+        "label": "b",
+        "text": "A recognizable sign, design, or expression"
+      },
+      {
+        "label": "c",
+        "text": "A literary work"
+      },
+      {
+        "label": "d",
+        "text": "A secret business process"
+      }
+    ],
+    "answer": "A recognizable sign, design, or expression"
+  },
+  {
+    "question": "A textile company in Tamil Nadu copies the embroidery design of another local brand. Which IPR is being infringed?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Copyright"
+      },
+      {
+        "label": "b",
+        "text": "Industrial Design"
+      },
+      {
+        "label": "c",
+        "text": "Trademark"
+      },
+      {
+        "label": "d",
+        "text": "Patent"
+      }
+    ],
+    "answer": "Industrial Design"
+  },
+  {
+    "question": "A word mark primarily protects:",
+    "options": [
+      {
+        "label": "a",
+        "text": "The 3D shape of a product"
+      },
+      {
+        "label": "b",
+        "text": "The literal text or words used in a brand"
+      },
+      {
+        "label": "c",
+        "text": "The colour scheme of the packaging"
+      },
+      {
+        "label": "d",
+        "text": "The sound of a brand name"
+      }
+    ],
+    "answer": "The literal text or words used in a brand"
+  },
+  {
+    "question": "A sign which is perceived by hearing and is distinguishable by their distinctive and exclusive sound can be registered as:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Colour trademark"
+      },
+      {
+        "label": "b",
+        "text": "Shape marks"
+      },
+      {
+        "label": "c",
+        "text": "Smell marks"
+      },
+      {
+        "label": "d",
+        "text": "Sounds marks"
+      }
+    ],
+    "answer": "Sounds marks"
+  },
+  {
+    "question": "A patent protects:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Business reputation"
+      },
+      {
+        "label": "b",
+        "text": "Inventions and innovations"
+      },
+      {
+        "label": "c",
+        "text": "Brand names and logos"
+      },
+      {
+        "label": "d",
+        "text": "Literary work"
+      }
+    ],
+    "answer": "Inventions and innovations"
+  },
+  {
+    "question": "The establishment of the WTO strengthened GATT by:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Reducing member participation"
+      },
+      {
+        "label": "b",
+        "text": "Introducing enforceable dispute settlement and expanded coverage"
+      },
+      {
+        "label": "c",
+        "text": "Eliminating the MFN clause"
+      },
+      {
+        "label": "d",
+        "text": "Abolishing the National Treatment principle"
+      }
+    ],
+    "answer": "Introducing enforceable dispute settlement and expanded coverage"
+  },
+  {
+    "question": "A design will not be registered if it:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Has already been disclosed to the public anywhere"
+      },
+      {
+        "label": "b",
+        "text": "Is novel and non-functional"
+      },
+      {
+        "label": "c",
+        "text": "Is purely decorative"
+      },
+      {
+        "label": "d",
+        "text": "Is related to a manufactured product"
+      }
+    ],
+    "answer": "Has already been disclosed to the public anywhere"
+  },
+  {
+    "question": "Which of the following is a primary source of patent information?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Scientific journals"
+      },
+      {
+        "label": "b",
+        "text": "Wikipedia"
+      },
+      {
+        "label": "c",
+        "text": "Newspapers"
+      },
+      {
+        "label": "d",
+        "text": "Patent offices and their databases"
+      }
+    ],
+    "answer": "Patent offices and their databases"
+  },
+  {
+    "question": "A tech startup invents a new solar-powered drone and registers a name \u201cSunFly\u201d for it. Which combination of IPRs provides full protection?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Patent for invention, Trademark for brand name"
+      },
+      {
+        "label": "b",
+        "text": "Trademark for invention, Copyright for name"
+      },
+      {
+        "label": "c",
+        "text": "Industrial Design for name, Patent for brand"
+      },
+      {
+        "label": "d",
+        "text": "Copyright for invention, GI for product"
+      }
+    ],
+    "answer": "Patent for invention, Trademark for brand name"
+  },
+  {
+    "question": "A sculptor\u2019s original statue design is reproduced by another artist without permission. What has been violated?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Copyright"
+      },
+      {
+        "label": "b",
+        "text": "Industrial Design"
+      },
+      {
+        "label": "c",
+        "text": "Patent"
+      },
+      {
+        "label": "d",
+        "text": "Trademark"
+      }
+    ],
+    "answer": "Copyright"
+  },
+  {
+    "question": "What does WIPO stand for?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Worldwide Intellectual Patent Organization"
+      },
+      {
+        "label": "b",
+        "text": "World Information and Privacy Organization"
+      },
+      {
+        "label": "c",
+        "text": "World Intellectual Property Organization"
+      },
+      {
+        "label": "d",
+        "text": "World International Patent Office"
+      }
+    ],
+    "answer": "World Intellectual Property Organization"
+  },
+  {
+    "question": "What type of intellectual property protects inventions?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Copyright"
+      },
+      {
+        "label": "b",
+        "text": "Trademark"
+      },
+      {
+        "label": "c",
+        "text": "Patent"
+      },
+      {
+        "label": "d",
+        "text": "Trade secret"
+      }
+    ],
+    "answer": "Patent"
+  },
+  {
+    "question": "An artist paints a portrait and sells prints of it. What form of protection covers this artwork?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Patent"
+      },
+      {
+        "label": "b",
+        "text": "Copyright"
+      },
+      {
+        "label": "c",
+        "text": "Trademark"
+      },
+      {
+        "label": "d",
+        "text": "Industrial Design"
+      }
+    ],
+    "answer": "Copyright"
+  },
+  {
+    "question": "A perfume company uses the brand name \u201cChanel No.5\u201d without authorization. Which law applies?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Copyright Act"
+      },
+      {
+        "label": "b",
+        "text": "Patent Act"
+      },
+      {
+        "label": "c",
+        "text": "GI Act"
+      },
+      {
+        "label": "d",
+        "text": "Trademark Act"
+      }
+    ],
+    "answer": "Trademark Act"
+  },
+  {
+    "question": "An application which can be filed if the invention is still under the experimentation stage is:",
+    "options": [
+      {
+        "label": "a",
+        "text": "PCT International application"
+      },
+      {
+        "label": "b",
+        "text": "Convention application"
+      },
+      {
+        "label": "c",
+        "text": "Ordinary application"
+      },
+      {
+        "label": "d",
+        "text": "Provisional application"
+      }
+    ],
+    "answer": "Provisional application"
+  },
+  {
+    "question": "How long is a design patent valid for?",
+    "options": [
+      {
+        "label": "a",
+        "text": "20 years"
+      },
+      {
+        "label": "b",
+        "text": "5 years"
+      },
+      {
+        "label": "c",
+        "text": "10 years"
+      },
+      {
+        "label": "d",
+        "text": "14 years"
+      }
+    ],
+    "answer": "14 years"
+  },
+  {
+    "question": "Under the WTO framework, agreements on Trade-Related Aspects of Intellectual Property Rights (TRIPS) were introduced to:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Regulate agricultural subsidies"
+      },
+      {
+        "label": "b",
+        "text": "Protect intellectual property in international trade"
+      },
+      {
+        "label": "c",
+        "text": "Liberalize banking and financial services"
+      },
+      {
+        "label": "d",
+        "text": "Restrict global patent protection"
+      }
+    ],
+    "answer": "Protect intellectual property in international trade"
+  },
+  {
+    "question": "The WTO\u2019s Trade Policy Review Mechanism (TPRM) aims to:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Monitor currency exchange rates"
+      },
+      {
+        "label": "b",
+        "text": "Review and enhance transparency in national trade policies"
+      },
+      {
+        "label": "c",
+        "text": "Penalize countries with trade deficits"
+      },
+      {
+        "label": "d",
+        "text": "Provide loans for trade expansion"
+      }
+    ],
+    "answer": "Review and enhance transparency in national trade policies"
+  },
+  {
+    "question": "The exclusive rights given to the inventor through a patent include:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Right to copyright the invention"
+      },
+      {
+        "label": "b",
+        "text": "Right to import only"
+      },
+      {
+        "label": "c",
+        "text": "Right to share it freely"
+      },
+      {
+        "label": "d",
+        "text": "Right to make, use, and sell the invention"
+      }
+    ],
+    "answer": "Right to make, use, and sell the invention"
+  },
+  {
+    "question": "The classic contour shape of a Coco-cola bottle is a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Patent"
+      },
+      {
+        "label": "b",
+        "text": "Trade secret"
+      },
+      {
+        "label": "c",
+        "text": "Trade mark"
+      },
+      {
+        "label": "d",
+        "text": "Industrial design"
+      }
+    ],
+    "answer": "Industrial design"
+  },
+  {
+    "question": "A music company registers the logo and slogan used for all its products. This is an example of:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Design"
+      },
+      {
+        "label": "b",
+        "text": "Copyright"
+      },
+      {
+        "label": "c",
+        "text": "Trademark"
+      },
+      {
+        "label": "d",
+        "text": "Patent"
+      }
+    ],
+    "answer": "Trademark"
+  },
+  {
+    "question": "A designer creates a unique jewelry design that becomes a trend. Which protection should be obtained?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Industrial Design"
+      },
+      {
+        "label": "b",
+        "text": "Patent"
+      },
+      {
+        "label": "c",
+        "text": "Copyright"
+      },
+      {
+        "label": "d",
+        "text": "Trademark"
+      }
+    ],
+    "answer": "Industrial Design"
+  },
+  {
+    "question": "The Dispute Settlement Body (DSB) in WTO functions to:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Impose economic sanctions"
+      },
+      {
+        "label": "b",
+        "text": "Resolve trade conflicts among member countries"
+      },
+      {
+        "label": "c",
+        "text": "Regulate tariff ceilings"
+      },
+      {
+        "label": "d",
+        "text": "Enforce intellectual property laws globally"
+      }
+    ],
+    "answer": "Resolve trade conflicts among member countries"
+  },
+  {
+    "question": "A patent granted by mistake or due to false representation can be:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Transferred"
+      },
+      {
+        "label": "b",
+        "text": "Commercialized"
+      },
+      {
+        "label": "c",
+        "text": "Invalidated"
+      },
+      {
+        "label": "d",
+        "text": "Renewed"
+      }
+    ],
+    "answer": "Invalidated"
+  },
+  {
+    "question": "What cannot be patented in India?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Traditional knowledge"
+      },
+      {
+        "label": "b",
+        "text": "All of the above"
+      },
+      {
+        "label": "c",
+        "text": "Atomic energy"
+      },
+      {
+        "label": "d",
+        "text": "Process of treating animals and humans"
+      }
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Geographical Indication (GI) is a type of IPR that:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Is used to patent inventions"
+      },
+      {
+        "label": "b",
+        "text": "Applies only to geographical maps"
+      },
+      {
+        "label": "c",
+        "text": "Protects domain names"
+      },
+      {
+        "label": "d",
+        "text": "Identifies goods with a specific geographical origin"
+      }
+    ],
+    "answer": "Identifies goods with a specific geographical origin"
+  },
+  {
+    "question": "The Most-Favoured-Nation (MFN) principle ensures:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Preferential treatment to least developed countries"
+      },
+      {
+        "label": "b",
+        "text": "Equal trade advantages to all member nations"
+      },
+      {
+        "label": "c",
+        "text": "Trade restrictions based on political alliances"
+      },
+      {
+        "label": "d",
+        "text": "Exemption of developing countries from tariffs"
+      }
+    ],
+    "answer": "Equal trade advantages to all member nations"
+  },
+  {
+    "question": "Trade secrets are protected by:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Publishing in a journal"
+      },
+      {
+        "label": "b",
+        "text": "Registration with the government"
+      },
+      {
+        "label": "c",
+        "text": "Copyright law"
+      },
+      {
+        "label": "d",
+        "text": "Maintaining confidentiality"
+      }
+    ],
+    "answer": "Maintaining confidentiality"
+  },
+  {
+    "question": "What are all the ways to file a patent application?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Application submitted by hand"
+      },
+      {
+        "label": "b",
+        "text": "Post"
+      },
+      {
+        "label": "c",
+        "text": "Online/E-filing"
+      },
+      {
+        "label": "d",
+        "text": "All of the above"
+      }
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "A farmer develops a new variety of wheat with high yield. Which IPR can provide protection?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Trademark"
+      },
+      {
+        "label": "b",
+        "text": "Plant Variety Protection"
+      },
+      {
+        "label": "c",
+        "text": "Copyright"
+      },
+      {
+        "label": "d",
+        "text": "Industrial Design"
+      }
+    ],
+    "answer": "Plant Variety Protection"
+  },
+  {
+    "question": "A restaurant chain uses a specific logo and tagline to identify its brand. Which IPR protects these?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Industrial Design"
+      },
+      {
+        "label": "b",
+        "text": "Copyright"
+      },
+      {
+        "label": "c",
+        "text": "Trademark"
+      },
+      {
+        "label": "d",
+        "text": "Patent"
+      }
+    ],
+    "answer": "Trademark"
+  },
+  {
+    "question": "The primary goal of GATT when it was established in 1947 was to:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Provide financial aid to developing countries"
+      },
+      {
+        "label": "b",
+        "text": "Promote free trade by reducing trade barriers and tariffs"
+      },
+      {
+        "label": "c",
+        "text": "Regulate exchange rates among member nations"
+      },
+      {
+        "label": "d",
+        "text": "Manage agricultural subsidies and domestic prices"
+      }
+    ],
+    "answer": "Promote free trade by reducing trade barriers and tariffs"
+  },
+  {
+    "question": "One significant achievement of the Uruguay Round of GATT negotiations was:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Creation of the World Trade Organization"
+      },
+      {
+        "label": "b",
+        "text": "Replacement of tariff negotiations with subsidies"
+      },
+      {
+        "label": "c",
+        "text": "Elimination of all non-tariff barriers"
+      },
+      {
+        "label": "d",
+        "text": "Introduction of regional trade blocs"
+      }
+    ],
+    "answer": "Creation of the World Trade Organization"
+  },
+  {
+    "question": "Developing countries benefit from WTO membership primarily because:",
+    "options": [
+      {
+        "label": "a",
+        "text": "They can impose unlimited trade restrictions"
+      },
+      {
+        "label": "b",
+        "text": "They receive automatic tariff exemptions"
+      },
+      {
+        "label": "c",
+        "text": "They gain access to global markets under predictable and fair trade rules"
+      },
+      {
+        "label": "d",
+        "text": "They are excluded from dispute settlements"
+      }
+    ],
+    "answer": "They gain access to global markets under predictable and fair trade rules"
+  },
+  {
+    "question": "A craftsman in Kashmir produces \u201cPashmina Shawls\u201d that have received GI status. Selling fake shawls under this name violates:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Trademark Law"
+      },
+      {
+        "label": "b",
+        "text": "Patent Law"
+      },
+      {
+        "label": "c",
+        "text": "Copyright Law"
+      },
+      {
+        "label": "d",
+        "text": "Geographical Indication Law"
+      }
+    ],
+    "answer": "Geographical Indication Law"
+  },
+  {
+    "question": "The Doha Development Agenda (DDA) launched under WTO focused mainly on:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Increasing tariffs in developed nations"
+      },
+      {
+        "label": "b",
+        "text": "Abolishing agricultural trade"
+      },
+      {
+        "label": "c",
+        "text": "Reducing intellectual property protections"
+      },
+      {
+        "label": "d",
+        "text": "Addressing trade concerns of developing and least-developed countries"
+      }
+    ],
+    "answer": "Addressing trade concerns of developing and least-developed countries"
+  },
+  {
+    "question": "Which of the following can be protected under industrial design law?",
+    "options": [
+      {
+        "label": "a",
+        "text": "A new software algorithm"
+      },
+      {
+        "label": "b",
+        "text": "The written script of a play"
+      },
+      {
+        "label": "c",
+        "text": "The manufacturing process of a product"
+      },
+      {
+        "label": "d",
+        "text": "The shape and pattern of a bottle"
+      }
+    ],
+    "answer": "The shape and pattern of a bottle"
+  },
+  {
+    "question": "The name and logo of a Coco-Cola is a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Trade mark"
+      },
+      {
+        "label": "b",
+        "text": "Trade secret"
+      },
+      {
+        "label": "c",
+        "text": "Patent"
+      },
+      {
+        "label": "d",
+        "text": "Industrial design"
+      }
+    ],
+    "answer": "Trade mark"
+  },
+  {
+    "question": "A plant patent can be granted for which of the following?",
+    "options": [
+      {
+        "label": "a",
+        "text": "A genetically modified plant that reproduces asexually"
+      },
+      {
+        "label": "b",
+        "text": "An ornamental feature of a flower pot"
+      },
+      {
+        "label": "c",
+        "text": "A new method of growing tomatoes"
+      },
+      {
+        "label": "d",
+        "text": "A naturally occurring wild plant"
+      }
+    ],
+    "answer": "A genetically modified plant that reproduces asexually"
+  },
+  {
+    "question": "A film producer wants to prevent others from copying scenes from his movie. Which IPR is applicable?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Copyright"
+      },
+      {
+        "label": "b",
+        "text": "Industrial Design"
+      },
+      {
+        "label": "c",
+        "text": "Trademark"
+      },
+      {
+        "label": "d",
+        "text": "Patent"
+      }
+    ],
+    "answer": "Copyright"
+  },
+  {
+    "question": "A patent application without claiming any priority either in a convention country or without any reference to any other earlier application filed in the Patent Office is:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Ordinary application"
+      },
+      {
+        "label": "b",
+        "text": "Provisional application"
+      },
+      {
+        "label": "c",
+        "text": "Convention application"
+      },
+      {
+        "label": "d",
+        "text": "PCT International application"
+      }
+    ],
+    "answer": "Ordinary application"
+  },
+  {
+    "question": "When the smell if distinctive and cannot be mistaken for an associated product, it can be registered as:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Shape marks"
+      },
+      {
+        "label": "b",
+        "text": "Sounds marks"
+      },
+      {
+        "label": "c",
+        "text": "Smell marks"
+      },
+      {
+        "label": "d",
+        "text": "Colour trademark"
+      }
+    ],
+    "answer": "Smell marks"
+  },
+  {
+    "question": "The \u00ae symbol next to a brand name indicates:",
+    "options": [
+      {
+        "label": "a",
+        "text": "The brand is under a franchise agreement"
+      },
+      {
+        "label": "b",
+        "text": "The brand is pending registration"
+      },
+      {
+        "label": "c",
+        "text": "The brand has a copyright"
+      },
+      {
+        "label": "d",
+        "text": "The brand is a registered trademark"
+      }
+    ],
+    "answer": "The brand is a registered trademark"
+  },
+  {
+    "question": "Geographical Indication (GI) is a type of:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Trademark"
+      },
+      {
+        "label": "b",
+        "text": "Copyright"
+      },
+      {
+        "label": "c",
+        "text": "Intellectual Property"
+      },
+      {
+        "label": "d",
+        "text": "Patent"
+      }
+    ],
+    "answer": "Intellectual Property"
+  },
+  {
+    "question": "One key difference between GATT and WTO is that the WTO:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Is a permanent institution with a legal framework for dispute settlement"
+      },
+      {
+        "label": "b",
+        "text": "Focuses only on goods, while GATT includes services"
+      },
+      {
+        "label": "c",
+        "text": "Operates without a formal dispute resolution system"
+      },
+      {
+        "label": "d",
+        "text": "Does not include agricultural products under its rules"
+      }
+    ],
+    "answer": "Is a permanent institution with a legal framework for dispute settlement"
+  },
+  {
+    "question": "What does a trademark primarily protect?",
+    "options": [
+      {
+        "label": "a",
+        "text": "A brand name, logo, or symbol"
+      },
+      {
+        "label": "b",
+        "text": "A company\u2019s annual profits"
+      },
+      {
+        "label": "c",
+        "text": "The ingredients of a product"
+      },
+      {
+        "label": "d",
+        "text": "The technical function of a product"
+      }
+    ],
+    "answer": "A brand name, logo, or symbol"
+  },
+  {
+    "question": "What is a trade secret?",
+    "options": [
+      {
+        "label": "a",
+        "text": "A type of government record"
+      },
+      {
+        "label": "b",
+        "text": "Confidential business information that provides a competitive edge"
+      },
+      {
+        "label": "c",
+        "text": "A government-approved trademark"
+      },
+      {
+        "label": "d",
+        "text": "A publicly disclosed patent"
+      }
+    ],
+    "answer": "Confidential business information that provides a competitive edge"
+  },
+  {
+    "question": "A publishing house finds that its textbook has been photocopied and sold illegally. Which IPR has been violated?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Patent"
+      },
+      {
+        "label": "b",
+        "text": "Copyright"
+      },
+      {
+        "label": "c",
+        "text": "Trademark"
+      },
+      {
+        "label": "d",
+        "text": "Industrial Design"
+      }
+    ],
+    "answer": "Copyright"
+  },
+  {
+    "question": "Which of the following is a well-known GI from India?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Xerox"
+      },
+      {
+        "label": "b",
+        "text": "Basmati rice"
+      },
+      {
+        "label": "c",
+        "text": "Microsoft Windows"
+      },
+      {
+        "label": "d",
+        "text": "Apple logo"
+      }
+    ],
+    "answer": "Basmati rice"
+  },
+  {
+    "question": "The principle of National Treatment under WTO implies that:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Domestic producers must get subsidies over foreign competitors"
+      },
+      {
+        "label": "b",
+        "text": "Domestic and imported goods must receive equal treatment after entering the market"
+      },
+      {
+        "label": "c",
+        "text": "Foreign goods must be treated less favorably than domestic goods"
+      },
+      {
+        "label": "d",
+        "text": "Trade barriers must be eliminated completely"
+      }
+    ],
+    "answer": "Domestic and imported goods must receive equal treatment after entering the market"
+  },
+  {
+    "question": "The Reciprocity Principle in GATT negotiations primarily means:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Developing countries should always match developed countries\u2019 concessions"
+      },
+      {
+        "label": "b",
+        "text": "No country should benefit from trade liberalization"
+      },
+      {
+        "label": "c",
+        "text": "Countries should impose equal tariffs"
+      },
+      {
+        "label": "d",
+        "text": "Members must offer equivalent trade concessions to each other"
+      }
+    ],
+    "answer": "Members must offer equivalent trade concessions to each other"
+  },
+  {
+    "question": "A stability study protocol is crucial for ensuring:",
+    "options": [
+      {
+        "label": "a",
+        "text": "The product can be manufactured at the lowest cost"
+      },
+      {
+        "label": "b",
+        "text": "The product meets marketing regulations"
+      },
+      {
+        "label": "c",
+        "text": "The product remains effective and safe throughout its shelf life"
+      },
+      {
+        "label": "d",
+        "text": "The product is compliant with environmental laws"
+      }
+    ],
+    "answer": "The product remains effective and safe throughout its shelf life"
+  },
+  {
+    "question": "How often should GMP documents be reviewed?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Every 5 years"
+      },
+      {
+        "label": "b",
+        "text": "Annually, or whenever processes change"
+      },
+      {
+        "label": "c",
+        "text": "After the expiration date of the product"
+      },
+      {
+        "label": "d",
+        "text": "Only when there is a production issue"
+      }
+    ],
+    "answer": "Annually, or whenever processes change"
+  },
+  {
+    "question": "Which GMP principle emphasizes preventing errors and defects rather than detecting them after they occur?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Cost-cutting strategies"
+      },
+      {
+        "label": "b",
+        "text": "Proactive quality control"
+      },
+      {
+        "label": "c",
+        "text": "Preventive measures and process controls"
+      },
+      {
+        "label": "d",
+        "text": "Corrective action"
+      }
+    ],
+    "answer": "Preventive measures and process controls"
+  },
+  {
+    "question": "What is the purpose of a Certificate of Analysis (CoA) in the pharmaceutical industry?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To track inventory levels"
+      },
+      {
+        "label": "b",
+        "text": "To document the pricing strategies of the product"
+      },
+      {
+        "label": "c",
+        "text": "To ensure that the pharmaceutical product is marketed effectively"
+      },
+      {
+        "label": "d",
+        "text": "To confirm that the product meets the required specifications and standards"
+      }
+    ],
+    "answer": "To confirm that the product meets the required specifications and standards"
+  },
+  {
+    "question": "What does the FDA primarily regulate?",
+    "options": [
+      {
+        "label": "a",
+        "text": "The marketing strategies of pharmaceutical companies"
+      },
+      {
+        "label": "b",
+        "text": "The quality, safety, and efficacy of food and drugs"
+      },
+      {
+        "label": "c",
+        "text": "The aesthetic design of pharmaceutical packaging"
+      },
+      {
+        "label": "d",
+        "text": "Financial stability of pharmaceutical companies"
+      }
+    ],
+    "answer": "The quality, safety, and efficacy of food and drugs"
+  },
+  {
+    "question": "Which of the following is considered a GMP requirement for facilities?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Cleanliness and proper maintenance"
+      },
+      {
+        "label": "b",
+        "text": "Operating without proper equipment"
+      },
+      {
+        "label": "c",
+        "text": "Using only manual labor"
+      },
+      {
+        "label": "d",
+        "text": "Minimizing worker breaks"
+      }
+    ],
+    "answer": "Cleanliness and proper maintenance"
+  },
+  {
+    "question": "Which of the following is the FDA's role in GMP?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Setting production quotas"
+      },
+      {
+        "label": "b",
+        "text": "Conducting marketing surveys"
+      },
+      {
+        "label": "c",
+        "text": "Defining product pricing strategies"
+      },
+      {
+        "label": "d",
+        "text": "Ensuring that manufacturers comply with GMP regulations"
+      }
+    ],
+    "answer": "Ensuring that manufacturers comply with GMP regulations"
+  },
+  {
+    "question": "Which of the following is the purpose of ISO 9001?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To ensure food safety in manufacturing"
+      },
+      {
+        "label": "b",
+        "text": "To establish a framework for quality management systems"
+      },
+      {
+        "label": "c",
+        "text": "To regulate the marketing of pharmaceutical products"
+      },
+      {
+        "label": "d",
+        "text": "To define environmental standards for pharmaceutical production"
+      }
+    ],
+    "answer": "To establish a framework for quality management systems"
+  },
+  {
+    "question": "Which of the following is true about the ISO 17025 standard?",
+    "options": [
+      {
+        "label": "a",
+        "text": "It sets standards for marketing and advertising pharmaceutical products"
+      },
+      {
+        "label": "b",
+        "text": "It is used to regulate the manufacturing of biologics"
+      },
+      {
+        "label": "c",
+        "text": "It is focused on the financial aspects of pharmaceutical companies"
+      },
+      {
+        "label": "d",
+        "text": "It defines requirements for competence of testing and calibration laboratories"
+      }
+    ],
+    "answer": "It defines requirements for competence of testing and calibration laboratories"
+  },
+  {
+    "question": "Which FDA regulation mandates that pharmaceutical companies must submit reports about adverse events related to their products?",
+    "options": [
+      {
+        "label": "a",
+        "text": "The Safe Drinking Water Act"
+      },
+      {
+        "label": "b",
+        "text": "The Federal Food, Drug, and Cosmetic Act (FDCA)"
+      },
+      {
+        "label": "c",
+        "text": "The Food, Drug, and Cosmetic Act"
+      },
+      {
+        "label": "d",
+        "text": "The Drug Enforcement Administration Act"
+      }
+    ],
+    "answer": "The Federal Food, Drug, and Cosmetic Act (FDCA)"
+  },
+  {
+    "question": "Which of the following is an example of a Quality Control (QC) function in GMP?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Reviewing employee compensation packages"
+      },
+      {
+        "label": "b",
+        "text": "Inspecting raw materials and finished products to ensure compliance with quality standards"
+      },
+      {
+        "label": "c",
+        "text": "Developing a sales strategy for a new product"
+      },
+      {
+        "label": "d",
+        "text": "Managing supplier relationships"
+      }
+    ],
+    "answer": "Inspecting raw materials and finished products to ensure compliance with quality standards"
+  },
+  {
+    "question": "What is required to ensure that GMP guidelines are being followed consistently?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Decreasing the workforce"
+      },
+      {
+        "label": "b",
+        "text": "Limiting training programs"
+      },
+      {
+        "label": "c",
+        "text": "Increasing production speed"
+      },
+      {
+        "label": "d",
+        "text": "Regular audits and inspections"
+      }
+    ],
+    "answer": "Regular audits and inspections"
+  },
+  {
+    "question": "What does \"batch-to-batch consistency\" mean in GMP?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Each batch should have unique marketing materials"
+      },
+      {
+        "label": "b",
+        "text": "Each batch of a product should have the same production cost"
+      },
+      {
+        "label": "c",
+        "text": "Each batch of a product should have different packaging designs"
+      },
+      {
+        "label": "d",
+        "text": "Each batch of a product should be produced using identical methods and materials to ensure quality consistency"
+      }
+    ],
+    "answer": "Each batch of a product should be produced using identical methods and materials to ensure quality consistency"
+  },
+  {
+    "question": "What is the purpose of an audit report in the pharmaceutical industry?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To monitor environmental conditions in the manufacturing facility"
+      },
+      {
+        "label": "b",
+        "text": "To record sales transactions"
+      },
+      {
+        "label": "c",
+        "text": "To review compliance with internal and external regulations and identify areas for improvement"
+      },
+      {
+        "label": "d",
+        "text": "To promote the product to customers"
+      }
+    ],
+    "answer": "To review compliance with internal and external regulations and identify areas for improvement"
+  },
+  {
+    "question": "Which document is used to verify the quality of raw materials before they are used in production?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Sales Forecast"
+      },
+      {
+        "label": "b",
+        "text": "Marketing Plan"
+      },
+      {
+        "label": "c",
+        "text": "Raw Material Specification"
+      },
+      {
+        "label": "d",
+        "text": "Financial Audit Report"
+      }
+    ],
+    "answer": "Raw Material Specification"
+  },
+  {
+    "question": "Which of the following describes the role of Standard Operating Procedures (SOPs) in pharmaceutical manufacturing?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To outline financial goals for the company"
+      },
+      {
+        "label": "b",
+        "text": "To track marketing performance"
+      },
+      {
+        "label": "c",
+        "text": "To guide human resources in recruitment practices"
+      },
+      {
+        "label": "d",
+        "text": "To establish a uniform method of performing tasks to ensure consistency and quality"
+      }
+    ],
+    "answer": "To establish a uniform method of performing tasks to ensure consistency and quality"
+  },
+  {
+    "question": "Why is it important to maintain records of all raw materials used in pharmaceutical manufacturing?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To track and ensure quality and safety of the final product"
+      },
+      {
+        "label": "b",
+        "text": "To avoid documentation overload"
+      },
+      {
+        "label": "c",
+        "text": "To reduce production costs"
+      },
+      {
+        "label": "d",
+        "text": "To comply with marketing regulations"
+      }
+    ],
+    "answer": "To track and ensure quality and safety of the final product"
+  },
+  {
+    "question": "Which department is most likely responsible for implementing quality systems in a GMP environment?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Research and Development"
+      },
+      {
+        "label": "b",
+        "text": "Finance"
+      },
+      {
+        "label": "c",
+        "text": "Human Resources"
+      },
+      {
+        "label": "d",
+        "text": "Quality Assurance"
+      }
+    ],
+    "answer": "Quality Assurance"
+  },
+  {
+    "question": "The FDA's Center for Drug Evaluation and Research (CDER) is responsible for:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Setting pricing strategies for pharmaceutical products"
+      },
+      {
+        "label": "b",
+        "text": "Promoting pharmaceutical company stocks"
+      },
+      {
+        "label": "c",
+        "text": "Marketing pharmaceutical products"
+      },
+      {
+        "label": "d",
+        "text": "Ensuring the safety, efficacy, and quality of drugs sold in the U.S."
+      }
+    ],
+    "answer": "Ensuring the safety, efficacy, and quality of drugs sold in the U.S."
+  },
+  {
+    "question": "What is the role of training in GMP compliance?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To ensure that all employees understand and follow GMP regulations"
+      },
+      {
+        "label": "b",
+        "text": "To improve employee motivation"
+      },
+      {
+        "label": "c",
+        "text": "To develop new products quickly"
+      },
+      {
+        "label": "d",
+        "text": "To reduce the number of employees needed"
+      }
+    ],
+    "answer": "To ensure that all employees understand and follow GMP regulations"
+  },
+  {
+    "question": "What is the purpose of a Stability Study in pharmaceutical manufacturing?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To track market trends for the product"
+      },
+      {
+        "label": "b",
+        "text": "To ensure that the product remains effective and safe over its shelf life"
+      },
+      {
+        "label": "c",
+        "text": "To document financial performance"
+      },
+      {
+        "label": "d",
+        "text": "To analyze employee performance"
+      }
+    ],
+    "answer": "To ensure that the product remains effective and safe over its shelf life"
+  },
+  {
+    "question": "Which document is essential to track the identity, history, and status of a product during manufacturing?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Stability Study Protocol"
+      },
+      {
+        "label": "b",
+        "text": "Batch Record"
+      },
+      {
+        "label": "c",
+        "text": "Marketing Strategy"
+      },
+      {
+        "label": "d",
+        "text": "Standard Operating Procedure (SOP)"
+      }
+    ],
+    "answer": "Batch Record"
+  },
+  {
+    "question": "Which FDA regulation applies specifically to labeling requirements for pharmaceutical products?",
+    "options": [
+      {
+        "label": "a",
+        "text": "21 CFR 210"
+      },
+      {
+        "label": "b",
+        "text": "21 CFR 610"
+      },
+      {
+        "label": "c",
+        "text": "21 CFR 201"
+      },
+      {
+        "label": "d",
+        "text": "21 CFR 130"
+      }
+    ],
+    "answer": "21 CFR 201"
+  },
+  {
+    "question": "Which of the following is NOT an essential document in GMP?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Equipment calibration logs"
+      },
+      {
+        "label": "b",
+        "text": "Marketing brochures"
+      },
+      {
+        "label": "c",
+        "text": "Batch production records"
+      },
+      {
+        "label": "d",
+        "text": "Standard operating procedures (SOPs)"
+      }
+    ],
+    "answer": "Marketing brochures"
+  },
+  {
+    "question": "Which of the following ISO standards is primarily focused on environmental management?",
+    "options": [
+      {
+        "label": "a",
+        "text": "ISO 14001"
+      },
+      {
+        "label": "b",
+        "text": "ISO 9001"
+      },
+      {
+        "label": "c",
+        "text": "ISO 17025"
+      },
+      {
+        "label": "d",
+        "text": "ISO 22000"
+      }
+    ],
+    "answer": "ISO 14001"
+  },
+  {
+    "question": "Which of the following is a primary requirement of Good Manufacturing Practice (GMP)?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Using the best raw materials"
+      },
+      {
+        "label": "b",
+        "text": "Minimal documentation"
+      },
+      {
+        "label": "c",
+        "text": "Lowering production costs"
+      },
+      {
+        "label": "d",
+        "text": "Having controlled and well-maintained equipment"
+      }
+    ],
+    "answer": "Having controlled and well-maintained equipment"
+  },
+  {
+    "question": "What is the primary purpose of the FDA\u2019s Good Laboratory Practice (GLP) guidelines?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To guarantee that lab tests are accurate and reproducible"
+      },
+      {
+        "label": "b",
+        "text": "To manage marketing strategies for pharmaceutical companies"
+      },
+      {
+        "label": "c",
+        "text": "To ensure that clinical trials are conducted according to ethical standards"
+      },
+      {
+        "label": "d",
+        "text": "To monitor employee performance"
+      }
+    ],
+    "answer": "To guarantee that lab tests are accurate and reproducible"
+  },
+  {
+    "question": "Which of the following is the primary focus of a GMP-compliant quality system?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Production speed"
+      },
+      {
+        "label": "b",
+        "text": "Marketing"
+      },
+      {
+        "label": "c",
+        "text": "Ensuring product quality and patient safety"
+      },
+      {
+        "label": "d",
+        "text": "Cost-cutting strategies"
+      }
+    ],
+    "answer": "Ensuring product quality and patient safety"
+  },
+  {
+    "question": "The ISO 45001 standard is focused on:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Food safety management systems"
+      },
+      {
+        "label": "b",
+        "text": "Occupational health and safety management"
+      },
+      {
+        "label": "c",
+        "text": "Environmental management systems"
+      },
+      {
+        "label": "d",
+        "text": "Quality management systems"
+      }
+    ],
+    "answer": "Occupational health and safety management"
+  },
+  {
+    "question": "Which of the following documents is required to prove that a pharmaceutical product has been manufactured in accordance with GMP guidelines?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Sales forecast"
+      },
+      {
+        "label": "b",
+        "text": "Certificate of Analysis (CoA)"
+      },
+      {
+        "label": "c",
+        "text": "Annual financial report"
+      },
+      {
+        "label": "d",
+        "text": "Marketing brochure"
+      }
+    ],
+    "answer": "Certificate of Analysis (CoA)"
+  },
+  {
+    "question": "Which of the following must be validated under GMP to ensure it meets production standards?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Financial reporting systems"
+      },
+      {
+        "label": "b",
+        "text": "Cleaning procedures and equipment"
+      },
+      {
+        "label": "c",
+        "text": "Marketing materials"
+      },
+      {
+        "label": "d",
+        "text": "Packaging designs"
+      }
+    ],
+    "answer": "Cleaning procedures and equipment"
+  },
+  {
+    "question": "What is the primary purpose of maintaining a document control system in GMP?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To ensure that all records are up-to-date, accurate, and accessible for audits"
+      },
+      {
+        "label": "b",
+        "text": "To manage employee leave records"
+      },
+      {
+        "label": "c",
+        "text": "To track product costs"
+      },
+      {
+        "label": "d",
+        "text": "To market the product to customers"
+      }
+    ],
+    "answer": "To ensure that all records are up-to-date, accurate, and accessible for audits"
+  },
+  {
+    "question": "Which of the following is required for a pharmaceutical product to be marketed in the U.S.?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Labeling in multiple languages"
+      },
+      {
+        "label": "b",
+        "text": "Approval from the FDA"
+      },
+      {
+        "label": "c",
+        "text": "Advertising campaign"
+      },
+      {
+        "label": "d",
+        "text": "A minimum production run of 100,000 units"
+      }
+    ],
+    "answer": "Approval from the FDA"
+  },
+  {
+    "question": "Which of the following is typically included in a batch production record?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Detailed documentation of the production process for each batch"
+      },
+      {
+        "label": "b",
+        "text": "Marketing data"
+      },
+      {
+        "label": "c",
+        "text": "Sales strategies for the product"
+      },
+      {
+        "label": "d",
+        "text": "Employee schedules"
+      }
+    ],
+    "answer": "Detailed documentation of the production process for each batch"
+  },
+  {
+    "question": "Which of the following documents is used to ensure that products meet specific regulatory requirements before approval?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Financial statement"
+      },
+      {
+        "label": "b",
+        "text": "Regulatory Submission"
+      },
+      {
+        "label": "c",
+        "text": "Annual report"
+      },
+      {
+        "label": "d",
+        "text": "Sales forecast"
+      }
+    ],
+    "answer": "Regulatory Submission"
+  },
+  {
+    "question": "Which of the following is a key focus of ICH Q10?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Financial stability of pharmaceutical companies"
+      },
+      {
+        "label": "b",
+        "text": "Pharmaceutical quality systems"
+      },
+      {
+        "label": "c",
+        "text": "Development and manufacturing of biologics"
+      },
+      {
+        "label": "d",
+        "text": "Marketing and advertising"
+      }
+    ],
+    "answer": "Pharmaceutical quality systems"
+  },
+  {
+    "question": "Which of the following is a key function of a Deviation Report in GMP?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To ensure that all products are marketed effectively"
+      },
+      {
+        "label": "b",
+        "text": "To forecast sales growth"
+      },
+      {
+        "label": "c",
+        "text": "To describe actions taken to correct and prevent deviations from SOPs"
+      },
+      {
+        "label": "d",
+        "text": "To record the financial aspects of the product"
+      }
+    ],
+    "answer": "To describe actions taken to correct and prevent deviations from SOPs"
+  },
+  {
+    "question": "Which of the following best describes the role of Quality Assurance (QA) in GMP?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Develop new marketing strategies"
+      },
+      {
+        "label": "b",
+        "text": "Ensure that products consistently meet quality standards and regulatory requirements"
+      },
+      {
+        "label": "c",
+        "text": "Manage the financial audits of production facilities"
+      },
+      {
+        "label": "d",
+        "text": "Focus on reducing manufacturing costs"
+      }
+    ],
+    "answer": "Ensure that products consistently meet quality standards and regulatory requirements"
+  },
+  {
+    "question": "Which of the following best describes the role of SOPs in GMP?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To provide a uniform method for all company departments"
+      },
+      {
+        "label": "b",
+        "text": "To increase product variety"
+      },
+      {
+        "label": "c",
+        "text": "To ensure that tasks are performed in a consistent, standardized manner"
+      },
+      {
+        "label": "d",
+        "text": "To train employees faster"
+      }
+    ],
+    "answer": "To ensure that tasks are performed in a consistent, standardized manner"
+  },
+  {
+    "question": "Why is documentation essential in GMP?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To ensure traceability and compliance"
+      },
+      {
+        "label": "b",
+        "text": "To increase operational costs"
+      },
+      {
+        "label": "c",
+        "text": "To reduce manufacturing time"
+      },
+      {
+        "label": "d",
+        "text": "To improve employee morale"
+      }
+    ],
+    "answer": "To ensure traceability and compliance"
+  },
+  {
+    "question": "ISO 9001 certification primarily helps organizations achieve:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Lower operational costs"
+      },
+      {
+        "label": "b",
+        "text": "Limited product range"
+      },
+      {
+        "label": "c",
+        "text": "Enhanced regulatory compliance and better market positioning"
+      },
+      {
+        "label": "d",
+        "text": "Reduced time for product development"
+      }
+    ],
+    "answer": "Enhanced regulatory compliance and better market positioning"
+  },
+  {
+    "question": "Which type of documentation is necessary for the validation of manufacturing equipment?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Equipment validation report"
+      },
+      {
+        "label": "b",
+        "text": "Financial statements"
+      },
+      {
+        "label": "c",
+        "text": "Marketing analysis"
+      },
+      {
+        "label": "d",
+        "text": "Annual production plan"
+      }
+    ],
+    "answer": "Equipment validation report"
+  },
+  {
+    "question": "Which of the following does ICH stand for?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Internal Control for Harmonization"
+      },
+      {
+        "label": "b",
+        "text": "International Conference on Harmonization"
+      },
+      {
+        "label": "c",
+        "text": "Intercontinental Conference on Health"
+      },
+      {
+        "label": "d",
+        "text": "International Chemical Harmonization"
+      }
+    ],
+    "answer": "International Conference on Harmonization"
+  },
+  {
+    "question": "The purpose of a Change Control document is to:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Outline changes in the marketing strategy"
+      },
+      {
+        "label": "b",
+        "text": "Control financial expenditures"
+      },
+      {
+        "label": "c",
+        "text": "Record deviations from packaging protocols"
+      },
+      {
+        "label": "d",
+        "text": "Document and review any changes to the manufacturing process"
+      }
+    ],
+    "answer": "Document and review any changes to the manufacturing process"
+  },
+  {
+    "question": "In GMP, what is the purpose of quality assurance (QA)?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To market the product effectively"
+      },
+      {
+        "label": "b",
+        "text": "To ensure products are consistently produced to required quality standards"
+      },
+      {
+        "label": "c",
+        "text": "To control employee schedules"
+      },
+      {
+        "label": "d",
+        "text": "To manage the financial aspects of production"
+      }
+    ],
+    "answer": "To ensure products are consistently produced to required quality standards"
+  },
+  {
+    "question": "What is the role of change control documents in GMP?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To document financial expenses"
+      },
+      {
+        "label": "b",
+        "text": "To ensure that any changes to production processes or equipment are reviewed, approved, and recorded"
+      },
+      {
+        "label": "c",
+        "text": "To track product marketing campaigns"
+      },
+      {
+        "label": "d",
+        "text": "To outline employee schedules"
+      }
+    ],
+    "answer": "To ensure that any changes to production processes or equipment are reviewed, approved, and recorded"
+  },
+  {
+    "question": "Which of the following is true about validation protocols?",
+    "options": [
+      {
+        "label": "a",
+        "text": "They ensure that manufacturing processes and equipment consistently produce products meeting specifications"
+      },
+      {
+        "label": "b",
+        "text": "They only apply to pharmaceutical companies in the U.S."
+      },
+      {
+        "label": "c",
+        "text": "They are optional for manufacturers"
+      },
+      {
+        "label": "d",
+        "text": "They focus on financial auditing only"
+      }
+    ],
+    "answer": "They ensure that manufacturing processes and equipment consistently produce products meeting specifications"
+  },
+  {
+    "question": "In GMP, which of the following is necessary for achieving product consistency?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Reducing production costs"
+      },
+      {
+        "label": "b",
+        "text": "Use of standardized procedures and well-maintained equipment"
+      },
+      {
+        "label": "c",
+        "text": "Limiting employee training"
+      },
+      {
+        "label": "d",
+        "text": "Strict adherence to production schedules"
+      }
+    ],
+    "answer": "Use of standardized procedures and well-maintained equipment"
+  },
+  {
+    "question": "Which of the following ISO standards is crucial for laboratory testing and calibration?",
+    "options": [
+      {
+        "label": "a",
+        "text": "ISO 9001"
+      },
+      {
+        "label": "b",
+        "text": "ISO 22000"
+      },
+      {
+        "label": "c",
+        "text": "ISO 14001"
+      },
+      {
+        "label": "d",
+        "text": "ISO 17025"
+      }
+    ],
+    "answer": "ISO 17025"
+  },
+  {
+    "question": "Which of the following documents is a legal requirement for all drug products sold in the U.S.?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Profit and Loss Statement"
+      },
+      {
+        "label": "b",
+        "text": "Product labeling"
+      },
+      {
+        "label": "c",
+        "text": "Sales Forecast"
+      },
+      {
+        "label": "d",
+        "text": "Marketing Strategy"
+      }
+    ],
+    "answer": "Product labeling"
+  },
+  {
+    "question": "Which ISO standard is specifically designed for the safety of food products?",
+    "options": [
+      {
+        "label": "a",
+        "text": "ISO 14001"
+      },
+      {
+        "label": "b",
+        "text": "ISO 22000"
+      },
+      {
+        "label": "c",
+        "text": "ISO 9001"
+      },
+      {
+        "label": "d",
+        "text": "ISO 45001"
+      }
+    ],
+    "answer": "ISO 22000"
+  },
+  {
+    "question": "What is the significance of retaining raw material records for a certain period after production?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To facilitate quick product recalls"
+      },
+      {
+        "label": "b",
+        "text": "To provide information for product marketing"
+      },
+      {
+        "label": "c",
+        "text": "To ensure that the raw materials comply with specified quality standards and are traceable for audits"
+      },
+      {
+        "label": "d",
+        "text": "To reduce storage costs"
+      }
+    ],
+    "answer": "To ensure that the raw materials comply with specified quality standards and are traceable for audits"
+  },
+  {
+    "question": "Which of the following is included in the labeling requirements for pharmaceutical products?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Product\u2019s active ingredients and dosage"
+      },
+      {
+        "label": "b",
+        "text": "Employee attendance records"
+      },
+      {
+        "label": "c",
+        "text": "Sales forecasts"
+      },
+      {
+        "label": "d",
+        "text": "Product\u2019s marketing price"
+      }
+    ],
+    "answer": "Product\u2019s active ingredients and dosage"
+  },
+  {
+    "question": "Which of the following defines GMP most accurately?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Guidelines to ensure the safety, efficacy, and quality of pharmaceuticals"
+      },
+      {
+        "label": "b",
+        "text": "Rules for advertising pharmaceutical companies"
+      },
+      {
+        "label": "c",
+        "text": "A set of rules for manufacturing food products"
+      },
+      {
+        "label": "d",
+        "text": "Instructions for marketing pharmaceutical products"
+      }
+    ],
+    "answer": "Guidelines to ensure the safety, efficacy, and quality of pharmaceuticals"
+  },
+  {
+    "question": "Which FDA regulation requires manufacturers to report any significant changes in drug formulation or production process?",
+    "options": [
+      {
+        "label": "a",
+        "text": "21 CFR 320"
+      },
+      {
+        "label": "b",
+        "text": "21 CFR 812"
+      },
+      {
+        "label": "c",
+        "text": "21 CFR 11"
+      },
+      {
+        "label": "d",
+        "text": "21 CFR 210/211"
+      }
+    ],
+    "answer": "21 CFR 210/211"
+  },
+  {
+    "question": "Which of the following is NOT typically required to be documented under GMP regulations?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Employee training records"
+      },
+      {
+        "label": "b",
+        "text": "Product design specifications"
+      },
+      {
+        "label": "c",
+        "text": "Equipment maintenance records"
+      },
+      {
+        "label": "d",
+        "text": "Financial transaction records"
+      }
+    ],
+    "answer": "Financial transaction records"
+  },
+  {
+    "question": "Which of the following is the focus of ISO 13485?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Management of environmental impact in manufacturing"
+      },
+      {
+        "label": "b",
+        "text": "Quality management systems for medical devices"
+      },
+      {
+        "label": "c",
+        "text": "Control of pharmaceutical marketing activities"
+      },
+      {
+        "label": "d",
+        "text": "Quality management systems for food safety"
+      }
+    ],
+    "answer": "Quality management systems for medical devices"
+  },
+  {
+    "question": "Which of the following is a key element of a quality management system (QMS) in GMP?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Limiting the training of employees"
+      },
+      {
+        "label": "b",
+        "text": "Employee attendance tracking"
+      },
+      {
+        "label": "c",
+        "text": "Reducing production costs"
+      },
+      {
+        "label": "d",
+        "text": "Regular reviews of product complaints and corrective actions"
+      }
+    ],
+    "answer": "Regular reviews of product complaints and corrective actions"
+  },
+  {
+    "question": "Which of the following is NOT a requirement for a GMP-compliant quality management system?",
+    "options": [
+      {
+        "label": "a",
+        "text": "A system for tracking deviations from standard operating procedures"
+      },
+      {
+        "label": "b",
+        "text": "A robust system for training employees"
+      },
+      {
+        "label": "c",
+        "text": "A formal complaint handling system"
+      },
+      {
+        "label": "d",
+        "text": "A system to market products to consumers"
+      }
+    ],
+    "answer": "A system to market products to consumers"
+  },
+  {
+    "question": "Which of the following best describes the role of \"risk management\" in a GMP environment?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Focusing only on marketing risks"
+      },
+      {
+        "label": "b",
+        "text": "Identifying, evaluating, and mitigating risks to product quality and safety"
+      },
+      {
+        "label": "c",
+        "text": "Reducing the number of suppliers used in production"
+      },
+      {
+        "label": "d",
+        "text": "Cutting down on employee compensation"
+      }
+    ],
+    "answer": "Identifying, evaluating, and mitigating risks to product quality and safety"
+  },
+  {
+    "question": "What is the significance of a Product Master File in GMP?",
+    "options": [
+      {
+        "label": "a",
+        "text": "It tracks the product's sales data"
+      },
+      {
+        "label": "b",
+        "text": "It contains detailed information about the product's design, ingredients, and manufacturing processes"
+      },
+      {
+        "label": "c",
+        "text": "It stores financial performance reports"
+      },
+      {
+        "label": "d",
+        "text": "It outlines the product's marketing strategies"
+      }
+    ],
+    "answer": "It contains detailed information about the product's design, ingredients, and manufacturing processes"
+  },
+  {
+    "question": "FDA inspections in GMP facilities are primarily aimed at:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Checking inventory management practices"
+      },
+      {
+        "label": "b",
+        "text": "Assessing marketing strategies"
+      },
+      {
+        "label": "c",
+        "text": "Reviewing financial performance"
+      },
+      {
+        "label": "d",
+        "text": "Ensuring compliance with safety, quality, and regulatory standards"
+      }
+    ],
+    "answer": "Ensuring compliance with safety, quality, and regulatory standards"
+  },
+  {
+    "question": "What is the purpose of validation in GMP?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To minimize the use of raw materials"
+      },
+      {
+        "label": "b",
+        "text": "To ensure that the product is manufactured under sterile conditions"
+      },
+      {
+        "label": "c",
+        "text": "To reduce production time"
+      },
+      {
+        "label": "d",
+        "text": "To ensure consistency and compliance with regulatory requirements"
+      }
+    ],
+    "answer": "To ensure consistency and compliance with regulatory requirements"
+  },
+  {
+    "question": "The ICH guidelines are intended to:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Provide recommendations for pricing"
+      },
+      {
+        "label": "b",
+        "text": "Focus on financial audits"
+      },
+      {
+        "label": "c",
+        "text": "Regulate marketing activities"
+      },
+      {
+        "label": "d",
+        "text": "Set global standards for the manufacture and control of pharmaceutical products"
+      }
+    ],
+    "answer": "Set global standards for the manufacture and control of pharmaceutical products"
+  },
+  {
+    "question": "Which document is used to track any deviations from established procedures in GMP?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Annual Report"
+      },
+      {
+        "label": "b",
+        "text": "Incident Report"
+      },
+      {
+        "label": "c",
+        "text": "Corrective and Preventive Action (CAPA)"
+      },
+      {
+        "label": "d",
+        "text": "Marketing Report"
+      }
+    ],
+    "answer": "Corrective and Preventive Action (CAPA)"
+  },
+  {
+    "question": "In GMP, what is meant by \"quality control\"?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Streamlining production processes"
+      },
+      {
+        "label": "b",
+        "text": "The method of controlling raw material costs"
+      },
+      {
+        "label": "c",
+        "text": "Ensuring that the end product meets the required specifications"
+      },
+      {
+        "label": "d",
+        "text": "Reducing waste during manufacturing"
+      }
+    ],
+    "answer": "Ensuring that the end product meets the required specifications"
+  },
+  {
+    "question": "What is the primary role of an Environmental Monitoring Report in GMP?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To calculate production costs"
+      },
+      {
+        "label": "b",
+        "text": "To track employee attendance"
+      },
+      {
+        "label": "c",
+        "text": "To monitor the environmental conditions in manufacturing areas to ensure product quality"
+      },
+      {
+        "label": "d",
+        "text": "To forecast market trends"
+      }
+    ],
+    "answer": "To monitor the environmental conditions in manufacturing areas to ensure product quality"
+  },
+  {
+    "question": "Which of the following is an essential part of GMP to prevent cross-contamination during manufacturing?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Employee training on quality management"
+      },
+      {
+        "label": "b",
+        "text": "Proper sanitation and cleaning of facilities and equipment"
+      },
+      {
+        "label": "c",
+        "text": "Limiting the number of shifts worked by employees"
+      },
+      {
+        "label": "d",
+        "text": "Reducing the use of raw materials"
+      }
+    ],
+    "answer": "Proper sanitation and cleaning of facilities and equipment"
+  },
+  {
+    "question": "Which is NOT a responsibility of GMP personnel?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Ensuring compliance with production schedules"
+      },
+      {
+        "label": "b",
+        "text": "Monitoring quality control procedures"
+      },
+      {
+        "label": "c",
+        "text": "Monitoring employee attendance"
+      },
+      {
+        "label": "d",
+        "text": "Conducting regular inspections of facilities and processes"
+      }
+    ],
+    "answer": "Monitoring employee attendance"
+  },
+  {
+    "question": "The term \"validation\" in GMP refers to:",
+    "options": [
+      {
+        "label": "a",
+        "text": "The process of improving marketing strategies"
+      },
+      {
+        "label": "b",
+        "text": "The act of decreasing production costs"
+      },
+      {
+        "label": "c",
+        "text": "Reducing the time to market for new products"
+      },
+      {
+        "label": "d",
+        "text": "The process of ensuring that equipment and processes consistently produce products that meet quality standards"
+      }
+    ],
+    "answer": "The process of ensuring that equipment and processes consistently produce products that meet quality standards"
+  },
+  {
+    "question": "Which of the following quality systems tools is often used in GMP environments to track production errors?",
+    "options": [
+      {
+        "label": "a",
+        "text": "PERT diagrams"
+      },
+      {
+        "label": "b",
+        "text": "Gantt charts"
+      },
+      {
+        "label": "c",
+        "text": "Six Sigma"
+      },
+      {
+        "label": "d",
+        "text": "Fishbone diagram"
+      }
+    ],
+    "answer": "Fishbone diagram"
+  },
+  {
+    "question": "In GMP, what is the importance of equipment calibration?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To increase employee productivity"
+      },
+      {
+        "label": "b",
+        "text": "To ensure equipment is functioning within specified limits and producing quality products"
+      },
+      {
+        "label": "c",
+        "text": "To reduce production time"
+      },
+      {
+        "label": "d",
+        "text": "To minimize costs"
+      }
+    ],
+    "answer": "To ensure equipment is functioning within specified limits and producing quality products"
+  },
+  {
+    "question": "What is the main benefit of implementing ISO standards in a pharmaceutical company?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Consistency in product quality and compliance with regulatory standards"
+      },
+      {
+        "label": "b",
+        "text": "Reduced raw material costs"
+      },
+      {
+        "label": "c",
+        "text": "More extensive marketing reach"
+      },
+      {
+        "label": "d",
+        "text": "Increased production speed"
+      }
+    ],
+    "answer": "Consistency in product quality and compliance with regulatory standards"
+  },
+  {
+    "question": "Which of the following documents is used to track deviations from standard operating procedures during the manufacturing process?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Corrective and Preventive Action (CAPA) report"
+      },
+      {
+        "label": "b",
+        "text": "Job Description"
+      },
+      {
+        "label": "c",
+        "text": "Incident Report"
+      },
+      {
+        "label": "d",
+        "text": "Marketing Plan"
+      }
+    ],
+    "answer": "Corrective and Preventive Action (CAPA) report"
+  },
+  {
+    "question": "The ICH guidelines are designed to harmonize regulations between which regions?",
+    "options": [
+      {
+        "label": "a",
+        "text": "China and the U.S."
+      },
+      {
+        "label": "b",
+        "text": "North America, Europe, and Japan"
+      },
+      {
+        "label": "c",
+        "text": "Australia and Africa"
+      },
+      {
+        "label": "d",
+        "text": "South America and Africa"
+      }
+    ],
+    "answer": "North America, Europe, and Japan"
+  },
+  {
+    "question": "Which of the following documents is essential for ensuring compliance with GMP during product distribution?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Product reviews"
+      },
+      {
+        "label": "b",
+        "text": "Financial statements"
+      },
+      {
+        "label": "c",
+        "text": "Sales brochures"
+      },
+      {
+        "label": "d",
+        "text": "Distribution records"
+      }
+    ],
+    "answer": "Distribution records"
+  },
+  {
+    "question": "ISO 14001 is designed to help organizations:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Minimize environmental impact and enhance sustainability"
+      },
+      {
+        "label": "b",
+        "text": "Improve customer satisfaction"
+      },
+      {
+        "label": "c",
+        "text": "Focus on financial management"
+      },
+      {
+        "label": "d",
+        "text": "Increase product marketability"
+      }
+    ],
+    "answer": "Minimize environmental impact and enhance sustainability"
+  },
+  {
+    "question": "What is the primary objective of a Corrective and Preventive Action (CAPA) system in GMP?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To identify areas of cost savings in production"
+      },
+      {
+        "label": "b",
+        "text": "To increase the speed of manufacturing"
+      },
+      {
+        "label": "c",
+        "text": "To track employee performance"
+      },
+      {
+        "label": "d",
+        "text": "To address product quality issues and prevent recurrence"
+      }
+    ],
+    "answer": "To address product quality issues and prevent recurrence"
+  },
+  {
+    "question": "What is the purpose of a batch record in GMP?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To document the entire production process for each batch"
+      },
+      {
+        "label": "b",
+        "text": "To monitor financial expenses"
+      },
+      {
+        "label": "c",
+        "text": "To list the raw materials used in production"
+      },
+      {
+        "label": "d",
+        "text": "To increase the speed of manufacturing"
+      }
+    ],
+    "answer": "To document the entire production process for each batch"
+  },
+  {
+    "question": "The FDA requires that records and documents related to the manufacturing process are:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Available for inspection upon request"
+      },
+      {
+        "label": "b",
+        "text": "Discarded once the product reaches the market"
+      },
+      {
+        "label": "c",
+        "text": "Kept for a period of 5 years"
+      },
+      {
+        "label": "d",
+        "text": "Only retained if there is a product defect"
+      }
+    ],
+    "answer": "Available for inspection upon request"
+  },
+  {
+    "question": "GMP guidelines are primarily focused on ensuring:",
+    "options": [
+      {
+        "label": "a",
+        "text": "High marketing revenue"
+      },
+      {
+        "label": "b",
+        "text": "Minimizing environmental impact"
+      },
+      {
+        "label": "c",
+        "text": "The cheapest production process"
+      },
+      {
+        "label": "d",
+        "text": "The safety and efficacy of pharmaceutical products"
+      }
+    ],
+    "answer": "The safety and efficacy of pharmaceutical products"
+  },
+  {
+    "question": "Which of the following is the best practice for managing risks in GMP manufacturing?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Cut costs by reducing quality assurance personnel"
+      },
+      {
+        "label": "b",
+        "text": "Implement risk management strategies and regular assessments"
+      },
+      {
+        "label": "c",
+        "text": "Eliminate all documentation requirements"
+      },
+      {
+        "label": "d",
+        "text": "Focus only on final product testing"
+      }
+    ],
+    "answer": "Implement risk management strategies and regular assessments"
+  },
+  {
+    "question": "Which of the following is an example of an ICH guideline?",
+    "options": [
+      {
+        "label": "a",
+        "text": "ICH A1: Pharmaceutical Pricing Guidelines"
+      },
+      {
+        "label": "b",
+        "text": "ICH Q7A: Good Manufacturing Practice for Active Pharmaceutical Ingredients"
+      },
+      {
+        "label": "c",
+        "text": "ICH V1: Packaging Standards"
+      },
+      {
+        "label": "d",
+        "text": "ICH F3: Safety and Efficacy Evaluation"
+      }
+    ],
+    "answer": "ICH Q7A: Good Manufacturing Practice for Active Pharmaceutical Ingredients"
+  },
+  {
+    "question": "Which of the following represents a key objective of GMP in pharmaceutical manufacturing?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Maximizing marketing efforts"
+      },
+      {
+        "label": "b",
+        "text": "Cutting production costs to increase profits"
+      },
+      {
+        "label": "c",
+        "text": "Speeding up the production process"
+      },
+      {
+        "label": "d",
+        "text": "Ensuring drugs are consistently manufactured and controlled to quality standards"
+      }
+    ],
+    "answer": "Ensuring drugs are consistently manufactured and controlled to quality standards"
+  },
+  {
+    "question": "Which area is the focus of GMP requirements in pharmaceutical manufacturing?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Marketing strategy"
+      },
+      {
+        "label": "b",
+        "text": "Product quality and safety"
+      },
+      {
+        "label": "c",
+        "text": "Inventory management"
+      },
+      {
+        "label": "d",
+        "text": "Employee productivity"
+      }
+    ],
+    "answer": "Product quality and safety"
+  },
+  {
+    "question": "What type of changes to a drug product can be filed under SUPAC for a Post-Approval Change (PAC)?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Change in the manufacturing process or formulation"
+      },
+      {
+        "label": "b",
+        "text": "Change in clinical trial design"
+      },
+      {
+        "label": "c",
+        "text": "Change in product labeling"
+      },
+      {
+        "label": "d",
+        "text": "Change in drug marketing strategies"
+      }
+    ],
+    "answer": "Change in the manufacturing process or formulation"
+  },
+  {
+    "question": "What does the FDA evaluate in an NDA submission?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Only the financial viability of the drug"
+      },
+      {
+        "label": "b",
+        "text": "Safety, efficacy, and manufacturing quality of the drug"
+      },
+      {
+        "label": "c",
+        "text": "The marketing strategies"
+      },
+      {
+        "label": "d",
+        "text": "Intellectual property rights"
+      }
+    ],
+    "answer": "Safety, efficacy, and manufacturing quality of the drug"
+  },
+  {
+    "question": "What is the main advantage of filing an ANDA instead of an NDA?",
+    "options": [
+      {
+        "label": "a",
+        "text": "ANDA is only for biologics"
+      },
+      {
+        "label": "b",
+        "text": "ANDA requires less clinical data than an NDA"
+      },
+      {
+        "label": "c",
+        "text": "ANDA allows for expedited approval of new drugs"
+      },
+      {
+        "label": "d",
+        "text": "ANDA is easier to prepare than an NDA"
+      }
+    ],
+    "answer": "ANDA requires less clinical data than an NDA"
+  },
+  {
+    "question": "What does NDA stand for in the pharmaceutical industry?",
+    "options": [
+      {
+        "label": "a",
+        "text": "New Drug Application"
+      },
+      {
+        "label": "b",
+        "text": "New Drug Approval"
+      },
+      {
+        "label": "c",
+        "text": "National Drug Approval"
+      },
+      {
+        "label": "d",
+        "text": "National Drug Agency"
+      }
+    ],
+    "answer": "New Drug Application"
+  },
+  {
+    "question": "In the context of e-CTD, what does \"Submission\" refer to?",
+    "options": [
+      {
+        "label": "a",
+        "text": "The initial payment for drug approval"
+      },
+      {
+        "label": "b",
+        "text": "The process of sending electronic documents to regulatory authorities for review"
+      },
+      {
+        "label": "c",
+        "text": "The approval of clinical trial designs"
+      },
+      {
+        "label": "d",
+        "text": "The submission of drug sales reports"
+      }
+    ],
+    "answer": "The process of sending electronic documents to regulatory authorities for review"
+  },
+  {
+    "question": "In the context of SUPAC, which document is used to report manufacturing process changes to the FDA?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Post-Approval Change Supplement"
+      },
+      {
+        "label": "b",
+        "text": "Marketing Authorization Application"
+      },
+      {
+        "label": "c",
+        "text": "Annual report"
+      },
+      {
+        "label": "d",
+        "text": "Clinical Trial Application"
+      }
+    ],
+    "answer": "Post-Approval Change Supplement"
+  },
+  {
+    "question": "Which of the following documents outlines the steps and guidelines to follow when a deviation from the standard operating procedure (SOP) occurs in manufacturing?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Stability Study Protocol"
+      },
+      {
+        "label": "b",
+        "text": "Change Control Protocol"
+      },
+      {
+        "label": "c",
+        "text": "Risk Management Plan"
+      },
+      {
+        "label": "d",
+        "text": "Deviation Protocol"
+      }
+    ],
+    "answer": "Deviation Protocol"
+  },
+  {
+    "question": "Which of the following documents is required to be submitted in the e-CTD format for drug approval in the United States?",
+    "options": [
+      {
+        "label": "a",
+        "text": "The marketing authorization request"
+      },
+      {
+        "label": "b",
+        "text": "The detailed manufacturing process, including drug formulation and stability studies"
+      },
+      {
+        "label": "c",
+        "text": "The Investigational New Drug (IND) application"
+      },
+      {
+        "label": "d",
+        "text": "The financial performance report"
+      }
+    ],
+    "answer": "The detailed manufacturing process, including drug formulation and stability studies"
+  },
+  {
+    "question": "What is the purpose of the Clinical Trial Protocol in drug development?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To outline the process and objectives for conducting clinical trials"
+      },
+      {
+        "label": "b",
+        "text": "To describe the expected production cost of the drug"
+      },
+      {
+        "label": "c",
+        "text": "To document the financial return on investment"
+      },
+      {
+        "label": "d",
+        "text": "To promote the drug to the medical community"
+      }
+    ],
+    "answer": "To outline the process and objectives for conducting clinical trials"
+  },
+  {
+    "question": "What is the primary purpose of filing an NDA?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To report adverse drug reactions"
+      },
+      {
+        "label": "b",
+        "text": "To initiate clinical trials"
+      },
+      {
+        "label": "c",
+        "text": "To obtain approval for a new drug to be marketed"
+      },
+      {
+        "label": "d",
+        "text": "To document manufacturing processes"
+      }
+    ],
+    "answer": "To obtain approval for a new drug to be marketed"
+  },
+  {
+    "question": "Which document is required for the approval of a generic drug through an ANDA?",
+    "options": [
+      {
+        "label": "a",
+        "text": "A full clinical trial report"
+      },
+      {
+        "label": "b",
+        "text": "A stability testing report"
+      },
+      {
+        "label": "c",
+        "text": "A drug patent report"
+      },
+      {
+        "label": "d",
+        "text": "A bioequivalence study report"
+      }
+    ],
+    "answer": "A bioequivalence study report"
+  },
+  {
+    "question": "Which of the following is NOT a required part of the e-CTD submission for a New Drug Application (NDA)?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Clinical trial results"
+      },
+      {
+        "label": "b",
+        "text": "Chemical and pharmacological data"
+      },
+      {
+        "label": "c",
+        "text": "Financial summary of the drug's cost"
+      },
+      {
+        "label": "d",
+        "text": "Stability and manufacturing data"
+      }
+    ],
+    "answer": "Financial summary of the drug's cost"
+  },
+  {
+    "question": "The main purpose of a Stability Protocol in pharmaceuticals is to:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Ensure that the drug maintains its potency, purity, and safety throughout its shelf life"
+      },
+      {
+        "label": "b",
+        "text": "Track financial performance during clinical trials"
+      },
+      {
+        "label": "c",
+        "text": "Validate the marketing strategy for the product"
+      },
+      {
+        "label": "d",
+        "text": "Identify the ideal packaging for the drug"
+      }
+    ],
+    "answer": "Ensure that the drug maintains its potency, purity, and safety throughout its shelf life"
+  },
+  {
+    "question": "Which e-CTD module contains detailed information about the drug substance, including chemical structure and composition?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Module 3"
+      },
+      {
+        "label": "b",
+        "text": "Module 4"
+      },
+      {
+        "label": "c",
+        "text": "Module 5"
+      },
+      {
+        "label": "d",
+        "text": "Module 1"
+      }
+    ],
+    "answer": "Module 3"
+  },
+  {
+    "question": "What module in the e-CTD system would you find the stability data for a pharmaceutical product?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Module 2"
+      },
+      {
+        "label": "b",
+        "text": "Module 1"
+      },
+      {
+        "label": "c",
+        "text": "Module 3"
+      },
+      {
+        "label": "d",
+        "text": "Module 4"
+      }
+    ],
+    "answer": "Module 3"
+  },
+  {
+    "question": "Which of the following is a key document in the pharmaceutical industry used for validating a product's manufacturing process?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Batch Production Record"
+      },
+      {
+        "label": "b",
+        "text": "Certificate of Analysis (CoA)"
+      },
+      {
+        "label": "c",
+        "text": "Clinical Trial Agreement"
+      },
+      {
+        "label": "d",
+        "text": "Financial Audit Report"
+      }
+    ],
+    "answer": "Batch Production Record"
+  },
+  {
+    "question": "What is the primary purpose of the Stability Study Protocol in pharmaceutical manufacturing?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To ensure that products remain safe and effective throughout their shelf life"
+      },
+      {
+        "label": "b",
+        "text": "To monitor the financial performance of a pharmaceutical product"
+      },
+      {
+        "label": "c",
+        "text": "To evaluate the marketing strategy of a drug"
+      },
+      {
+        "label": "d",
+        "text": "To document the process of manufacturing"
+      }
+    ],
+    "answer": "To ensure that products remain safe and effective throughout their shelf life"
+  },
+  {
+    "question": "SUPAC guidelines are primarily concerned with:",
+    "options": [
+      {
+        "label": "a",
+        "text": "The financial impact of drug production"
+      },
+      {
+        "label": "b",
+        "text": "The patent rights of new drugs"
+      },
+      {
+        "label": "c",
+        "text": "The handling of adverse drug reactions"
+      },
+      {
+        "label": "d",
+        "text": "The changes made to the drug product after approval"
+      }
+    ],
+    "answer": "The changes made to the drug product after approval"
+  },
+  {
+    "question": "How does the e-CTD system improve communication between pharmaceutical companies and regulatory agencies?",
+    "options": [
+      {
+        "label": "a",
+        "text": "By providing access to a shared financial reporting system"
+      },
+      {
+        "label": "b",
+        "text": "By eliminating the need for human review"
+      },
+      {
+        "label": "c",
+        "text": "By automatically updating the drug\u2019s patent status"
+      },
+      {
+        "label": "d",
+        "text": "By allowing faster and more efficient transmission of documents"
+      }
+    ],
+    "answer": "By allowing faster and more efficient transmission of documents"
+  },
+  {
+    "question": "The primary purpose of a Product Master File is to:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Evaluate market competition"
+      },
+      {
+        "label": "b",
+        "text": "Document product pricing strategies"
+      },
+      {
+        "label": "c",
+        "text": "Outline the detailed formulation and manufacturing processes for a drug"
+      },
+      {
+        "label": "d",
+        "text": "Provide financial audits of production costs"
+      }
+    ],
+    "answer": "Outline the detailed formulation and manufacturing processes for a drug"
+  },
+  {
+    "question": "Which document must be created to describe the objectives, methodology, and expected outcomes of a clinical trial before it is conducted?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Clinical Study Report"
+      },
+      {
+        "label": "b",
+        "text": "Investigator\u2019s Brochure"
+      },
+      {
+        "label": "c",
+        "text": "Clinical Trial Protocol"
+      },
+      {
+        "label": "d",
+        "text": "Informed Consent Form"
+      }
+    ],
+    "answer": "Clinical Trial Protocol"
+  },
+  {
+    "question": "Which module of e-CTD contains summaries of the drug's clinical data and safety profiles?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Module 1"
+      },
+      {
+        "label": "b",
+        "text": "Module 5"
+      },
+      {
+        "label": "c",
+        "text": "Module 3"
+      },
+      {
+        "label": "d",
+        "text": "Module 2"
+      }
+    ],
+    "answer": "Module 2"
+  },
+  {
+    "question": "A Post-Marketing Surveillance Protocol is designed to:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Determine new clinical trial sites"
+      },
+      {
+        "label": "b",
+        "text": "Monitor the safety and efficacy of a drug once it is marketed and used by the general population"
+      },
+      {
+        "label": "c",
+        "text": "Assess the pricing strategy for the product"
+      },
+      {
+        "label": "d",
+        "text": "Track the financial profitability of a product"
+      }
+    ],
+    "answer": "Monitor the safety and efficacy of a drug once it is marketed and used by the general population"
+  },
+  {
+    "question": "Which document must be submitted as part of the e-CTD application to confirm the drug\u2019s manufacturing process meets regulatory standards?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Environmental Impact Assessment"
+      },
+      {
+        "label": "b",
+        "text": "Batch Production Record"
+      },
+      {
+        "label": "c",
+        "text": "Drug Master File (DMF)"
+      },
+      {
+        "label": "d",
+        "text": "Stability Study Report"
+      }
+    ],
+    "answer": "Drug Master File (DMF)"
+  },
+  {
+    "question": "What is the role of the \"Narrative\" in an e-CTD submission?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To detail the marketing strategy for the product"
+      },
+      {
+        "label": "b",
+        "text": "To provide a summary of the clinical trial protocol"
+      },
+      {
+        "label": "c",
+        "text": "To present financial projections of the drug\u2019s sales"
+      },
+      {
+        "label": "d",
+        "text": "To explain the reasons for submission updates or amendments"
+      }
+    ],
+    "answer": "To explain the reasons for submission updates or amendments"
+  },
+  {
+    "question": "What is the primary benefit of submitting regulatory documents in the e-CTD format for global drug approval?",
+    "options": [
+      {
+        "label": "a",
+        "text": "It increases the drug\u2019s market share"
+      },
+      {
+        "label": "b",
+        "text": "It allows simultaneous submission to multiple regulatory authorities in a unified format"
+      },
+      {
+        "label": "c",
+        "text": "It ensures faster drug production"
+      },
+      {
+        "label": "d",
+        "text": "It eliminates the need for clinical trials"
+      }
+    ],
+    "answer": "It allows simultaneous submission to multiple regulatory authorities in a unified format"
+  },
+  {
+    "question": "Which module in the e-CTD contains information on drug substances, drug products, and quality control tests?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Module 2"
+      },
+      {
+        "label": "b",
+        "text": "Module 4"
+      },
+      {
+        "label": "c",
+        "text": "Module 3"
+      },
+      {
+        "label": "d",
+        "text": "Module 1"
+      }
+    ],
+    "answer": "Module 3"
+  },
+  {
+    "question": "What role does Module 4 of the e-CTD submission serve?",
+    "options": [
+      {
+        "label": "a",
+        "text": "It summarizes non-clinical (preclinical) safety data."
+      },
+      {
+        "label": "b",
+        "text": "It contains the financial analysis of drug manufacturing."
+      },
+      {
+        "label": "c",
+        "text": "It contains information about the drug's commercialization strategy."
+      },
+      {
+        "label": "d",
+        "text": "It provides post-market surveillance data."
+      }
+    ],
+    "answer": "It summarizes non-clinical (preclinical) safety data."
+  },
+  {
+    "question": "What does SUPAC stand for?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Systematic Unification of Pharmaceutical Activities and Compliance"
+      },
+      {
+        "label": "b",
+        "text": "Standard Uniform Pharmaceutical Approval Criteria"
+      },
+      {
+        "label": "c",
+        "text": "Standardized Universal Pharmaceutical Analytical Control"
+      },
+      {
+        "label": "d",
+        "text": "Scale-up and Post-Approval Changes"
+      }
+    ],
+    "answer": "Scale-up and Post-Approval Changes"
+  },
+  {
+    "question": "Which regulatory agency has adopted the e-CTD format for drug submissions?",
+    "options": [
+      {
+        "label": "a",
+        "text": "All of the above"
+      },
+      {
+        "label": "b",
+        "text": "WHO (World Health Organization)"
+      },
+      {
+        "label": "c",
+        "text": "FDA (Food and Drug Administration)"
+      },
+      {
+        "label": "d",
+        "text": "EMA (European Medicines Agency)"
+      }
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which protocol provides detailed information about the production of a batch of pharmaceutical products, including raw material, equipment, and procedure used?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Clinical Trial Protocol"
+      },
+      {
+        "label": "b",
+        "text": "Investigator's Brochure"
+      },
+      {
+        "label": "c",
+        "text": "Batch Production Record (BPR)"
+      },
+      {
+        "label": "d",
+        "text": "Stability Study Protocol"
+      }
+    ],
+    "answer": "Batch Production Record (BPR)"
+  },
+  {
+    "question": "Which of the following is the primary purpose of the e-CTD system?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To track drug sales globally"
+      },
+      {
+        "label": "b",
+        "text": "To provide a framework for electronic submission of data for new drug applications"
+      },
+      {
+        "label": "c",
+        "text": "To monitor pharmaceutical marketing activities"
+      },
+      {
+        "label": "d",
+        "text": "To reduce the paperwork required for regulatory submissions"
+      }
+    ],
+    "answer": "To provide a framework for electronic submission of data for new drug applications"
+  },
+  {
+    "question": "What type of information is typically found in Module 5 of an e-CTD submission?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Financial reports"
+      },
+      {
+        "label": "b",
+        "text": "Clinical study data and results"
+      },
+      {
+        "label": "c",
+        "text": "Environmental impact information"
+      },
+      {
+        "label": "d",
+        "text": "Marketing data"
+      }
+    ],
+    "answer": "Clinical study data and results"
+  },
+  {
+    "question": "What is the role of Module 1 in the e-CTD?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To describe the drug\u2019s environmental impact"
+      },
+      {
+        "label": "b",
+        "text": "To include clinical trial data"
+      },
+      {
+        "label": "c",
+        "text": "To provide product labeling information and regulatory forms"
+      },
+      {
+        "label": "d",
+        "text": "To contain the full chemical structure of the drug"
+      }
+    ],
+    "answer": "To provide product labeling information and regulatory forms"
+  },
+  {
+    "question": "Which of the following is NOT typically included in the e-CTD submission?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Marketing Forecast"
+      },
+      {
+        "label": "b",
+        "text": "Clinical Trial Data"
+      },
+      {
+        "label": "c",
+        "text": "Quality Control Data"
+      },
+      {
+        "label": "d",
+        "text": "Drug Labeling and Packaging"
+      }
+    ],
+    "answer": "Marketing Forecast"
+  },
+  {
+    "question": "Which protocol is crucial for ensuring that a pharmaceutical product meets specific quality criteria during and after its production?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Marketing Authorization Protocol"
+      },
+      {
+        "label": "b",
+        "text": "Manufacturing Protocol"
+      },
+      {
+        "label": "c",
+        "text": "Stability Study Protocol"
+      },
+      {
+        "label": "d",
+        "text": "Clinical Trial Protocol"
+      }
+    ],
+    "answer": "Stability Study Protocol"
+  },
+  {
+    "question": "Which of the following is a key advantage of e-CTD over paper-based submissions?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Longer submission timelines"
+      },
+      {
+        "label": "b",
+        "text": "Easier storage and retrieval of documents"
+      },
+      {
+        "label": "c",
+        "text": "More complex approval procedures"
+      },
+      {
+        "label": "d",
+        "text": "Higher regulatory fees"
+      }
+    ],
+    "answer": "Easier storage and retrieval of documents"
+  },
+  {
+    "question": "The SUPAC guidelines are issued by which regulatory agency?",
+    "options": [
+      {
+        "label": "a",
+        "text": "World Health Organization (WHO)"
+      },
+      {
+        "label": "b",
+        "text": "European Medicines Agency (EMA)"
+      },
+      {
+        "label": "c",
+        "text": "U.S. Food and Drug Administration (FDA)"
+      },
+      {
+        "label": "d",
+        "text": "International Conference on Harmonisation (ICH)"
+      }
+    ],
+    "answer": "U.S. Food and Drug Administration (FDA)"
+  },
+  {
+    "question": "What is the role of a Certificate of Analysis (CoA) in pharmaceutical production?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To monitor production costs"
+      },
+      {
+        "label": "b",
+        "text": "To verify the identity and quality of raw materials and finished products"
+      },
+      {
+        "label": "c",
+        "text": "To track employee performance"
+      },
+      {
+        "label": "d",
+        "text": "To confirm the marketing approval of the product"
+      }
+    ],
+    "answer": "To verify the identity and quality of raw materials and finished products"
+  },
+  {
+    "question": "Which of the following is NOT a type of documentation used in GMP?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Standard Operating Procedures (SOPs)"
+      },
+      {
+        "label": "b",
+        "text": "Marketing Reports"
+      },
+      {
+        "label": "c",
+        "text": "Incident Reports"
+      },
+      {
+        "label": "d",
+        "text": "Batch Production Records"
+      }
+    ],
+    "answer": "Marketing Reports"
+  },
+  {
+    "question": "Which of the following is required to file an ANDA?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Demonstration of bioequivalence to the brand-name drug"
+      },
+      {
+        "label": "b",
+        "text": "Preclinical studies"
+      },
+      {
+        "label": "c",
+        "text": "Approval of the drug's patent"
+      },
+      {
+        "label": "d",
+        "text": "Clinical trial data"
+      }
+    ],
+    "answer": "Demonstration of bioequivalence to the brand-name drug"
+  },
+  {
+    "question": "The e-CTD submission process is primarily used for which of the following?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Marketing and sales promotions"
+      },
+      {
+        "label": "b",
+        "text": "Financial auditing of pharmaceutical companies"
+      },
+      {
+        "label": "c",
+        "text": "Post-market surveillance"
+      },
+      {
+        "label": "d",
+        "text": "Regulatory submission for approval of new drugs"
+      }
+    ],
+    "answer": "Regulatory submission for approval of new drugs"
+  },
+  {
+    "question": "Which of the following is a key benefit of submitting regulatory documents in e-CTD format?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Facilitates the submission of structured and consistent documents"
+      },
+      {
+        "label": "b",
+        "text": "Requires fewer data points from clinical trials"
+      },
+      {
+        "label": "c",
+        "text": "Increases the financial cost of regulatory submission"
+      },
+      {
+        "label": "d",
+        "text": "Reduces the time required to conduct clinical trials"
+      }
+    ],
+    "answer": "Facilitates the submission of structured and consistent documents"
+  },
+  {
+    "question": "Which of the following is primarily submitted for the approval of a new drug in the United States?",
+    "options": [
+      {
+        "label": "a",
+        "text": "NDA"
+      },
+      {
+        "label": "b",
+        "text": "ANDA"
+      },
+      {
+        "label": "c",
+        "text": "IMPD"
+      },
+      {
+        "label": "d",
+        "text": "DMF"
+      }
+    ],
+    "answer": "NDA"
+  },
+  {
+    "question": "What is the primary difference between an NDA and an ANDA?",
+    "options": [
+      {
+        "label": "a",
+        "text": "NDA is for clinical trials, while ANDA is for post-marketing surveillance"
+      },
+      {
+        "label": "b",
+        "text": "NDA is for biologics, while ANDA is for synthetic drugs"
+      },
+      {
+        "label": "c",
+        "text": "NDA is for food products, while ANDA is for drugs"
+      },
+      {
+        "label": "d",
+        "text": "NDA is for new drugs, while ANDA is for generic drugs"
+      }
+    ],
+    "answer": "NDA is for new drugs, while ANDA is for generic drugs"
+  },
+  {
+    "question": "Which of the following documents might need to be included in Module 1 of an e-CTD?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Packaging details"
+      },
+      {
+        "label": "b",
+        "text": "Product labeling information"
+      },
+      {
+        "label": "c",
+        "text": "Non-clinical study reports"
+      },
+      {
+        "label": "d",
+        "text": "Raw material specifications"
+      }
+    ],
+    "answer": "Product labeling information"
+  },
+  {
+    "question": "Which of the following best describes a Clinical Trial Protocol?",
+    "options": [
+      {
+        "label": "a",
+        "text": "A document describing the product's patent protection"
+      },
+      {
+        "label": "b",
+        "text": "A list of regulatory requirements for drug approval"
+      },
+      {
+        "label": "c",
+        "text": "A document for marketing strategies and advertising campaigns"
+      },
+      {
+        "label": "d",
+        "text": "A set of guidelines outlining the clinical trial design, objectives, and methodology"
+      }
+    ],
+    "answer": "A set of guidelines outlining the clinical trial design, objectives, and methodology"
+  },
+  {
+    "question": "What is the primary purpose of the SUPAC guidelines?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To guide the scale-up of pharmaceutical production and post-approval changes"
+      },
+      {
+        "label": "b",
+        "text": "To regulate marketing strategies for pharmaceutical products"
+      },
+      {
+        "label": "c",
+        "text": "To determine the clinical trial protocols for new drugs"
+      },
+      {
+        "label": "d",
+        "text": "To set standards for the packaging of pharmaceuticals"
+      }
+    ],
+    "answer": "To guide the scale-up of pharmaceutical production and post-approval changes"
+  },
+  {
+    "question": "What is the purpose of an Investigational New Drug (IND) Protocol?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To protect the intellectual property of the drug"
+      },
+      {
+        "label": "b",
+        "text": "To document the drug's formulation and production processes"
+      },
+      {
+        "label": "c",
+        "text": "To provide a detailed plan for the clinical testing of a new drug"
+      },
+      {
+        "label": "d",
+        "text": "To monitor post-market safety of a drug"
+      }
+    ],
+    "answer": "To provide a detailed plan for the clinical testing of a new drug"
+  },
+  {
+    "question": "In e-CTD, which module typically includes administrative information about the drug's marketing and regulatory approval process?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Module 1"
+      },
+      {
+        "label": "b",
+        "text": "Module 2"
+      },
+      {
+        "label": "c",
+        "text": "Module 3"
+      },
+      {
+        "label": "d",
+        "text": "Module 5"
+      }
+    ],
+    "answer": "Module 1"
+  },
+  {
+    "question": "Which of the following is NOT considered a change covered under SUPAC guidelines?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Changes in the drug's formulation"
+      },
+      {
+        "label": "b",
+        "text": "Changes in the method of manufacture"
+      },
+      {
+        "label": "c",
+        "text": "Changes in the drug\u2019s labeling"
+      },
+      {
+        "label": "d",
+        "text": "Changes in packaging material"
+      }
+    ],
+    "answer": "Changes in the drug\u2019s labeling"
+  },
+  {
+    "question": "Which of the following is true about SUPAC guidelines?",
+    "options": [
+      {
+        "label": "a",
+        "text": "They are mandatory for all drug manufacturers."
+      },
+      {
+        "label": "b",
+        "text": "They focus only on the approval of generic drugs."
+      },
+      {
+        "label": "c",
+        "text": "They provide a uniform approach to handling post-approval manufacturing changes."
+      },
+      {
+        "label": "d",
+        "text": "They replace the NDA and ANDA filing process."
+      }
+    ],
+    "answer": "They provide a uniform approach to handling post-approval manufacturing changes."
+  },
+  {
+    "question": "Which organization developed the e-CTD format for regulatory submissions?",
+    "options": [
+      {
+        "label": "a",
+        "text": "FDA (Food and Drug Administration)"
+      },
+      {
+        "label": "b",
+        "text": "ICH (International Conference on Harmonisation)"
+      },
+      {
+        "label": "c",
+        "text": "EMA (European Medicines Agency)"
+      },
+      {
+        "label": "d",
+        "text": "WHO (World Health Organization)"
+      }
+    ],
+    "answer": "ICH (International Conference on Harmonisation)"
+  },
+  {
+    "question": "Which of the following is typically required when making a post-approval change under SUPAC?",
+    "options": [
+      {
+        "label": "a",
+        "text": "A new patent filing"
+      },
+      {
+        "label": "b",
+        "text": "A justification for the change and evidence supporting the change\u2019s impact on product quality"
+      },
+      {
+        "label": "c",
+        "text": "A public safety warning"
+      },
+      {
+        "label": "d",
+        "text": "A new clinical trial to evaluate the drug's safety"
+      }
+    ],
+    "answer": "A justification for the change and evidence supporting the change\u2019s impact on product quality"
+  },
+  {
+    "question": "Which of the following regulatory authorities mandates the use of e-CTD format for drug submissions?",
+    "options": [
+      {
+        "label": "a",
+        "text": "PMDA (Japan)"
+      },
+      {
+        "label": "b",
+        "text": "FDA"
+      },
+      {
+        "label": "c",
+        "text": "EMA"
+      },
+      {
+        "label": "d",
+        "text": "All of the above"
+      }
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "The purpose of a Data Management Protocol in clinical trials is to:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Ensure that all data is collected, recorded, and analyzed in compliance with the trial's objectives"
+      },
+      {
+        "label": "b",
+        "text": "Outline the clinical trial approval process"
+      },
+      {
+        "label": "c",
+        "text": "Determine the marketing effectiveness of the trial results"
+      },
+      {
+        "label": "d",
+        "text": "Monitor the financial status of the trial"
+      }
+    ],
+    "answer": "Ensure that all data is collected, recorded, and analyzed in compliance with the trial's objectives"
+  },
+  {
+    "question": "Which module in the e-CTD submission system contains information on clinical study reports and the results of clinical trials?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Module 1"
+      },
+      {
+        "label": "b",
+        "text": "Module 5"
+      },
+      {
+        "label": "c",
+        "text": "Module 4"
+      },
+      {
+        "label": "d",
+        "text": "Module 2"
+      }
+    ],
+    "answer": "Module 5"
+  },
+  {
+    "question": "Which of the following best describes the \"Life Cycle\" of an e-CTD submission?",
+    "options": [
+      {
+        "label": "a",
+        "text": "It describes the stages from clinical trial to drug approval."
+      },
+      {
+        "label": "b",
+        "text": "It is the period of time a drug is marketed and available to the public."
+      },
+      {
+        "label": "c",
+        "text": "It is the period during which stability testing is conducted."
+      },
+      {
+        "label": "d",
+        "text": "It refers to the entire sequence of submission, updates, and reviews of the regulatory submission."
+      }
+    ],
+    "answer": "It refers to the entire sequence of submission, updates, and reviews of the regulatory submission."
+  },
+  {
+    "question": "What is the main advantage of using the e-CTD format for regulatory submissions?",
+    "options": [
+      {
+        "label": "a",
+        "text": "It improves marketing effectiveness"
+      },
+      {
+        "label": "b",
+        "text": "It ensures compliance with tax laws"
+      },
+      {
+        "label": "c",
+        "text": "It allows paper-based submission for easier access"
+      },
+      {
+        "label": "d",
+        "text": "Faster review and approval process"
+      }
+    ],
+    "answer": "Faster review and approval process"
+  },
+  {
+    "question": "Which e-CTD module would you find the detailed batch manufacturing records for a drug product?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Module 4"
+      },
+      {
+        "label": "b",
+        "text": "Module 5"
+      },
+      {
+        "label": "c",
+        "text": "Module 3"
+      },
+      {
+        "label": "d",
+        "text": "Module 1"
+      }
+    ],
+    "answer": "Module 3"
+  },
+  {
+    "question": "What is the purpose of Module 5 in the e-CTD?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To provide the drug\u2019s patent information"
+      },
+      {
+        "label": "b",
+        "text": "To summarize the manufacturing process"
+      },
+      {
+        "label": "c",
+        "text": "To include the clinical study reports and data"
+      },
+      {
+        "label": "d",
+        "text": "To report marketing strategies"
+      }
+    ],
+    "answer": "To include the clinical study reports and data"
+  },
+  {
+    "question": "What does an \"e-CTD sequence\" refer to?",
+    "options": [
+      {
+        "label": "a",
+        "text": "The series of updates and changes submitted in the electronic format over time"
+      },
+      {
+        "label": "b",
+        "text": "The list of regulatory authorities reviewing the submission"
+      },
+      {
+        "label": "c",
+        "text": "The sequence of clinical trials conducted for drug approval"
+      },
+      {
+        "label": "d",
+        "text": "The order in which the marketing materials are presented"
+      }
+    ],
+    "answer": "The series of updates and changes submitted in the electronic format over time"
+  },
+  {
+    "question": "What does the term \"Abbreviated NDA\" refer to?",
+    "options": [
+      {
+        "label": "a",
+        "text": "An NDA for drugs that are biologically similar to an existing drug"
+      },
+      {
+        "label": "b",
+        "text": "A submission for drugs with limited clinical data"
+      },
+      {
+        "label": "c",
+        "text": "A simplified version of the full NDA submission"
+      },
+      {
+        "label": "d",
+        "text": "A special NDA for emergency drugs"
+      }
+    ],
+    "answer": "A simplified version of the full NDA submission"
+  },
+  {
+    "question": "Which of the following documents is critical for documenting the results of clinical trials?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Marketing Authorization Application"
+      },
+      {
+        "label": "b",
+        "text": "Clinical Study Report"
+      },
+      {
+        "label": "c",
+        "text": "Investigator's Brochure"
+      },
+      {
+        "label": "d",
+        "text": "Stability Study Protocol"
+      }
+    ],
+    "answer": "Clinical Study Report"
+  },
+  {
+    "question": "Under SUPAC, what must a company do if they make a change in the manufacturing process?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Notify the FDA and provide documentation on the change"
+      },
+      {
+        "label": "b",
+        "text": "Perform a bioequivalence study"
+      },
+      {
+        "label": "c",
+        "text": "Submit a new NDA"
+      },
+      {
+        "label": "d",
+        "text": "Re-submit all clinical trial data"
+      }
+    ],
+    "answer": "Notify the FDA and provide documentation on the change"
+  },
+  {
+    "question": "What is the role of the \"Sequence\" in an e-CTD submission?",
+    "options": [
+      {
+        "label": "a",
+        "text": "It indicates the order in which clinical trials should be conducted."
+      },
+      {
+        "label": "b",
+        "text": "It indicates the priority level of the submission."
+      },
+      {
+        "label": "c",
+        "text": "It tracks the financial details of the regulatory submission."
+      },
+      {
+        "label": "d",
+        "text": "It is used to track updates and amendments in the submission process."
+      }
+    ],
+    "answer": "It is used to track updates and amendments in the submission process."
+  },
+  {
+    "question": "What is the function of the \"Cover Letter\" in an e-CTD submission?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To list financial transactions related to the drug"
+      },
+      {
+        "label": "b",
+        "text": "To outline the clinical trial costs"
+      },
+      {
+        "label": "c",
+        "text": "To describe the expected approval timeline"
+      },
+      {
+        "label": "d",
+        "text": "To summarize the submission and provide contact information"
+      }
+    ],
+    "answer": "To summarize the submission and provide contact information"
+  },
+  {
+    "question": "Which type of document is required to establish the quality of raw materials in pharmaceutical manufacturing?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Sales Forecast"
+      },
+      {
+        "label": "b",
+        "text": "Marketing Approval Letter"
+      },
+      {
+        "label": "c",
+        "text": "Clinical Trial Protocol"
+      },
+      {
+        "label": "d",
+        "text": "Raw Material Specifications"
+      }
+    ],
+    "answer": "Raw Material Specifications"
+  },
+  {
+    "question": "Which type of regulatory filing is NOT submitted in the e-CTD format?",
+    "options": [
+      {
+        "label": "a",
+        "text": "New Drug Applications (NDAs)"
+      },
+      {
+        "label": "b",
+        "text": "Drug Safety Reports"
+      },
+      {
+        "label": "c",
+        "text": "Abbreviated New Drug Applications (ANDAs)"
+      },
+      {
+        "label": "d",
+        "text": "Investigational New Drug (IND) applications"
+      }
+    ],
+    "answer": "Drug Safety Reports"
+  },
+  {
+    "question": "Which e-CTD module typically includes information on non-clinical studies, such as animal testing?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Module 1"
+      },
+      {
+        "label": "b",
+        "text": "Module 2"
+      },
+      {
+        "label": "c",
+        "text": "Module 4"
+      },
+      {
+        "label": "d",
+        "text": "Module 5"
+      }
+    ],
+    "answer": "Module 4"
+  },
+  {
+    "question": "Which of the following is a common file format used in the e-CTD submission system?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Word documents"
+      },
+      {
+        "label": "b",
+        "text": "HTML files"
+      },
+      {
+        "label": "c",
+        "text": "PDF (Portable Document Format)"
+      },
+      {
+        "label": "d",
+        "text": "Excel files"
+      }
+    ],
+    "answer": "PDF (Portable Document Format)"
+  },
+  {
+    "question": "What does e-CTD stand for in the context of pharmaceutical regulatory submissions?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Electronic Clinical Trial Document"
+      },
+      {
+        "label": "b",
+        "text": "Electronic Common Technical Document"
+      },
+      {
+        "label": "c",
+        "text": "Environmental Compliance Technical Document"
+      },
+      {
+        "label": "d",
+        "text": "Electronic Comprehensive Technical Document"
+      }
+    ],
+    "answer": "Electronic Common Technical Document"
+  },
+  {
+    "question": "Which of the following is required when submitting an e-CTD application?",
+    "options": [
+      {
+        "label": "a",
+        "text": "A signed contract with the regulatory authority"
+      },
+      {
+        "label": "b",
+        "text": "A comprehensive business strategy"
+      },
+      {
+        "label": "c",
+        "text": "A market share analysis"
+      },
+      {
+        "label": "d",
+        "text": "A submission to the appropriate regulatory agency (e.g., FDA, EMA) in electronic format"
+      }
+    ],
+    "answer": "A submission to the appropriate regulatory agency (e.g., FDA, EMA) in electronic format"
+  },
+  {
+    "question": "Which of the following is typically included in a Post-Approval Change (PAC) report?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Clinical trial design updates"
+      },
+      {
+        "label": "b",
+        "text": "New marketing strategy"
+      },
+      {
+        "label": "c",
+        "text": "Financial audit results"
+      },
+      {
+        "label": "d",
+        "text": "Documentation of any changes made to the manufacturing process after product approval"
+      }
+    ],
+    "answer": "Documentation of any changes made to the manufacturing process after product approval"
+  },
+  {
+    "question": "What is the function of \"Module 2\" in an e-CTD submission?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To provide detailed information on the manufacturing process"
+      },
+      {
+        "label": "b",
+        "text": "To list regulatory contact details"
+      },
+      {
+        "label": "c",
+        "text": "To include detailed clinical trial data and summaries"
+      },
+      {
+        "label": "d",
+        "text": "To summarize the non-clinical and clinical study reports"
+      }
+    ],
+    "answer": "To summarize the non-clinical and clinical study reports"
+  },
+  {
+    "question": "Which type of document tracks deviations from normal production procedures?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Change Control Report"
+      },
+      {
+        "label": "b",
+        "text": "Deviation Report"
+      },
+      {
+        "label": "c",
+        "text": "Financial Summary"
+      },
+      {
+        "label": "d",
+        "text": "Compliance Report"
+      }
+    ],
+    "answer": "Deviation Report"
+  },
+  {
+    "question": "Which file type is commonly used for submitting e-CTD documents to regulatory authorities?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Word documents"
+      },
+      {
+        "label": "b",
+        "text": "PDF files"
+      },
+      {
+        "label": "c",
+        "text": "HTML files"
+      },
+      {
+        "label": "d",
+        "text": "Excel files"
+      }
+    ],
+    "answer": "PDF files"
+  },
+  {
+    "question": "Which of the following is included in an NDA submission?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Preclinical and clinical trial data"
+      },
+      {
+        "label": "b",
+        "text": "Financial profit projections"
+      },
+      {
+        "label": "c",
+        "text": "Production cost of the drug"
+      },
+      {
+        "label": "d",
+        "text": "Patent protection documents"
+      }
+    ],
+    "answer": "Preclinical and clinical trial data"
+  },
+  {
+    "question": "What is included in a Clinical Study Protocol for a Phase III trial?",
+    "options": [
+      {
+        "label": "a",
+        "text": "A list of suppliers for raw materials"
+      },
+      {
+        "label": "b",
+        "text": "Procedures for submitting the drug for regulatory approval"
+      },
+      {
+        "label": "c",
+        "text": "The statistical analysis plan, inclusion/exclusion criteria, and dosing regimen"
+      },
+      {
+        "label": "d",
+        "text": "Marketing strategies for the clinical trial results"
+      }
+    ],
+    "answer": "The statistical analysis plan, inclusion/exclusion criteria, and dosing regimen"
+  }
+]

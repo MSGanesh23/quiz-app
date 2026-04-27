@@ -1,0 +1,1740 @@
+[
+  {
+    "question": "What type of changes to a drug product can be filed under SUPAC for a Post-Approval Change (PAC)?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Change in the manufacturing process or formulation"
+      },
+      {
+        "label": "b",
+        "text": "Change in clinical trial design"
+      },
+      {
+        "label": "c",
+        "text": "Change in product labeling"
+      },
+      {
+        "label": "d",
+        "text": "Change in drug marketing strategies"
+      }
+    ],
+    "answer": "Change in the manufacturing process or formulation"
+  },
+  {
+    "question": "What does the FDA evaluate in an NDA submission?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Only the financial viability of the drug"
+      },
+      {
+        "label": "b",
+        "text": "Safety, efficacy, and manufacturing quality of the drug"
+      },
+      {
+        "label": "c",
+        "text": "The marketing strategies"
+      },
+      {
+        "label": "d",
+        "text": "Intellectual property rights"
+      }
+    ],
+    "answer": "Safety, efficacy, and manufacturing quality of the drug"
+  },
+  {
+    "question": "What is the main advantage of filing an ANDA instead of an NDA?",
+    "options": [
+      {
+        "label": "a",
+        "text": "ANDA is only for biologics"
+      },
+      {
+        "label": "b",
+        "text": "ANDA requires less clinical data than an NDA"
+      },
+      {
+        "label": "c",
+        "text": "ANDA allows for expedited approval of new drugs"
+      },
+      {
+        "label": "d",
+        "text": "ANDA is easier to prepare than an NDA"
+      }
+    ],
+    "answer": "ANDA requires less clinical data than an NDA"
+  },
+  {
+    "question": "What does NDA stand for in the pharmaceutical industry?",
+    "options": [
+      {
+        "label": "a",
+        "text": "New Drug Application"
+      },
+      {
+        "label": "b",
+        "text": "New Drug Approval"
+      },
+      {
+        "label": "c",
+        "text": "National Drug Approval"
+      },
+      {
+        "label": "d",
+        "text": "National Drug Agency"
+      }
+    ],
+    "answer": "New Drug Application"
+  },
+  {
+    "question": "In the context of e-CTD, what does \"Submission\" refer to?",
+    "options": [
+      {
+        "label": "a",
+        "text": "The initial payment for drug approval"
+      },
+      {
+        "label": "b",
+        "text": "The process of sending electronic documents to regulatory authorities for review"
+      },
+      {
+        "label": "c",
+        "text": "The approval of clinical trial designs"
+      },
+      {
+        "label": "d",
+        "text": "The submission of drug sales reports"
+      }
+    ],
+    "answer": "The process of sending electronic documents to regulatory authorities for review"
+  },
+  {
+    "question": "In the context of SUPAC, which document is used to report manufacturing process changes to the FDA?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Post-Approval Change Supplement"
+      },
+      {
+        "label": "b",
+        "text": "Marketing Authorization Application"
+      },
+      {
+        "label": "c",
+        "text": "Annual report"
+      },
+      {
+        "label": "d",
+        "text": "Clinical Trial Application"
+      }
+    ],
+    "answer": "Post-Approval Change Supplement"
+  },
+  {
+    "question": "Which of the following documents outlines the steps and guidelines to follow when a deviation from the standard operating procedure (SOP) occurs in manufacturing?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Stability Study Protocol"
+      },
+      {
+        "label": "b",
+        "text": "Change Control Protocol"
+      },
+      {
+        "label": "c",
+        "text": "Risk Management Plan"
+      },
+      {
+        "label": "d",
+        "text": "Deviation Protocol"
+      }
+    ],
+    "answer": "Deviation Protocol"
+  },
+  {
+    "question": "Which of the following documents is required to be submitted in the e-CTD format for drug approval in the United States?",
+    "options": [
+      {
+        "label": "a",
+        "text": "The marketing authorization request"
+      },
+      {
+        "label": "b",
+        "text": "The detailed manufacturing process, including drug formulation and stability studies"
+      },
+      {
+        "label": "c",
+        "text": "The Investigational New Drug (IND) application"
+      },
+      {
+        "label": "d",
+        "text": "The financial performance report"
+      }
+    ],
+    "answer": "The detailed manufacturing process, including drug formulation and stability studies"
+  },
+  {
+    "question": "What is the purpose of the Clinical Trial Protocol in drug development?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To outline the process and objectives for conducting clinical trials"
+      },
+      {
+        "label": "b",
+        "text": "To describe the expected production cost of the drug"
+      },
+      {
+        "label": "c",
+        "text": "To document the financial return on investment"
+      },
+      {
+        "label": "d",
+        "text": "To promote the drug to the medical community"
+      }
+    ],
+    "answer": "To outline the process and objectives for conducting clinical trials"
+  },
+  {
+    "question": "What is the primary purpose of filing an NDA?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To report adverse drug reactions"
+      },
+      {
+        "label": "b",
+        "text": "To initiate clinical trials"
+      },
+      {
+        "label": "c",
+        "text": "To obtain approval for a new drug to be marketed"
+      },
+      {
+        "label": "d",
+        "text": "To document manufacturing processes"
+      }
+    ],
+    "answer": "To obtain approval for a new drug to be marketed"
+  },
+  {
+    "question": "Which document is required for the approval of a generic drug through an ANDA?",
+    "options": [
+      {
+        "label": "a",
+        "text": "A full clinical trial report"
+      },
+      {
+        "label": "b",
+        "text": "A stability testing report"
+      },
+      {
+        "label": "c",
+        "text": "A drug patent report"
+      },
+      {
+        "label": "d",
+        "text": "A bioequivalence study report"
+      }
+    ],
+    "answer": "A bioequivalence study report"
+  },
+  {
+    "question": "Which of the following is NOT a required part of the e-CTD submission for a New Drug Application (NDA)?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Clinical trial results"
+      },
+      {
+        "label": "b",
+        "text": "Chemical and pharmacological data"
+      },
+      {
+        "label": "c",
+        "text": "Financial summary of the drug's cost"
+      },
+      {
+        "label": "d",
+        "text": "Stability and manufacturing data"
+      }
+    ],
+    "answer": "Financial summary of the drug's cost"
+  },
+  {
+    "question": "The main purpose of a Stability Protocol in pharmaceuticals is to:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Ensure that the drug maintains its potency, purity, and safety throughout its shelf life"
+      },
+      {
+        "label": "b",
+        "text": "Track financial performance during clinical trials"
+      },
+      {
+        "label": "c",
+        "text": "Validate the marketing strategy for the product"
+      },
+      {
+        "label": "d",
+        "text": "Identify the ideal packaging for the drug"
+      }
+    ],
+    "answer": "Ensure that the drug maintains its potency, purity, and safety throughout its shelf life"
+  },
+  {
+    "question": "Which e-CTD module contains detailed information about the drug substance, including chemical structure and composition?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Module 3"
+      },
+      {
+        "label": "b",
+        "text": "Module 4"
+      },
+      {
+        "label": "c",
+        "text": "Module 5"
+      },
+      {
+        "label": "d",
+        "text": "Module 1"
+      }
+    ],
+    "answer": "Module 3"
+  },
+  {
+    "question": "What module in the e-CTD system would you find the stability data for a pharmaceutical product?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Module 2"
+      },
+      {
+        "label": "b",
+        "text": "Module 1"
+      },
+      {
+        "label": "c",
+        "text": "Module 3"
+      },
+      {
+        "label": "d",
+        "text": "Module 4"
+      }
+    ],
+    "answer": "Module 3"
+  },
+  {
+    "question": "Which of the following is a key document in the pharmaceutical industry used for validating a product's manufacturing process?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Batch Production Record"
+      },
+      {
+        "label": "b",
+        "text": "Certificate of Analysis (CoA)"
+      },
+      {
+        "label": "c",
+        "text": "Clinical Trial Agreement"
+      },
+      {
+        "label": "d",
+        "text": "Financial Audit Report"
+      }
+    ],
+    "answer": "Batch Production Record"
+  },
+  {
+    "question": "What is the primary purpose of the Stability Study Protocol in pharmaceutical manufacturing?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To ensure that products remain safe and effective throughout their shelf life"
+      },
+      {
+        "label": "b",
+        "text": "To monitor the financial performance of a pharmaceutical product"
+      },
+      {
+        "label": "c",
+        "text": "To evaluate the marketing strategy of a drug"
+      },
+      {
+        "label": "d",
+        "text": "To document the process of manufacturing"
+      }
+    ],
+    "answer": "To ensure that products remain safe and effective throughout their shelf life"
+  },
+  {
+    "question": "SUPAC guidelines are primarily concerned with:",
+    "options": [
+      {
+        "label": "a",
+        "text": "The financial impact of drug production"
+      },
+      {
+        "label": "b",
+        "text": "The patent rights of new drugs"
+      },
+      {
+        "label": "c",
+        "text": "The handling of adverse drug reactions"
+      },
+      {
+        "label": "d",
+        "text": "The changes made to the drug product after approval"
+      }
+    ],
+    "answer": "The changes made to the drug product after approval"
+  },
+  {
+    "question": "How does the e-CTD system improve communication between pharmaceutical companies and regulatory agencies?",
+    "options": [
+      {
+        "label": "a",
+        "text": "By providing access to a shared financial reporting system"
+      },
+      {
+        "label": "b",
+        "text": "By eliminating the need for human review"
+      },
+      {
+        "label": "c",
+        "text": "By automatically updating the drug\u2019s patent status"
+      },
+      {
+        "label": "d",
+        "text": "By allowing faster and more efficient transmission of documents"
+      }
+    ],
+    "answer": "By allowing faster and more efficient transmission of documents"
+  },
+  {
+    "question": "The primary purpose of a Product Master File is to:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Evaluate market competition"
+      },
+      {
+        "label": "b",
+        "text": "Document product pricing strategies"
+      },
+      {
+        "label": "c",
+        "text": "Outline the detailed formulation and manufacturing processes for a drug"
+      },
+      {
+        "label": "d",
+        "text": "Provide financial audits of production costs"
+      }
+    ],
+    "answer": "Outline the detailed formulation and manufacturing processes for a drug"
+  },
+  {
+    "question": "Which document must be created to describe the objectives, methodology, and expected outcomes of a clinical trial before it is conducted?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Clinical Study Report"
+      },
+      {
+        "label": "b",
+        "text": "Investigator\u2019s Brochure"
+      },
+      {
+        "label": "c",
+        "text": "Clinical Trial Protocol"
+      },
+      {
+        "label": "d",
+        "text": "Informed Consent Form"
+      }
+    ],
+    "answer": "Clinical Trial Protocol"
+  },
+  {
+    "question": "Which module of e-CTD contains summaries of the drug's clinical data and safety profiles?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Module 1"
+      },
+      {
+        "label": "b",
+        "text": "Module 5"
+      },
+      {
+        "label": "c",
+        "text": "Module 3"
+      },
+      {
+        "label": "d",
+        "text": "Module 2"
+      }
+    ],
+    "answer": "Module 2"
+  },
+  {
+    "question": "A Post-Marketing Surveillance Protocol is designed to:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Determine new clinical trial sites"
+      },
+      {
+        "label": "b",
+        "text": "Monitor the safety and efficacy of a drug once it is marketed and used by the general population"
+      },
+      {
+        "label": "c",
+        "text": "Assess the pricing strategy for the product"
+      },
+      {
+        "label": "d",
+        "text": "Track the financial profitability of a product"
+      }
+    ],
+    "answer": "Monitor the safety and efficacy of a drug once it is marketed and used by the general population"
+  },
+  {
+    "question": "Which document must be submitted as part of the e-CTD application to confirm the drug\u2019s manufacturing process meets regulatory standards?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Environmental Impact Assessment"
+      },
+      {
+        "label": "b",
+        "text": "Batch Production Record"
+      },
+      {
+        "label": "c",
+        "text": "Drug Master File (DMF)"
+      },
+      {
+        "label": "d",
+        "text": "Stability Study Report"
+      }
+    ],
+    "answer": "Drug Master File (DMF)"
+  },
+  {
+    "question": "What is the role of the \"Narrative\" in an e-CTD submission?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To detail the marketing strategy for the product"
+      },
+      {
+        "label": "b",
+        "text": "To provide a summary of the clinical trial protocol"
+      },
+      {
+        "label": "c",
+        "text": "To present financial projections of the drug\u2019s sales"
+      },
+      {
+        "label": "d",
+        "text": "To explain the reasons for submission updates or amendments"
+      }
+    ],
+    "answer": "To explain the reasons for submission updates or amendments"
+  },
+  {
+    "question": "What is the primary benefit of submitting regulatory documents in the e-CTD format for global drug approval?",
+    "options": [
+      {
+        "label": "a",
+        "text": "It increases the drug\u2019s market share"
+      },
+      {
+        "label": "b",
+        "text": "It allows simultaneous submission to multiple regulatory authorities in a unified format"
+      },
+      {
+        "label": "c",
+        "text": "It ensures faster drug production"
+      },
+      {
+        "label": "d",
+        "text": "It eliminates the need for clinical trials"
+      }
+    ],
+    "answer": "It allows simultaneous submission to multiple regulatory authorities in a unified format"
+  },
+  {
+    "question": "Which module in the e-CTD contains information on drug substances, drug products, and quality control tests?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Module 2"
+      },
+      {
+        "label": "b",
+        "text": "Module 4"
+      },
+      {
+        "label": "c",
+        "text": "Module 3"
+      },
+      {
+        "label": "d",
+        "text": "Module 1"
+      }
+    ],
+    "answer": "Module 3"
+  },
+  {
+    "question": "What role does Module 4 of the e-CTD submission serve?",
+    "options": [
+      {
+        "label": "a",
+        "text": "It summarizes non-clinical (preclinical) safety data."
+      },
+      {
+        "label": "b",
+        "text": "It contains the financial analysis of drug manufacturing."
+      },
+      {
+        "label": "c",
+        "text": "It contains information about the drug's commercialization strategy."
+      },
+      {
+        "label": "d",
+        "text": "It provides post-market surveillance data."
+      }
+    ],
+    "answer": "It summarizes non-clinical (preclinical) safety data."
+  },
+  {
+    "question": "What does SUPAC stand for?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Systematic Unification of Pharmaceutical Activities and Compliance"
+      },
+      {
+        "label": "b",
+        "text": "Standard Uniform Pharmaceutical Approval Criteria"
+      },
+      {
+        "label": "c",
+        "text": "Standardized Universal Pharmaceutical Analytical Control"
+      },
+      {
+        "label": "d",
+        "text": "Scale-up and Post-Approval Changes"
+      }
+    ],
+    "answer": "Scale-up and Post-Approval Changes"
+  },
+  {
+    "question": "Which regulatory agency has adopted the e-CTD format for drug submissions?",
+    "options": [
+      {
+        "label": "a",
+        "text": "All of the above"
+      },
+      {
+        "label": "b",
+        "text": "WHO (World Health Organization)"
+      },
+      {
+        "label": "c",
+        "text": "FDA (Food and Drug Administration)"
+      },
+      {
+        "label": "d",
+        "text": "EMA (European Medicines Agency)"
+      }
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which protocol provides detailed information about the production of a batch of pharmaceutical products, including raw material, equipment, and procedure used?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Clinical Trial Protocol"
+      },
+      {
+        "label": "b",
+        "text": "Investigator's Brochure"
+      },
+      {
+        "label": "c",
+        "text": "Batch Production Record (BPR)"
+      },
+      {
+        "label": "d",
+        "text": "Stability Study Protocol"
+      }
+    ],
+    "answer": "Batch Production Record (BPR)"
+  },
+  {
+    "question": "Which of the following is the primary purpose of the e-CTD system?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To track drug sales globally"
+      },
+      {
+        "label": "b",
+        "text": "To provide a framework for electronic submission of data for new drug applications"
+      },
+      {
+        "label": "c",
+        "text": "To monitor pharmaceutical marketing activities"
+      },
+      {
+        "label": "d",
+        "text": "To reduce the paperwork required for regulatory submissions"
+      }
+    ],
+    "answer": "To provide a framework for electronic submission of data for new drug applications"
+  },
+  {
+    "question": "What type of information is typically found in Module 5 of an e-CTD submission?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Financial reports"
+      },
+      {
+        "label": "b",
+        "text": "Clinical study data and results"
+      },
+      {
+        "label": "c",
+        "text": "Environmental impact information"
+      },
+      {
+        "label": "d",
+        "text": "Marketing data"
+      }
+    ],
+    "answer": "Clinical study data and results"
+  },
+  {
+    "question": "What is the role of Module 1 in the e-CTD?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To describe the drug\u2019s environmental impact"
+      },
+      {
+        "label": "b",
+        "text": "To include clinical trial data"
+      },
+      {
+        "label": "c",
+        "text": "To provide product labeling information and regulatory forms"
+      },
+      {
+        "label": "d",
+        "text": "To contain the full chemical structure of the drug"
+      }
+    ],
+    "answer": "To provide product labeling information and regulatory forms"
+  },
+  {
+    "question": "Which of the following is NOT typically included in the e-CTD submission?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Marketing Forecast"
+      },
+      {
+        "label": "b",
+        "text": "Clinical Trial Data"
+      },
+      {
+        "label": "c",
+        "text": "Quality Control Data"
+      },
+      {
+        "label": "d",
+        "text": "Drug Labeling and Packaging"
+      }
+    ],
+    "answer": "Marketing Forecast"
+  },
+  {
+    "question": "Which protocol is crucial for ensuring that a pharmaceutical product meets specific quality criteria during and after its production?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Marketing Authorization Protocol"
+      },
+      {
+        "label": "b",
+        "text": "Manufacturing Protocol"
+      },
+      {
+        "label": "c",
+        "text": "Stability Study Protocol"
+      },
+      {
+        "label": "d",
+        "text": "Clinical Trial Protocol"
+      }
+    ],
+    "answer": "Stability Study Protocol"
+  },
+  {
+    "question": "Which of the following is a key advantage of e-CTD over paper-based submissions?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Longer submission timelines"
+      },
+      {
+        "label": "b",
+        "text": "Easier storage and retrieval of documents"
+      },
+      {
+        "label": "c",
+        "text": "More complex approval procedures"
+      },
+      {
+        "label": "d",
+        "text": "Higher regulatory fees"
+      }
+    ],
+    "answer": "Easier storage and retrieval of documents"
+  },
+  {
+    "question": "The SUPAC guidelines are issued by which regulatory agency?",
+    "options": [
+      {
+        "label": "a",
+        "text": "World Health Organization (WHO)"
+      },
+      {
+        "label": "b",
+        "text": "European Medicines Agency (EMA)"
+      },
+      {
+        "label": "c",
+        "text": "U.S. Food and Drug Administration (FDA)"
+      },
+      {
+        "label": "d",
+        "text": "International Conference on Harmonisation (ICH)"
+      }
+    ],
+    "answer": "U.S. Food and Drug Administration (FDA)"
+  },
+  {
+    "question": "What is the role of a Certificate of Analysis (CoA) in pharmaceutical production?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To monitor production costs"
+      },
+      {
+        "label": "b",
+        "text": "To verify the identity and quality of raw materials and finished products"
+      },
+      {
+        "label": "c",
+        "text": "To track employee performance"
+      },
+      {
+        "label": "d",
+        "text": "To confirm the marketing approval of the product"
+      }
+    ],
+    "answer": "To verify the identity and quality of raw materials and finished products"
+  },
+  {
+    "question": "Which of the following is NOT a type of documentation used in GMP?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Standard Operating Procedures (SOPs)"
+      },
+      {
+        "label": "b",
+        "text": "Marketing Reports"
+      },
+      {
+        "label": "c",
+        "text": "Incident Reports"
+      },
+      {
+        "label": "d",
+        "text": "Batch Production Records"
+      }
+    ],
+    "answer": "Marketing Reports"
+  },
+  {
+    "question": "Which of the following is required to file an ANDA?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Demonstration of bioequivalence to the brand-name drug"
+      },
+      {
+        "label": "b",
+        "text": "Preclinical studies"
+      },
+      {
+        "label": "c",
+        "text": "Approval of the drug's patent"
+      },
+      {
+        "label": "d",
+        "text": "Clinical trial data"
+      }
+    ],
+    "answer": "Demonstration of bioequivalence to the brand-name drug"
+  },
+  {
+    "question": "The e-CTD submission process is primarily used for which of the following?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Marketing and sales promotions"
+      },
+      {
+        "label": "b",
+        "text": "Financial auditing of pharmaceutical companies"
+      },
+      {
+        "label": "c",
+        "text": "Post-market surveillance"
+      },
+      {
+        "label": "d",
+        "text": "Regulatory submission for approval of new drugs"
+      }
+    ],
+    "answer": "Regulatory submission for approval of new drugs"
+  },
+  {
+    "question": "Which of the following is a key benefit of submitting regulatory documents in e-CTD format?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Facilitates the submission of structured and consistent documents"
+      },
+      {
+        "label": "b",
+        "text": "Requires fewer data points from clinical trials"
+      },
+      {
+        "label": "c",
+        "text": "Increases the financial cost of regulatory submission"
+      },
+      {
+        "label": "d",
+        "text": "Reduces the time required to conduct clinical trials"
+      }
+    ],
+    "answer": "Facilitates the submission of structured and consistent documents"
+  },
+  {
+    "question": "Which of the following is primarily submitted for the approval of a new drug in the United States?",
+    "options": [
+      {
+        "label": "a",
+        "text": "NDA"
+      },
+      {
+        "label": "b",
+        "text": "ANDA"
+      },
+      {
+        "label": "c",
+        "text": "IMPD"
+      },
+      {
+        "label": "d",
+        "text": "DMF"
+      }
+    ],
+    "answer": "NDA"
+  },
+  {
+    "question": "What is the primary difference between an NDA and an ANDA?",
+    "options": [
+      {
+        "label": "a",
+        "text": "NDA is for clinical trials, while ANDA is for post-marketing surveillance"
+      },
+      {
+        "label": "b",
+        "text": "NDA is for biologics, while ANDA is for synthetic drugs"
+      },
+      {
+        "label": "c",
+        "text": "NDA is for food products, while ANDA is for drugs"
+      },
+      {
+        "label": "d",
+        "text": "NDA is for new drugs, while ANDA is for generic drugs"
+      }
+    ],
+    "answer": "NDA is for new drugs, while ANDA is for generic drugs"
+  },
+  {
+    "question": "Which of the following documents might need to be included in Module 1 of an e-CTD?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Packaging details"
+      },
+      {
+        "label": "b",
+        "text": "Product labeling information"
+      },
+      {
+        "label": "c",
+        "text": "Non-clinical study reports"
+      },
+      {
+        "label": "d",
+        "text": "Raw material specifications"
+      }
+    ],
+    "answer": "Product labeling information"
+  },
+  {
+    "question": "Which of the following best describes a Clinical Trial Protocol?",
+    "options": [
+      {
+        "label": "a",
+        "text": "A document describing the product's patent protection"
+      },
+      {
+        "label": "b",
+        "text": "A list of regulatory requirements for drug approval"
+      },
+      {
+        "label": "c",
+        "text": "A document for marketing strategies and advertising campaigns"
+      },
+      {
+        "label": "d",
+        "text": "A set of guidelines outlining the clinical trial design, objectives, and methodology"
+      }
+    ],
+    "answer": "A set of guidelines outlining the clinical trial design, objectives, and methodology"
+  },
+  {
+    "question": "What is the primary purpose of the SUPAC guidelines?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To guide the scale-up of pharmaceutical production and post-approval changes"
+      },
+      {
+        "label": "b",
+        "text": "To regulate marketing strategies for pharmaceutical products"
+      },
+      {
+        "label": "c",
+        "text": "To determine the clinical trial protocols for new drugs"
+      },
+      {
+        "label": "d",
+        "text": "To set standards for the packaging of pharmaceuticals"
+      }
+    ],
+    "answer": "To guide the scale-up of pharmaceutical production and post-approval changes"
+  },
+  {
+    "question": "What is the purpose of an Investigational New Drug (IND) Protocol?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To protect the intellectual property of the drug"
+      },
+      {
+        "label": "b",
+        "text": "To document the drug's formulation and production processes"
+      },
+      {
+        "label": "c",
+        "text": "To provide a detailed plan for the clinical testing of a new drug"
+      },
+      {
+        "label": "d",
+        "text": "To monitor post-market safety of a drug"
+      }
+    ],
+    "answer": "To provide a detailed plan for the clinical testing of a new drug"
+  },
+  {
+    "question": "In e-CTD, which module typically includes administrative information about the drug's marketing and regulatory approval process?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Module 1"
+      },
+      {
+        "label": "b",
+        "text": "Module 2"
+      },
+      {
+        "label": "c",
+        "text": "Module 3"
+      },
+      {
+        "label": "d",
+        "text": "Module 5"
+      }
+    ],
+    "answer": "Module 1"
+  },
+  {
+    "question": "Which of the following is NOT considered a change covered under SUPAC guidelines?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Changes in the drug's formulation"
+      },
+      {
+        "label": "b",
+        "text": "Changes in the method of manufacture"
+      },
+      {
+        "label": "c",
+        "text": "Changes in the drug\u2019s labeling"
+      },
+      {
+        "label": "d",
+        "text": "Changes in packaging material"
+      }
+    ],
+    "answer": "Changes in the drug\u2019s labeling"
+  },
+  {
+    "question": "Which of the following is true about SUPAC guidelines?",
+    "options": [
+      {
+        "label": "a",
+        "text": "They are mandatory for all drug manufacturers."
+      },
+      {
+        "label": "b",
+        "text": "They focus only on the approval of generic drugs."
+      },
+      {
+        "label": "c",
+        "text": "They provide a uniform approach to handling post-approval manufacturing changes."
+      },
+      {
+        "label": "d",
+        "text": "They replace the NDA and ANDA filing process."
+      }
+    ],
+    "answer": "They provide a uniform approach to handling post-approval manufacturing changes."
+  },
+  {
+    "question": "Which organization developed the e-CTD format for regulatory submissions?",
+    "options": [
+      {
+        "label": "a",
+        "text": "FDA (Food and Drug Administration)"
+      },
+      {
+        "label": "b",
+        "text": "ICH (International Conference on Harmonisation)"
+      },
+      {
+        "label": "c",
+        "text": "EMA (European Medicines Agency)"
+      },
+      {
+        "label": "d",
+        "text": "WHO (World Health Organization)"
+      }
+    ],
+    "answer": "ICH (International Conference on Harmonisation)"
+  },
+  {
+    "question": "Which of the following is typically required when making a post-approval change under SUPAC?",
+    "options": [
+      {
+        "label": "a",
+        "text": "A new patent filing"
+      },
+      {
+        "label": "b",
+        "text": "A justification for the change and evidence supporting the change\u2019s impact on product quality"
+      },
+      {
+        "label": "c",
+        "text": "A public safety warning"
+      },
+      {
+        "label": "d",
+        "text": "A new clinical trial to evaluate the drug's safety"
+      }
+    ],
+    "answer": "A justification for the change and evidence supporting the change\u2019s impact on product quality"
+  },
+  {
+    "question": "Which of the following regulatory authorities mandates the use of e-CTD format for drug submissions?",
+    "options": [
+      {
+        "label": "a",
+        "text": "PMDA (Japan)"
+      },
+      {
+        "label": "b",
+        "text": "FDA"
+      },
+      {
+        "label": "c",
+        "text": "EMA"
+      },
+      {
+        "label": "d",
+        "text": "All of the above"
+      }
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "The purpose of a Data Management Protocol in clinical trials is to:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Ensure that all data is collected, recorded, and analyzed in compliance with the trial's objectives"
+      },
+      {
+        "label": "b",
+        "text": "Outline the clinical trial approval process"
+      },
+      {
+        "label": "c",
+        "text": "Determine the marketing effectiveness of the trial results"
+      },
+      {
+        "label": "d",
+        "text": "Monitor the financial status of the trial"
+      }
+    ],
+    "answer": "Ensure that all data is collected, recorded, and analyzed in compliance with the trial's objectives"
+  },
+  {
+    "question": "Which module in the e-CTD submission system contains information on clinical study reports and the results of clinical trials?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Module 1"
+      },
+      {
+        "label": "b",
+        "text": "Module 5"
+      },
+      {
+        "label": "c",
+        "text": "Module 4"
+      },
+      {
+        "label": "d",
+        "text": "Module 2"
+      }
+    ],
+    "answer": "Module 5"
+  },
+  {
+    "question": "Which of the following best describes the \"Life Cycle\" of an e-CTD submission?",
+    "options": [
+      {
+        "label": "a",
+        "text": "It describes the stages from clinical trial to drug approval."
+      },
+      {
+        "label": "b",
+        "text": "It is the period of time a drug is marketed and available to the public."
+      },
+      {
+        "label": "c",
+        "text": "It is the period during which stability testing is conducted."
+      },
+      {
+        "label": "d",
+        "text": "It refers to the entire sequence of submission, updates, and reviews of the regulatory submission."
+      }
+    ],
+    "answer": "It refers to the entire sequence of submission, updates, and reviews of the regulatory submission."
+  },
+  {
+    "question": "What is the main advantage of using the e-CTD format for regulatory submissions?",
+    "options": [
+      {
+        "label": "a",
+        "text": "It improves marketing effectiveness"
+      },
+      {
+        "label": "b",
+        "text": "It ensures compliance with tax laws"
+      },
+      {
+        "label": "c",
+        "text": "It allows paper-based submission for easier access"
+      },
+      {
+        "label": "d",
+        "text": "Faster review and approval process"
+      }
+    ],
+    "answer": "Faster review and approval process"
+  },
+  {
+    "question": "Which e-CTD module would you find the detailed batch manufacturing records for a drug product?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Module 4"
+      },
+      {
+        "label": "b",
+        "text": "Module 5"
+      },
+      {
+        "label": "c",
+        "text": "Module 3"
+      },
+      {
+        "label": "d",
+        "text": "Module 1"
+      }
+    ],
+    "answer": "Module 3"
+  },
+  {
+    "question": "What is the purpose of Module 5 in the e-CTD?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To provide the drug\u2019s patent information"
+      },
+      {
+        "label": "b",
+        "text": "To summarize the manufacturing process"
+      },
+      {
+        "label": "c",
+        "text": "To include the clinical study reports and data"
+      },
+      {
+        "label": "d",
+        "text": "To report marketing strategies"
+      }
+    ],
+    "answer": "To include the clinical study reports and data"
+  },
+  {
+    "question": "What does an \"e-CTD sequence\" refer to?",
+    "options": [
+      {
+        "label": "a",
+        "text": "The series of updates and changes submitted in the electronic format over time"
+      },
+      {
+        "label": "b",
+        "text": "The list of regulatory authorities reviewing the submission"
+      },
+      {
+        "label": "c",
+        "text": "The sequence of clinical trials conducted for drug approval"
+      },
+      {
+        "label": "d",
+        "text": "The order in which the marketing materials are presented"
+      }
+    ],
+    "answer": "The series of updates and changes submitted in the electronic format over time"
+  },
+  {
+    "question": "What does the term \"Abbreviated NDA\" refer to?",
+    "options": [
+      {
+        "label": "a",
+        "text": "An NDA for drugs that are biologically similar to an existing drug"
+      },
+      {
+        "label": "b",
+        "text": "A submission for drugs with limited clinical data"
+      },
+      {
+        "label": "c",
+        "text": "A simplified version of the full NDA submission"
+      },
+      {
+        "label": "d",
+        "text": "A special NDA for emergency drugs"
+      }
+    ],
+    "answer": "A simplified version of the full NDA submission"
+  },
+  {
+    "question": "Which of the following documents is critical for documenting the results of clinical trials?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Marketing Authorization Application"
+      },
+      {
+        "label": "b",
+        "text": "Clinical Study Report"
+      },
+      {
+        "label": "c",
+        "text": "Investigator's Brochure"
+      },
+      {
+        "label": "d",
+        "text": "Stability Study Protocol"
+      }
+    ],
+    "answer": "Clinical Study Report"
+  },
+  {
+    "question": "Under SUPAC, what must a company do if they make a change in the manufacturing process?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Notify the FDA and provide documentation on the change"
+      },
+      {
+        "label": "b",
+        "text": "Perform a bioequivalence study"
+      },
+      {
+        "label": "c",
+        "text": "Submit a new NDA"
+      },
+      {
+        "label": "d",
+        "text": "Re-submit all clinical trial data"
+      }
+    ],
+    "answer": "Notify the FDA and provide documentation on the change"
+  },
+  {
+    "question": "What is the role of the \"Sequence\" in an e-CTD submission?",
+    "options": [
+      {
+        "label": "a",
+        "text": "It indicates the order in which clinical trials should be conducted."
+      },
+      {
+        "label": "b",
+        "text": "It indicates the priority level of the submission."
+      },
+      {
+        "label": "c",
+        "text": "It tracks the financial details of the regulatory submission."
+      },
+      {
+        "label": "d",
+        "text": "It is used to track updates and amendments in the submission process."
+      }
+    ],
+    "answer": "It is used to track updates and amendments in the submission process."
+  },
+  {
+    "question": "What is the function of the \"Cover Letter\" in an e-CTD submission?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To list financial transactions related to the drug"
+      },
+      {
+        "label": "b",
+        "text": "To outline the clinical trial costs"
+      },
+      {
+        "label": "c",
+        "text": "To describe the expected approval timeline"
+      },
+      {
+        "label": "d",
+        "text": "To summarize the submission and provide contact information"
+      }
+    ],
+    "answer": "To summarize the submission and provide contact information"
+  },
+  {
+    "question": "Which type of document is required to establish the quality of raw materials in pharmaceutical manufacturing?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Sales Forecast"
+      },
+      {
+        "label": "b",
+        "text": "Marketing Approval Letter"
+      },
+      {
+        "label": "c",
+        "text": "Clinical Trial Protocol"
+      },
+      {
+        "label": "d",
+        "text": "Raw Material Specifications"
+      }
+    ],
+    "answer": "Raw Material Specifications"
+  },
+  {
+    "question": "Which type of regulatory filing is NOT submitted in the e-CTD format?",
+    "options": [
+      {
+        "label": "a",
+        "text": "New Drug Applications (NDAs)"
+      },
+      {
+        "label": "b",
+        "text": "Drug Safety Reports"
+      },
+      {
+        "label": "c",
+        "text": "Abbreviated New Drug Applications (ANDAs)"
+      },
+      {
+        "label": "d",
+        "text": "Investigational New Drug (IND) applications"
+      }
+    ],
+    "answer": "Drug Safety Reports"
+  },
+  {
+    "question": "Which e-CTD module typically includes information on non-clinical studies, such as animal testing?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Module 1"
+      },
+      {
+        "label": "b",
+        "text": "Module 2"
+      },
+      {
+        "label": "c",
+        "text": "Module 4"
+      },
+      {
+        "label": "d",
+        "text": "Module 5"
+      }
+    ],
+    "answer": "Module 4"
+  },
+  {
+    "question": "Which of the following is a common file format used in the e-CTD submission system?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Word documents"
+      },
+      {
+        "label": "b",
+        "text": "HTML files"
+      },
+      {
+        "label": "c",
+        "text": "PDF (Portable Document Format)"
+      },
+      {
+        "label": "d",
+        "text": "Excel files"
+      }
+    ],
+    "answer": "PDF (Portable Document Format)"
+  },
+  {
+    "question": "What does e-CTD stand for in the context of pharmaceutical regulatory submissions?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Electronic Clinical Trial Document"
+      },
+      {
+        "label": "b",
+        "text": "Electronic Common Technical Document"
+      },
+      {
+        "label": "c",
+        "text": "Environmental Compliance Technical Document"
+      },
+      {
+        "label": "d",
+        "text": "Electronic Comprehensive Technical Document"
+      }
+    ],
+    "answer": "Electronic Common Technical Document"
+  },
+  {
+    "question": "Which of the following is required when submitting an e-CTD application?",
+    "options": [
+      {
+        "label": "a",
+        "text": "A signed contract with the regulatory authority"
+      },
+      {
+        "label": "b",
+        "text": "A comprehensive business strategy"
+      },
+      {
+        "label": "c",
+        "text": "A market share analysis"
+      },
+      {
+        "label": "d",
+        "text": "A submission to the appropriate regulatory agency (e.g., FDA, EMA) in electronic format"
+      }
+    ],
+    "answer": "A submission to the appropriate regulatory agency (e.g., FDA, EMA) in electronic format"
+  },
+  {
+    "question": "Which of the following is typically included in a Post-Approval Change (PAC) report?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Clinical trial design updates"
+      },
+      {
+        "label": "b",
+        "text": "New marketing strategy"
+      },
+      {
+        "label": "c",
+        "text": "Financial audit results"
+      },
+      {
+        "label": "d",
+        "text": "Documentation of any changes made to the manufacturing process after product approval"
+      }
+    ],
+    "answer": "Documentation of any changes made to the manufacturing process after product approval"
+  },
+  {
+    "question": "What is the function of \"Module 2\" in an e-CTD submission?",
+    "options": [
+      {
+        "label": "a",
+        "text": "To provide detailed information on the manufacturing process"
+      },
+      {
+        "label": "b",
+        "text": "To list regulatory contact details"
+      },
+      {
+        "label": "c",
+        "text": "To include detailed clinical trial data and summaries"
+      },
+      {
+        "label": "d",
+        "text": "To summarize the non-clinical and clinical study reports"
+      }
+    ],
+    "answer": "To summarize the non-clinical and clinical study reports"
+  },
+  {
+    "question": "Which type of document tracks deviations from normal production procedures?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Change Control Report"
+      },
+      {
+        "label": "b",
+        "text": "Deviation Report"
+      },
+      {
+        "label": "c",
+        "text": "Financial Summary"
+      },
+      {
+        "label": "d",
+        "text": "Compliance Report"
+      }
+    ],
+    "answer": "Deviation Report"
+  },
+  {
+    "question": "Which file type is commonly used for submitting e-CTD documents to regulatory authorities?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Word documents"
+      },
+      {
+        "label": "b",
+        "text": "PDF files"
+      },
+      {
+        "label": "c",
+        "text": "HTML files"
+      },
+      {
+        "label": "d",
+        "text": "Excel files"
+      }
+    ],
+    "answer": "PDF files"
+  },
+  {
+    "question": "Which of the following is included in an NDA submission?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Preclinical and clinical trial data"
+      },
+      {
+        "label": "b",
+        "text": "Financial profit projections"
+      },
+      {
+        "label": "c",
+        "text": "Production cost of the drug"
+      },
+      {
+        "label": "d",
+        "text": "Patent protection documents"
+      }
+    ],
+    "answer": "Preclinical and clinical trial data"
+  },
+  {
+    "question": "What is included in a Clinical Study Protocol for a Phase III trial?",
+    "options": [
+      {
+        "label": "a",
+        "text": "A list of suppliers for raw materials"
+      },
+      {
+        "label": "b",
+        "text": "Procedures for submitting the drug for regulatory approval"
+      },
+      {
+        "label": "c",
+        "text": "The statistical analysis plan, inclusion/exclusion criteria, and dosing regimen"
+      },
+      {
+        "label": "d",
+        "text": "Marketing strategies for the clinical trial results"
+      }
+    ],
+    "answer": "The statistical analysis plan, inclusion/exclusion criteria, and dosing regimen"
+  }
+]

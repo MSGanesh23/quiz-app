@@ -1,0 +1,1762 @@
+[
+  {
+    "question": "If a particular color has a distinctive feature indicating the goods of a particular trade, it can be registered as:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Smell marks"
+      },
+      {
+        "label": "b",
+        "text": "Sounds marks"
+      },
+      {
+        "label": "c",
+        "text": "Shape marks"
+      },
+      {
+        "label": "d",
+        "text": "Colour trademark"
+      }
+    ],
+    "answer": "Colour trademark"
+  },
+  {
+    "question": "Which of the following fees must be paid to keep a granted patent in force in India?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Priority fee"
+      },
+      {
+        "label": "b",
+        "text": "Application fee"
+      },
+      {
+        "label": "c",
+        "text": "Examination fee"
+      },
+      {
+        "label": "d",
+        "text": "Renewal fee"
+      }
+    ],
+    "answer": "Renewal fee"
+  },
+  {
+    "question": "A computer programmer writes an original software code for data encryption. Which IPR applies here?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Trademark"
+      },
+      {
+        "label": "b",
+        "text": "Industrial Design"
+      },
+      {
+        "label": "c",
+        "text": "Patent"
+      },
+      {
+        "label": "d",
+        "text": "Copyright"
+      }
+    ],
+    "answer": "Copyright"
+  },
+  {
+    "question": "A pharmaceutical company develops a new pain relief drug with a unique chemical composition. Which type of IPR should be used to protect this invention?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Trademark"
+      },
+      {
+        "label": "b",
+        "text": "Patent"
+      },
+      {
+        "label": "c",
+        "text": "Geographical Indication"
+      },
+      {
+        "label": "d",
+        "text": "Copyright"
+      }
+    ],
+    "answer": "Patent"
+  },
+  {
+    "question": "One major function of WTO is to:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Enforce trade sanctions automatically"
+      },
+      {
+        "label": "b",
+        "text": "Control the global money supply"
+      },
+      {
+        "label": "c",
+        "text": "Serve as a forum for trade negotiations and dispute resolution"
+      },
+      {
+        "label": "d",
+        "text": "Regulate domestic industries"
+      }
+    ],
+    "answer": "Serve as a forum for trade negotiations and dispute resolution"
+  },
+  {
+    "question": "What cannot be patented in India?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Computer program"
+      },
+      {
+        "label": "b",
+        "text": "Method of agriculture"
+      },
+      {
+        "label": "c",
+        "text": "All of the above"
+      },
+      {
+        "label": "d",
+        "text": "A mere idea or a discovery"
+      }
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "A software company licenses its operating system to computer manufacturers. This practice is known as:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Infringement"
+      },
+      {
+        "label": "b",
+        "text": "Registration"
+      },
+      {
+        "label": "c",
+        "text": "Assignment"
+      },
+      {
+        "label": "d",
+        "text": "Licensing"
+      }
+    ],
+    "answer": "Licensing"
+  },
+  {
+    "question": "The WTO\u2019s Agreement on Agriculture (AoA) aims to:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Increase trade restrictions on agricultural goods"
+      },
+      {
+        "label": "b",
+        "text": "Nationalize farm products globally"
+      },
+      {
+        "label": "c",
+        "text": "Abolish subsidies for all members"
+      },
+      {
+        "label": "d",
+        "text": "Promote fair competition and market access in agriculture"
+      }
+    ],
+    "answer": "Promote fair competition and market access in agriculture"
+  },
+  {
+    "question": "GATT was replaced by the WTO after which trade negotiation round?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Geneva Round"
+      },
+      {
+        "label": "b",
+        "text": "Doha Round"
+      },
+      {
+        "label": "c",
+        "text": "Uruguay Round"
+      },
+      {
+        "label": "d",
+        "text": "Tokyo Round"
+      }
+    ],
+    "answer": "Uruguay Round"
+  },
+  {
+    "question": "The importance of a patent to an industry is to:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Improve existing technology"
+      },
+      {
+        "label": "b",
+        "text": "Increase production"
+      },
+      {
+        "label": "c",
+        "text": "All of the above"
+      },
+      {
+        "label": "d",
+        "text": "Identify suitable technologies for adaptation"
+      }
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "A new chocolate company copies the packaging style of a popular brand to mislead consumers. Which IPRs are affected?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Trademark and Industrial Design"
+      },
+      {
+        "label": "b",
+        "text": "Copyright only"
+      },
+      {
+        "label": "c",
+        "text": "GI only"
+      },
+      {
+        "label": "d",
+        "text": "Patent only"
+      }
+    ],
+    "answer": "Trademark and Industrial Design"
+  },
+  {
+    "question": "\u201cKanchipuram Silk Sarees\u201d are known for their unique weaving technique and regional identity. This product is protected by:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Copyright"
+      },
+      {
+        "label": "b",
+        "text": "Patent"
+      },
+      {
+        "label": "c",
+        "text": "Geographical Indication"
+      },
+      {
+        "label": "d",
+        "text": "Trademark"
+      }
+    ],
+    "answer": "Geographical Indication"
+  },
+  {
+    "question": "When the shape of goods or packaging has a distinctive feature, it can be registered as:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Sounds marks"
+      },
+      {
+        "label": "b",
+        "text": "Smell marks"
+      },
+      {
+        "label": "c",
+        "text": "Shape marks"
+      },
+      {
+        "label": "d",
+        "text": "Colour trademark"
+      }
+    ],
+    "answer": "Shape marks"
+  },
+  {
+    "question": "Which of the following is a key requirement for an invention to be patented?",
+    "options": [
+      {
+        "label": "a",
+        "text": "High cost"
+      },
+      {
+        "label": "b",
+        "text": "Confidentiality"
+      },
+      {
+        "label": "c",
+        "text": "Novelty"
+      },
+      {
+        "label": "d",
+        "text": "Trademarked"
+      }
+    ],
+    "answer": "Novelty"
+  },
+  {
+    "question": "A company designs a unique bottle shape for its perfume brand. Which protection prevents others from copying the shape?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Industrial Design"
+      },
+      {
+        "label": "b",
+        "text": "Copyright"
+      },
+      {
+        "label": "c",
+        "text": "Trademark"
+      },
+      {
+        "label": "d",
+        "text": "Patent"
+      }
+    ],
+    "answer": "Industrial Design"
+  },
+  {
+    "question": "The WTO principle that promotes transparency in trade policies requires members to:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Limit trade policy updates to once every decade"
+      },
+      {
+        "label": "b",
+        "text": "Keep their trade laws secret"
+      },
+      {
+        "label": "c",
+        "text": "Publish and notify all trade-related measures"
+      },
+      {
+        "label": "d",
+        "text": "Restrict information sharing among members"
+      }
+    ],
+    "answer": "Publish and notify all trade-related measures"
+  },
+  {
+    "question": "A country that grants tariff reduction to another WTO member must extend the same concession to all members. This demonstrates:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Most-Favoured-Nation (MFN) Principle"
+      },
+      {
+        "label": "b",
+        "text": "Reciprocity Principle"
+      },
+      {
+        "label": "c",
+        "text": "National Treatment"
+      },
+      {
+        "label": "d",
+        "text": "Transparency Principle"
+      }
+    ],
+    "answer": "Most-Favoured-Nation (MFN) Principle"
+  },
+  {
+    "question": "Intellectual property shall include the rights relating to:",
+    "options": [
+      {
+        "label": "a",
+        "text": "All of the above"
+      },
+      {
+        "label": "b",
+        "text": "Inventions in all fields"
+      },
+      {
+        "label": "c",
+        "text": "Industrial designs"
+      },
+      {
+        "label": "d",
+        "text": "Scientific discoveries"
+      }
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is administered by WIPO?",
+    "options": [
+      {
+        "label": "a",
+        "text": "GATT \u2013 General Agreement on Tariffs and Trade"
+      },
+      {
+        "label": "b",
+        "text": "PCT \u2013 Patent Cooperation Treaty"
+      },
+      {
+        "label": "c",
+        "text": "NAFTA \u2013 North American Free Trade Agreement"
+      },
+      {
+        "label": "d",
+        "text": "TRIPS \u2013 Trade-Related Aspects of Intellectual Property Rights"
+      }
+    ],
+    "answer": "PCT \u2013 Patent Cooperation Treaty"
+  },
+  {
+    "question": "Which of the following correctly describes the scope of WTO?",
+    "options": [
+      {
+        "label": "a",
+        "text": "It manages only tariff-related issues"
+      },
+      {
+        "label": "b",
+        "text": "It deals only with trade in goods"
+      },
+      {
+        "label": "c",
+        "text": "It acts only as a dispute resolution forum"
+      },
+      {
+        "label": "d",
+        "text": "It includes trade in goods, services, and intellectual property rights"
+      }
+    ],
+    "answer": "It includes trade in goods, services, and intellectual property rights"
+  },
+  {
+    "question": "The main difference between a trademark and a GI is that:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Trademarks identify a company; GIs identify origin and quality"
+      },
+      {
+        "label": "b",
+        "text": "There is no difference"
+      },
+      {
+        "label": "c",
+        "text": "GI refers to individual ownership"
+      },
+      {
+        "label": "d",
+        "text": "Trademarks are for industrial designs"
+      }
+    ],
+    "answer": "Trademarks identify a company; GIs identify origin and quality"
+  },
+  {
+    "question": "A video game company discovers that another firm has copied its graphics and storyline. Which right has been violated?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Patent"
+      },
+      {
+        "label": "b",
+        "text": "Copyright"
+      },
+      {
+        "label": "c",
+        "text": "Trademark"
+      },
+      {
+        "label": "d",
+        "text": "Industrial Design"
+      }
+    ],
+    "answer": "Copyright"
+  },
+  {
+    "question": "The exact recipe of Coco-Cola is a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Patent"
+      },
+      {
+        "label": "b",
+        "text": "Trade mark"
+      },
+      {
+        "label": "c",
+        "text": "Industrial design"
+      },
+      {
+        "label": "d",
+        "text": "Trade secret"
+      }
+    ],
+    "answer": "Trade secret"
+  },
+  {
+    "question": "How long does trade secret protection last?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Until the information is disclosed or no longer secret"
+      },
+      {
+        "label": "b",
+        "text": "Until the company dissolves"
+      },
+      {
+        "label": "c",
+        "text": "10 years"
+      },
+      {
+        "label": "d",
+        "text": "20 years"
+      }
+    ],
+    "answer": "Until the information is disclosed or no longer secret"
+  },
+  {
+    "question": "The binding dispute resolution mechanism of WTO differs from GATT because:",
+    "options": [
+      {
+        "label": "a",
+        "text": "GATT decisions were not legally enforceable"
+      },
+      {
+        "label": "b",
+        "text": "WTO cannot impose any penalties"
+      },
+      {
+        "label": "c",
+        "text": "WTO decisions are purely advisory"
+      },
+      {
+        "label": "d",
+        "text": "GATT included criminal penalties for trade violations"
+      }
+    ],
+    "answer": "GATT decisions were not legally enforceable"
+  },
+  {
+    "question": "Which of the following best describes misappropriation of trade secrets?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Illegally obtaining confidential business information"
+      },
+      {
+        "label": "b",
+        "text": "Reverse engineering a product legally"
+      },
+      {
+        "label": "c",
+        "text": "Copying a public patent"
+      },
+      {
+        "label": "d",
+        "text": "Using one\u2019s own business knowledge"
+      }
+    ],
+    "answer": "Illegally obtaining confidential business information"
+  },
+  {
+    "question": "The importance of a patent to a researcher/inventor in industry/R & D organization/university is to:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Keep up to date with developments in the field of technology"
+      },
+      {
+        "label": "b",
+        "text": "All of the above"
+      },
+      {
+        "label": "c",
+        "text": "Find ready solutions to technical problems in ongoing research"
+      },
+      {
+        "label": "d",
+        "text": "Avoid duplication of research"
+      }
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "How long is a plant patent valid for?",
+    "options": [
+      {
+        "label": "a",
+        "text": "5 years"
+      },
+      {
+        "label": "b",
+        "text": "10 years"
+      },
+      {
+        "label": "c",
+        "text": "20 years"
+      },
+      {
+        "label": "d",
+        "text": "15 years"
+      }
+    ],
+    "answer": "20 years"
+  },
+  {
+    "question": "If the invention improves some product, process or service for the public, then that invention transforms into:",
+    "options": [
+      {
+        "label": "a",
+        "text": "An incremental development"
+      },
+      {
+        "label": "b",
+        "text": "A discovery"
+      },
+      {
+        "label": "c",
+        "text": "None of the above"
+      },
+      {
+        "label": "d",
+        "text": "An innovation"
+      }
+    ],
+    "answer": "An innovation"
+  },
+  {
+    "question": "Trademark refers to:",
+    "options": [
+      {
+        "label": "a",
+        "text": "A form of taxation"
+      },
+      {
+        "label": "b",
+        "text": "A recognizable sign, design, or expression"
+      },
+      {
+        "label": "c",
+        "text": "A literary work"
+      },
+      {
+        "label": "d",
+        "text": "A secret business process"
+      }
+    ],
+    "answer": "A recognizable sign, design, or expression"
+  },
+  {
+    "question": "A textile company in Tamil Nadu copies the embroidery design of another local brand. Which IPR is being infringed?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Copyright"
+      },
+      {
+        "label": "b",
+        "text": "Industrial Design"
+      },
+      {
+        "label": "c",
+        "text": "Trademark"
+      },
+      {
+        "label": "d",
+        "text": "Patent"
+      }
+    ],
+    "answer": "Industrial Design"
+  },
+  {
+    "question": "A word mark primarily protects:",
+    "options": [
+      {
+        "label": "a",
+        "text": "The 3D shape of a product"
+      },
+      {
+        "label": "b",
+        "text": "The literal text or words used in a brand"
+      },
+      {
+        "label": "c",
+        "text": "The colour scheme of the packaging"
+      },
+      {
+        "label": "d",
+        "text": "The sound of a brand name"
+      }
+    ],
+    "answer": "The literal text or words used in a brand"
+  },
+  {
+    "question": "A sign which is perceived by hearing and is distinguishable by their distinctive and exclusive sound can be registered as:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Colour trademark"
+      },
+      {
+        "label": "b",
+        "text": "Shape marks"
+      },
+      {
+        "label": "c",
+        "text": "Smell marks"
+      },
+      {
+        "label": "d",
+        "text": "Sounds marks"
+      }
+    ],
+    "answer": "Sounds marks"
+  },
+  {
+    "question": "A patent protects:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Business reputation"
+      },
+      {
+        "label": "b",
+        "text": "Inventions and innovations"
+      },
+      {
+        "label": "c",
+        "text": "Brand names and logos"
+      },
+      {
+        "label": "d",
+        "text": "Literary work"
+      }
+    ],
+    "answer": "Inventions and innovations"
+  },
+  {
+    "question": "The establishment of the WTO strengthened GATT by:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Reducing member participation"
+      },
+      {
+        "label": "b",
+        "text": "Introducing enforceable dispute settlement and expanded coverage"
+      },
+      {
+        "label": "c",
+        "text": "Eliminating the MFN clause"
+      },
+      {
+        "label": "d",
+        "text": "Abolishing the National Treatment principle"
+      }
+    ],
+    "answer": "Introducing enforceable dispute settlement and expanded coverage"
+  },
+  {
+    "question": "A design will not be registered if it:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Has already been disclosed to the public anywhere"
+      },
+      {
+        "label": "b",
+        "text": "Is novel and non-functional"
+      },
+      {
+        "label": "c",
+        "text": "Is purely decorative"
+      },
+      {
+        "label": "d",
+        "text": "Is related to a manufactured product"
+      }
+    ],
+    "answer": "Has already been disclosed to the public anywhere"
+  },
+  {
+    "question": "Which of the following is a primary source of patent information?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Scientific journals"
+      },
+      {
+        "label": "b",
+        "text": "Wikipedia"
+      },
+      {
+        "label": "c",
+        "text": "Newspapers"
+      },
+      {
+        "label": "d",
+        "text": "Patent offices and their databases"
+      }
+    ],
+    "answer": "Patent offices and their databases"
+  },
+  {
+    "question": "A tech startup invents a new solar-powered drone and registers a name \u201cSunFly\u201d for it. Which combination of IPRs provides full protection?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Patent for invention, Trademark for brand name"
+      },
+      {
+        "label": "b",
+        "text": "Trademark for invention, Copyright for name"
+      },
+      {
+        "label": "c",
+        "text": "Industrial Design for name, Patent for brand"
+      },
+      {
+        "label": "d",
+        "text": "Copyright for invention, GI for product"
+      }
+    ],
+    "answer": "Patent for invention, Trademark for brand name"
+  },
+  {
+    "question": "A sculptor\u2019s original statue design is reproduced by another artist without permission. What has been violated?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Copyright"
+      },
+      {
+        "label": "b",
+        "text": "Industrial Design"
+      },
+      {
+        "label": "c",
+        "text": "Patent"
+      },
+      {
+        "label": "d",
+        "text": "Trademark"
+      }
+    ],
+    "answer": "Copyright"
+  },
+  {
+    "question": "What does WIPO stand for?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Worldwide Intellectual Patent Organization"
+      },
+      {
+        "label": "b",
+        "text": "World Information and Privacy Organization"
+      },
+      {
+        "label": "c",
+        "text": "World Intellectual Property Organization"
+      },
+      {
+        "label": "d",
+        "text": "World International Patent Office"
+      }
+    ],
+    "answer": "World Intellectual Property Organization"
+  },
+  {
+    "question": "What type of intellectual property protects inventions?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Copyright"
+      },
+      {
+        "label": "b",
+        "text": "Trademark"
+      },
+      {
+        "label": "c",
+        "text": "Patent"
+      },
+      {
+        "label": "d",
+        "text": "Trade secret"
+      }
+    ],
+    "answer": "Patent"
+  },
+  {
+    "question": "An artist paints a portrait and sells prints of it. What form of protection covers this artwork?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Patent"
+      },
+      {
+        "label": "b",
+        "text": "Copyright"
+      },
+      {
+        "label": "c",
+        "text": "Trademark"
+      },
+      {
+        "label": "d",
+        "text": "Industrial Design"
+      }
+    ],
+    "answer": "Copyright"
+  },
+  {
+    "question": "A perfume company uses the brand name \u201cChanel No.5\u201d without authorization. Which law applies?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Copyright Act"
+      },
+      {
+        "label": "b",
+        "text": "Patent Act"
+      },
+      {
+        "label": "c",
+        "text": "GI Act"
+      },
+      {
+        "label": "d",
+        "text": "Trademark Act"
+      }
+    ],
+    "answer": "Trademark Act"
+  },
+  {
+    "question": "An application which can be filed if the invention is still under the experimentation stage is:",
+    "options": [
+      {
+        "label": "a",
+        "text": "PCT International application"
+      },
+      {
+        "label": "b",
+        "text": "Convention application"
+      },
+      {
+        "label": "c",
+        "text": "Ordinary application"
+      },
+      {
+        "label": "d",
+        "text": "Provisional application"
+      }
+    ],
+    "answer": "Provisional application"
+  },
+  {
+    "question": "How long is a design patent valid for?",
+    "options": [
+      {
+        "label": "a",
+        "text": "20 years"
+      },
+      {
+        "label": "b",
+        "text": "5 years"
+      },
+      {
+        "label": "c",
+        "text": "10 years"
+      },
+      {
+        "label": "d",
+        "text": "14 years"
+      }
+    ],
+    "answer": "14 years"
+  },
+  {
+    "question": "Under the WTO framework, agreements on Trade-Related Aspects of Intellectual Property Rights (TRIPS) were introduced to:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Regulate agricultural subsidies"
+      },
+      {
+        "label": "b",
+        "text": "Protect intellectual property in international trade"
+      },
+      {
+        "label": "c",
+        "text": "Liberalize banking and financial services"
+      },
+      {
+        "label": "d",
+        "text": "Restrict global patent protection"
+      }
+    ],
+    "answer": "Protect intellectual property in international trade"
+  },
+  {
+    "question": "The WTO\u2019s Trade Policy Review Mechanism (TPRM) aims to:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Monitor currency exchange rates"
+      },
+      {
+        "label": "b",
+        "text": "Review and enhance transparency in national trade policies"
+      },
+      {
+        "label": "c",
+        "text": "Penalize countries with trade deficits"
+      },
+      {
+        "label": "d",
+        "text": "Provide loans for trade expansion"
+      }
+    ],
+    "answer": "Review and enhance transparency in national trade policies"
+  },
+  {
+    "question": "The exclusive rights given to the inventor through a patent include:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Right to copyright the invention"
+      },
+      {
+        "label": "b",
+        "text": "Right to import only"
+      },
+      {
+        "label": "c",
+        "text": "Right to share it freely"
+      },
+      {
+        "label": "d",
+        "text": "Right to make, use, and sell the invention"
+      }
+    ],
+    "answer": "Right to make, use, and sell the invention"
+  },
+  {
+    "question": "The classic contour shape of a Coco-cola bottle is a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Patent"
+      },
+      {
+        "label": "b",
+        "text": "Trade secret"
+      },
+      {
+        "label": "c",
+        "text": "Trade mark"
+      },
+      {
+        "label": "d",
+        "text": "Industrial design"
+      }
+    ],
+    "answer": "Industrial design"
+  },
+  {
+    "question": "A music company registers the logo and slogan used for all its products. This is an example of:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Design"
+      },
+      {
+        "label": "b",
+        "text": "Copyright"
+      },
+      {
+        "label": "c",
+        "text": "Trademark"
+      },
+      {
+        "label": "d",
+        "text": "Patent"
+      }
+    ],
+    "answer": "Trademark"
+  },
+  {
+    "question": "A designer creates a unique jewelry design that becomes a trend. Which protection should be obtained?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Industrial Design"
+      },
+      {
+        "label": "b",
+        "text": "Patent"
+      },
+      {
+        "label": "c",
+        "text": "Copyright"
+      },
+      {
+        "label": "d",
+        "text": "Trademark"
+      }
+    ],
+    "answer": "Industrial Design"
+  },
+  {
+    "question": "The Dispute Settlement Body (DSB) in WTO functions to:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Impose economic sanctions"
+      },
+      {
+        "label": "b",
+        "text": "Resolve trade conflicts among member countries"
+      },
+      {
+        "label": "c",
+        "text": "Regulate tariff ceilings"
+      },
+      {
+        "label": "d",
+        "text": "Enforce intellectual property laws globally"
+      }
+    ],
+    "answer": "Resolve trade conflicts among member countries"
+  },
+  {
+    "question": "A patent granted by mistake or due to false representation can be:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Transferred"
+      },
+      {
+        "label": "b",
+        "text": "Commercialized"
+      },
+      {
+        "label": "c",
+        "text": "Invalidated"
+      },
+      {
+        "label": "d",
+        "text": "Renewed"
+      }
+    ],
+    "answer": "Invalidated"
+  },
+  {
+    "question": "What cannot be patented in India?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Traditional knowledge"
+      },
+      {
+        "label": "b",
+        "text": "All of the above"
+      },
+      {
+        "label": "c",
+        "text": "Atomic energy"
+      },
+      {
+        "label": "d",
+        "text": "Process of treating animals and humans"
+      }
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Geographical Indication (GI) is a type of IPR that:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Is used to patent inventions"
+      },
+      {
+        "label": "b",
+        "text": "Applies only to geographical maps"
+      },
+      {
+        "label": "c",
+        "text": "Protects domain names"
+      },
+      {
+        "label": "d",
+        "text": "Identifies goods with a specific geographical origin"
+      }
+    ],
+    "answer": "Identifies goods with a specific geographical origin"
+  },
+  {
+    "question": "The Most-Favoured-Nation (MFN) principle ensures:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Preferential treatment to least developed countries"
+      },
+      {
+        "label": "b",
+        "text": "Equal trade advantages to all member nations"
+      },
+      {
+        "label": "c",
+        "text": "Trade restrictions based on political alliances"
+      },
+      {
+        "label": "d",
+        "text": "Exemption of developing countries from tariffs"
+      }
+    ],
+    "answer": "Equal trade advantages to all member nations"
+  },
+  {
+    "question": "Trade secrets are protected by:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Publishing in a journal"
+      },
+      {
+        "label": "b",
+        "text": "Registration with the government"
+      },
+      {
+        "label": "c",
+        "text": "Copyright law"
+      },
+      {
+        "label": "d",
+        "text": "Maintaining confidentiality"
+      }
+    ],
+    "answer": "Maintaining confidentiality"
+  },
+  {
+    "question": "What are all the ways to file a patent application?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Application submitted by hand"
+      },
+      {
+        "label": "b",
+        "text": "Post"
+      },
+      {
+        "label": "c",
+        "text": "Online/E-filing"
+      },
+      {
+        "label": "d",
+        "text": "All of the above"
+      }
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "A farmer develops a new variety of wheat with high yield. Which IPR can provide protection?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Trademark"
+      },
+      {
+        "label": "b",
+        "text": "Plant Variety Protection"
+      },
+      {
+        "label": "c",
+        "text": "Copyright"
+      },
+      {
+        "label": "d",
+        "text": "Industrial Design"
+      }
+    ],
+    "answer": "Plant Variety Protection"
+  },
+  {
+    "question": "A restaurant chain uses a specific logo and tagline to identify its brand. Which IPR protects these?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Industrial Design"
+      },
+      {
+        "label": "b",
+        "text": "Copyright"
+      },
+      {
+        "label": "c",
+        "text": "Trademark"
+      },
+      {
+        "label": "d",
+        "text": "Patent"
+      }
+    ],
+    "answer": "Trademark"
+  },
+  {
+    "question": "The primary goal of GATT when it was established in 1947 was to:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Provide financial aid to developing countries"
+      },
+      {
+        "label": "b",
+        "text": "Promote free trade by reducing trade barriers and tariffs"
+      },
+      {
+        "label": "c",
+        "text": "Regulate exchange rates among member nations"
+      },
+      {
+        "label": "d",
+        "text": "Manage agricultural subsidies and domestic prices"
+      }
+    ],
+    "answer": "Promote free trade by reducing trade barriers and tariffs"
+  },
+  {
+    "question": "One significant achievement of the Uruguay Round of GATT negotiations was:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Creation of the World Trade Organization"
+      },
+      {
+        "label": "b",
+        "text": "Replacement of tariff negotiations with subsidies"
+      },
+      {
+        "label": "c",
+        "text": "Elimination of all non-tariff barriers"
+      },
+      {
+        "label": "d",
+        "text": "Introduction of regional trade blocs"
+      }
+    ],
+    "answer": "Creation of the World Trade Organization"
+  },
+  {
+    "question": "Developing countries benefit from WTO membership primarily because:",
+    "options": [
+      {
+        "label": "a",
+        "text": "They can impose unlimited trade restrictions"
+      },
+      {
+        "label": "b",
+        "text": "They receive automatic tariff exemptions"
+      },
+      {
+        "label": "c",
+        "text": "They gain access to global markets under predictable and fair trade rules"
+      },
+      {
+        "label": "d",
+        "text": "They are excluded from dispute settlements"
+      }
+    ],
+    "answer": "They gain access to global markets under predictable and fair trade rules"
+  },
+  {
+    "question": "A craftsman in Kashmir produces \u201cPashmina Shawls\u201d that have received GI status. Selling fake shawls under this name violates:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Trademark Law"
+      },
+      {
+        "label": "b",
+        "text": "Patent Law"
+      },
+      {
+        "label": "c",
+        "text": "Copyright Law"
+      },
+      {
+        "label": "d",
+        "text": "Geographical Indication Law"
+      }
+    ],
+    "answer": "Geographical Indication Law"
+  },
+  {
+    "question": "The Doha Development Agenda (DDA) launched under WTO focused mainly on:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Increasing tariffs in developed nations"
+      },
+      {
+        "label": "b",
+        "text": "Abolishing agricultural trade"
+      },
+      {
+        "label": "c",
+        "text": "Reducing intellectual property protections"
+      },
+      {
+        "label": "d",
+        "text": "Addressing trade concerns of developing and least-developed countries"
+      }
+    ],
+    "answer": "Addressing trade concerns of developing and least-developed countries"
+  },
+  {
+    "question": "Which of the following can be protected under industrial design law?",
+    "options": [
+      {
+        "label": "a",
+        "text": "A new software algorithm"
+      },
+      {
+        "label": "b",
+        "text": "The written script of a play"
+      },
+      {
+        "label": "c",
+        "text": "The manufacturing process of a product"
+      },
+      {
+        "label": "d",
+        "text": "The shape and pattern of a bottle"
+      }
+    ],
+    "answer": "The shape and pattern of a bottle"
+  },
+  {
+    "question": "The name and logo of a Coco-Cola is a:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Trade mark"
+      },
+      {
+        "label": "b",
+        "text": "Trade secret"
+      },
+      {
+        "label": "c",
+        "text": "Patent"
+      },
+      {
+        "label": "d",
+        "text": "Industrial design"
+      }
+    ],
+    "answer": "Trade mark"
+  },
+  {
+    "question": "A plant patent can be granted for which of the following?",
+    "options": [
+      {
+        "label": "a",
+        "text": "A genetically modified plant that reproduces asexually"
+      },
+      {
+        "label": "b",
+        "text": "An ornamental feature of a flower pot"
+      },
+      {
+        "label": "c",
+        "text": "A new method of growing tomatoes"
+      },
+      {
+        "label": "d",
+        "text": "A naturally occurring wild plant"
+      }
+    ],
+    "answer": "A genetically modified plant that reproduces asexually"
+  },
+  {
+    "question": "A film producer wants to prevent others from copying scenes from his movie. Which IPR is applicable?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Copyright"
+      },
+      {
+        "label": "b",
+        "text": "Industrial Design"
+      },
+      {
+        "label": "c",
+        "text": "Trademark"
+      },
+      {
+        "label": "d",
+        "text": "Patent"
+      }
+    ],
+    "answer": "Copyright"
+  },
+  {
+    "question": "A patent application without claiming any priority either in a convention country or without any reference to any other earlier application filed in the Patent Office is:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Ordinary application"
+      },
+      {
+        "label": "b",
+        "text": "Provisional application"
+      },
+      {
+        "label": "c",
+        "text": "Convention application"
+      },
+      {
+        "label": "d",
+        "text": "PCT International application"
+      }
+    ],
+    "answer": "Ordinary application"
+  },
+  {
+    "question": "When the smell if distinctive and cannot be mistaken for an associated product, it can be registered as:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Shape marks"
+      },
+      {
+        "label": "b",
+        "text": "Sounds marks"
+      },
+      {
+        "label": "c",
+        "text": "Smell marks"
+      },
+      {
+        "label": "d",
+        "text": "Colour trademark"
+      }
+    ],
+    "answer": "Smell marks"
+  },
+  {
+    "question": "The \u00ae symbol next to a brand name indicates:",
+    "options": [
+      {
+        "label": "a",
+        "text": "The brand is under a franchise agreement"
+      },
+      {
+        "label": "b",
+        "text": "The brand is pending registration"
+      },
+      {
+        "label": "c",
+        "text": "The brand has a copyright"
+      },
+      {
+        "label": "d",
+        "text": "The brand is a registered trademark"
+      }
+    ],
+    "answer": "The brand is a registered trademark"
+  },
+  {
+    "question": "Geographical Indication (GI) is a type of:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Trademark"
+      },
+      {
+        "label": "b",
+        "text": "Copyright"
+      },
+      {
+        "label": "c",
+        "text": "Intellectual Property"
+      },
+      {
+        "label": "d",
+        "text": "Patent"
+      }
+    ],
+    "answer": "Intellectual Property"
+  },
+  {
+    "question": "One key difference between GATT and WTO is that the WTO:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Is a permanent institution with a legal framework for dispute settlement"
+      },
+      {
+        "label": "b",
+        "text": "Focuses only on goods, while GATT includes services"
+      },
+      {
+        "label": "c",
+        "text": "Operates without a formal dispute resolution system"
+      },
+      {
+        "label": "d",
+        "text": "Does not include agricultural products under its rules"
+      }
+    ],
+    "answer": "Is a permanent institution with a legal framework for dispute settlement"
+  },
+  {
+    "question": "What does a trademark primarily protect?",
+    "options": [
+      {
+        "label": "a",
+        "text": "A brand name, logo, or symbol"
+      },
+      {
+        "label": "b",
+        "text": "A company\u2019s annual profits"
+      },
+      {
+        "label": "c",
+        "text": "The ingredients of a product"
+      },
+      {
+        "label": "d",
+        "text": "The technical function of a product"
+      }
+    ],
+    "answer": "A brand name, logo, or symbol"
+  },
+  {
+    "question": "What is a trade secret?",
+    "options": [
+      {
+        "label": "a",
+        "text": "A type of government record"
+      },
+      {
+        "label": "b",
+        "text": "Confidential business information that provides a competitive edge"
+      },
+      {
+        "label": "c",
+        "text": "A government-approved trademark"
+      },
+      {
+        "label": "d",
+        "text": "A publicly disclosed patent"
+      }
+    ],
+    "answer": "Confidential business information that provides a competitive edge"
+  },
+  {
+    "question": "A publishing house finds that its textbook has been photocopied and sold illegally. Which IPR has been violated?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Patent"
+      },
+      {
+        "label": "b",
+        "text": "Copyright"
+      },
+      {
+        "label": "c",
+        "text": "Trademark"
+      },
+      {
+        "label": "d",
+        "text": "Industrial Design"
+      }
+    ],
+    "answer": "Copyright"
+  },
+  {
+    "question": "Which of the following is a well-known GI from India?",
+    "options": [
+      {
+        "label": "a",
+        "text": "Xerox"
+      },
+      {
+        "label": "b",
+        "text": "Basmati rice"
+      },
+      {
+        "label": "c",
+        "text": "Microsoft Windows"
+      },
+      {
+        "label": "d",
+        "text": "Apple logo"
+      }
+    ],
+    "answer": "Basmati rice"
+  },
+  {
+    "question": "The principle of National Treatment under WTO implies that:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Domestic producers must get subsidies over foreign competitors"
+      },
+      {
+        "label": "b",
+        "text": "Domestic and imported goods must receive equal treatment after entering the market"
+      },
+      {
+        "label": "c",
+        "text": "Foreign goods must be treated less favorably than domestic goods"
+      },
+      {
+        "label": "d",
+        "text": "Trade barriers must be eliminated completely"
+      }
+    ],
+    "answer": "Domestic and imported goods must receive equal treatment after entering the market"
+  },
+  {
+    "question": "The Reciprocity Principle in GATT negotiations primarily means:",
+    "options": [
+      {
+        "label": "a",
+        "text": "Developing countries should always match developed countries\u2019 concessions"
+      },
+      {
+        "label": "b",
+        "text": "No country should benefit from trade liberalization"
+      },
+      {
+        "label": "c",
+        "text": "Countries should impose equal tariffs"
+      },
+      {
+        "label": "d",
+        "text": "Members must offer equivalent trade concessions to each other"
+      }
+    ],
+    "answer": "Members must offer equivalent trade concessions to each other"
+  }
+]
